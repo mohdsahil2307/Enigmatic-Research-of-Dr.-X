@@ -1,0 +1,1009 @@
+SAGE Open Medicine
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons  
+Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, 
+reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open 
+Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+https://doi.org/10.1177/20503121211034366
+SAGE Open Medicine
+Volume 9: 1­–10
+© The Author(s) 2021
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/20503121211034366
+journals.sagepub.com/home/smo
+Introduction
+Cancer is a global health problem responsible for one in six 
+deaths worldwide. In 2020, there were an estimated 19.3 
+million new cancer cases and about 10 million cancer deaths 
+globally. Cancer is a very complicated sequence of disease 
+conditions progressing gradually with a generalized loss of 
+growth control.1–3 There were only a few options of cancer 
+treatment for patients for many decades which include sur-
+gery, radiation therapy, and chemotherapy as single treat-
+ments or in combination.4,5 But recently, many pathways 
+involved in cancer therapy progression and how they can be 
+targeted has improved dramatically, with combinatorial 
+strategies, involving multiple targeted therapies or “tradi-
+tional” chemotherapeutics, such as the taxanes and platinum 
+compounds, being found to have a synergistic eﬀect.6 New 
+approaches, such as drugs, biological molecules, and 
+immune-mediated therapies, are being used for treatment 
+even if the excepted therapy level has not reached that 
+resists the mortality rate and decreases the prolonged sur-
+vival time for metastatic cancer.
+The creation of a new revolution in neoplastic cancer or 
+targeting drugs depends on the pathways and characteristics 
+of different tumor entities.7 Chemotherapy is considered the 
+most effective and widely used modality in treating cancers 
+New approaches and procedures for  
+cancer treatment: Current perspectives
+Dejene Tolossa Debela1
+, Seke GY Muzazu1,2,  
+Kidist Digamo Heraro1,3, Maureen Tayamika Ndalama1, 
+ Betelhiem Woldemedhin Mesele1,4, Dagimawi Chilot Haile1,5, 
+Sophia Khalayi Kitui1 and Tsegahun Manyazewal1
+ 
+Abstract
+Cancer is a global health problem responsible for one in six deaths worldwide. Treating cancer has been a highly complex 
+process. Conventional treatment approaches, such as surgery, chemotherapy, and radiotherapy, have been in use, while 
+significant advances are being made in recent times, including stem cell therapy, targeted therapy, ablation therapy, 
+nanoparticles, natural antioxidants, radionics, chemodynamic therapy, sonodynamic therapy, and ferroptosis-based therapy. 
+Current methods in oncology focus on the development of safe and efficient cancer nanomedicines. Stem cell therapy has 
+brought promising efficacy in regenerating and repairing diseased or damaged tissues by targeting both primary and metastatic 
+cancer foci, and nanoparticles brought new diagnostic and therapeutic options. Targeted therapy possessed breakthrough 
+potential inhibiting the growth and spread of specific cancer cells, causing less damage to healthy cells. Ablation therapy 
+has emerged as a minimally invasive procedure that burns or freezes cancers without the need for open surgery. Natural 
+antioxidants demonstrated potential tracking down free radicals and neutralizing their harmful effects thereby treating or 
+preventing cancer. Several new technologies are currently under research in clinical trials, and some of them have already 
+been approved. This review presented an update on recent advances and breakthroughs in cancer therapies.
+Keywords
+Cancer, treatment, stem cell, targeted drugs, ablation, natural antioxidants, gene therapy
+Date received: 4 March 2021; accepted: 5 July 2021
+1Center for Innovative Drug Development and Therapeutic Trials for 
+Africa (CDT-Africa), College of Health Sciences, Addis Ababa University, 
+Addis Ababa, Ethiopia
+2Enteric Diseases and Vaccines Research Unit, Centre for Infectious 
+Disease Research in Zambia (CIDRZ), Lusaka, Zambia
+3Wachemo University, Hossana, Ethiopia
+4Kotebe Metropolitan University, Addis Ababa, Ethiopia
+5University of Gondar, Gondar, Ethiopia
+Corresponding author:
+Dejene Tolossa Debela, Center for Innovative Drug Development and 
+Therapeutic Trials for Africa (CDT-Africa), College of Health Sciences, 
+Addis Ababa University, P.O. Box 9086, Addis Ababa, Ethiopia. 
+Email: dejene.tolossa@aau.edu.et
+1034366 SMO0010.1177/20503121211034366SAGE Open MedicineDebela et al.
+research-article2021
+Review
+
+2	
+SAGE Open Medicine
+as used alone or in combination with radiotherapy. 
+Genotoxicity is how chemotherapy drugs target the tumor 
+cells mainly producing reactive oxygen species that largely 
+destroy tumor cells.8 Hormonal treatments are also widely 
+used for cancer malignancies and considered as cytostatic 
+because it restricts tumor development by limiting the hor-
+monal growth factors acting through the direction of hypo-
+thalamic–pituitary–gonadal axis (HPGA), hormone receptor 
+blockage, and limiting of adrenal steroid synthesis.9
+In this narrative review, a general overview of the most 
+advanced and novel cancer therapies was provided. In addi-
+tion, also new strategies currently under investigation at the 
+research stage that should overwhelm the drawbacks of 
+standard therapies; different strategies to cancer diagnosis 
+and therapy; and their current status in the clinical context, 
+underlining their impact as innovative anti-cancer approaches.
+Cancer treatment modalities
+We can see cancer treatment modalities by dividing them into 
+conventional (traditional) and advanced or novel or modern 
+categories. In this era worldwide, over half of all ongoing 
+medical treatment trials are focusing on cancer treatments.7 
+Entities, such as the type of cancer, its site, and severity, guide 
+to select treatment options and its progress. The most widely 
+used traditional treatment methods are surgery, chemotherapy, 
+and radiotherapy, while modern modalities include hormone 
+therapy, anti-angiogenic, stem cell therapies, immunotherapy, 
+and dendritic cell-based immunotherapy.10
+Conventional cancer therapies
+The most recommended conventional cancer treatment strat-
+egies include surgical resection of the tumors followed by 
+radiotherapy with x-rays and/or chemotherapy.11 Of these 
+modalities, surgery is most effective at an early stage of dis-
+ease progression. Radiation therapy can damage healthy 
+cells, organs, and tissues. Although chemotherapy has 
+reduced morbidity and mortality, virtually all chemothera-
+peutic agents damage healthy cells, especially rapidly divid-
+ing and growing cells.12 Drug resistance, a major problem 
+with chemotherapy, is a phenomenon wherein cancer cells 
+that initially were suppressed by an anti-cancer drug develop 
+resistance to the drug. This is caused primarily by reduced 
+drug uptake and increased drug efflux.13 Limitations of con-
+ventional chemotherapeutic modality, such as dosage selec-
+tion difficulty, lack of specificity, rapid drug metabolism, 
+and mainly harmful side effects.14
+Advanced and innovative cancer 
+therapies
+Among the obstacles of cancer, drug resistance and its deliv-
+ery systems are the most problem in cancer cure and decreas-
+ing signs and symptoms; but currently, there are many 
+approved treatment approaches and drugs. The efficiency of 
+conventional cancer is reduced due to tumor pathology and 
+architectural abnormality of tumor tissue blood vessels.15 
+The following are the advanced and innovative cancer ther-
+apy types with their benefits and challenges.
+Stem cells therapy
+Stem cells are undifferentiated cells present in the bone mar-
+row (BM) with an ability to differentiate into any type of 
+body cell. Stem cell therapeutic strategy is also one of the 
+treatment options for cancer which are considered to be safe 
+and effective. Application of stem cell is yet in the experi-
+mental clinical trial; for example, their use in the regenera-
+tion of other damaged tissue is being explored. Mesenchymal 
+stem cells (MSCs) are currently being used in trials that are 
+delivered from the BM, fat tissues, and connective tissues.16
+Pluripotent stem cells
+Embryonic stem cells (ESCs) isolated from the uniform 
+inner mass cells of the embryo possess the flexibility to 
+administer rise to any or all kinds of cells except those within 
+the placenta. In 2006, the invention of Yamanaka factors to 
+induce pluripotent stem cells (iPSCs) from physical cells in 
+a culture marked a breakthrough in cell biology.17 Avoiding 
+ethical issues from embryo destruction, iPSCs and ESCs 
+have the same characteristics. Hematopoietic embryonic 
+stem cells (hESCs) and iPSCs are currently used for the 
+induction of effector T cells and natural killer (NK) cells,18 
+and anti-tumor vaccine preparation.19
+Adult stem cells
+Adult stem cells (ASCs) groups often used in tumor therapy 
+include hematopoietic stem cells (HSCs), MSCs, and neural 
+stem cells (NSCs). HSCs, located in BM, can form all mature 
+blood cells in the body. Currently, only approved by the Food 
+and Drug Administration (FDA) is the infusion of HSCs 
+derived from cord blood to treat multiple myeloma and leu-
+kemia.20 MSCs are found in many tissues and organs, play-
+ing important roles in tissue repair and regeneration into 
+cells, such as osteocytes, adipocytes, and chondrocytes. 
+MSCs have special biological characteristics and are used as 
+complimentary with other approaches in treating tumors.21 
+NSCs can self-renew and generate new neurons and glial 
+cells and are used for treating both primary and metastatic 
+breast and other tumors.22
+Cancer stem cells
+Cancer stem cells (CSCs) are generated in normal stem cells 
+or precursor/progenitor cells by the epigenetic mutations 
+process. Their role in tumor treatment includes cancer 
+growth, metastasis, and recurrence, so that it could give 
+promise in the treatment of solid tumors.23 Stem cells have 
+several action mechanisms in treating the tumor. The homing 
+
+Debela et al.	
+3
+process is one mechanism which is a rapid migration of 
+HSCs into defined stem cell niches in BM after that the 
+transplants undergo the engraftment process before giving 
+rise to specialized blood cells. This mechanism is dependent 
+on the active interaction between stem cell CXCR4 receptors 
+and requires their interaction with endothelial cells through 
+LFA-1, VLA-4/5, CD44, and the secretion of matrix degra-
+dable enzyme MMP-2/9.22 The second mechanism is the 
+tumor-tropic effect in which the migration of MSCs toward 
+tumor microenvironment (TM) after attraction by CXCL16, 
+SDF-1, CCL-25, and IL-6 secreted by tumor cells and dif-
+ferentiation of MSCs within the tumor cells which contrib-
+utes to tumor stromal development.24 Stem cells also act by 
+paracrine factor secretion, including extracellular vesicles 
+(EVs) and soluble materials,25 and their differentiation 
+capacity, such as transplanted HSCs, can give rise to all 
+blood cell types.26
+Generally, cancer treatment using stem cell therapy by 
+various strategies, including transplantation of HSC,27 MSC 
+infusion,28 therapeutic carriers,29 generation of immune 
+effector cells,30 and vaccine production.31 The stem cell can-
+cer therapy approach confronted the following side effects: 
+(1) tumorigenesis, (2) adverse events in allogeneic HSC 
+transplantation, (3) drug toxicity and drug resistance, (4) 
+increased immune responses and autoimmunity, and (5) viral 
+infection.22 Despite several successes, there are challenges, 
+such as therapeutic dose control, low cell targeting, and 
+retention in tumor sites, that should be investigated and over-
+come in the future. In addition, existing results from stem 
+cell technologies are highly encouraging for tumor treatment 
+but it still needs further efforts to improve the safety and effi-
+cacy before they could enter clinical trials. Table 1 summa-
+rized the licensed list of stem cell therapies.
+Targeted drug therapy
+Targeted cancer therapies are drugs or other substances 
+which are sometimes interchangeably used as “molecularly 
+targeted drugs,” “molecularly targeted therapies,” and “pre-
+cision medicines.” Those drugs’ mechanism of action is by 
+interfering with growth molecules which leads to blocking 
+the growth and spreading of cancer.34 Tumor initiation and 
+progression are determined by the TM of an atypical tumor 
+which comprises endothelial cells, pericytes, smooth muscle 
+cells, fibroblasts, various inflammatory cells, dendritic cells, 
+and CSCs. There are various signaling mechanisms and 
+pathways that TM-forming cells dynamically interact with 
+the cancerous cells which are suitable for sustaining a rea-
+sonably high cellular proliferation. So, it is the area of 
+research interest using TM conditions to mediate effective 
+targeting measures for cancer therapy.35
+Selectively treating cancer cells with conventional chem-
+otherapy is difficult since it is similar to normal cells. So 
+those problems are intervened by cellular mechanisms, such 
+as cell cycle arrest, apoptosis induction, proliferation pre-
+vention, and interfering with metabolic reprogramming by 
+targeted drug therapy agents.36 Modifying TM and targeting 
+TM for drug delivery for effective treatment are two strate-
+gies that can be used for the treatment of cancer.37 Targeted 
+therapy drugs do work in different ways from standard 
+chemotherapy drugs treatment like attacking cancer cells 
+while doing less damage to normal cells which is a program-
+ming that sets them apart from normal, healthy cells.38
+Using targeted therapy markedly increased the survival 
+rate for some diseases, for example, from 17% to 24% in 
+patients with advanced pancreatic cancer, the addition of 
+erlotinib to standard chemotherapy. Imatinib has had a dra-
+matic effect on chronic myeloid leukemia, and rituximab, 
+sunitinib, and trastuzumab have revolutionized the treatment 
+of renal cell carcinoma and breast cancer, respectively.39
+We can classify the targeted cell agents based on the 
+mechanism of their work or their target site. Some enzymes 
+serve as signals for cancer cells to grow. Some targeted ther-
+apies inhibit enzymes that are signals for cancer cells to 
+grow. These drugs are called enzyme inhibitors. Blocking 
+these cell signals can inhibit cancer from getting bigger and 
+spreading.40
+Some targeted therapies are called apoptosis-inducing 
+drugs because they are aimed right at the parts of the cell that 
+control whether cells live or die. The examples are serine/
+threonine kinase, protein kinase B (PKB/Akt), which pro-
+motes cell survival, and inhibitors of this protein are in the 
+preclinical phase.41
+These agents stop the tumors from making new blood 
+vessels which helps cut off the tumors’ blood supply so that 
+tumors cannot grow. In addition, they arrest tumor growth 
+that involves by curtailing blood supply to the tumor by 
+inhibiting angiogenic factors, such as vascular endothelial 
+growth factor (VEGF) or its receptors. The study showed the 
+survival of patients with advanced colorectal carcinoma 
+Table 1.  Licensed stem cell therapies.
+S. no.
+Stem cell therapies
+Examples
+Authority
+Indication
+01
+Pluripotent stem cells
+iPSC (sipuleucel-T)
+FDA
+Prostate cancer19
+02
+Adult stem cells
+MSC-INFβ
+FDA
+Ovarian tumor32
+03
+Cancer stem cells
+Venetoclax
+FDA
+AML33
+AML: acute myelogenous leukemia; FDA: The US Food and Drug Administration; iPSC: induced pluripotent stem cell; MSC-INβ: mesenchymal stem cells 
+with interferon beta.
+
+4	
+SAGE Open Medicine
+extended by months after the use of Avastin (bevacizumab) 
+in combination with 5-fluorouracil-based chemotherapy.42
+Types of target agents
+Monoclonal antibodies
+Antibody drugs are man-made versions of immune system 
+proteins administered intravenously to attack certain tar-
+gets on cancer cells. They contain a more proportion of 
+human components than murine components.43 Their attack 
+mechanisms of action are recruiting host immune functions 
+to attack the target cell, binding to ligands or receptors 
+thereby interrupting essential cancer cell processes, and 
+carrying a lethal payload, such as radioisotope or toxin, to 
+the target cell.44 Gemtuzumab is an example of a CD-33-
+specific monoclonal antibody currently used for AML 
+treatment by conjugating with calicheamicin.45 In addition, 
+ibritumomab tiuxetan is an anti-CD20, a 90Y metal iso-
+tope-based is developed in clinical therapy.46 Delivery of 
+active therapeutics, prodrug activation enzymes, and chem-
+otherapy toxins are also another use of target agents of 
+monoclonal antibodies.47
+Small molecule inhibitors
+These are smaller protein in size (⩽500 Da) than monoclonal 
+antibodies, so that they can simply translocate through 
+plasma membranes and can be taken orally. Their main func-
+tion is interrupting cellular processes by interfering with the 
+intracellular signaling of tyrosine kinases which leads to the 
+inhibition of tyrosine kinase signaling and initiates a molecu-
+lar cascade that can lead to the inhibition of cell growth, pro-
+liferation, migration, and angiogenesis in malignant tissues.48 
+Examples of small molecule inhibitors are gefitinib and erlo-
+tinib which inhibit epidermal growth factor receptor (EGFR) 
+kinase and EGFR in non-small cell lung cancer (NSCLC) 
+patients, respectively. There are also lapatinib and sorafenib 
+which act on the inhibition of EGFR/Erb-B2 Receptor 
+Tyrosine Kinase 2 (ERBB2) for ERBB2-positive breast can-
+cer and VEGFR kinase, in renal cancer.49
+Ablation cancer therapy
+Ablation is a treatment technique that destroys tumors with-
+out removing them mostly indicated for small-size tumors of 
+less than 3 cm and the surgical option is contraindicated. 
+Ablation is also used with embolization for larger tumors. 
+However, this technique might not be indicated for treating 
+tumors near major blood vessels, the diaphragm, or major 
+bile ducts due to destroying some of the normal tissue around 
+the tumor.50
+Thermal ablation
+This technique uses extreme hyperthermia or hypothermia to 
+destruct tumor tissue concentrating on a focal zone in and 
+around the tumor. Similar to surgery, thermal ablation 
+removes the tumor and a 5–10 mm thick margin of seem-
+ingly normal tissue but the tissue is killed in situ and then 
+absorbed by the body later. The procedure is similar to sur-
+gery using an open, laparoscopic, or endoscopic approach 
+but is commonly applied using a percutaneous or non-inva-
+sive approach. The type of tumor, site, physician’s choice, 
+and health status determine the approach.51
+Radiofrequency ablation (RFA), microwave ablation, 
+high-intensity focused ultrasound, and cryoablation are cur-
+rently being used in the clinical setting. Cryoablation uses a 
+hypothermic modality to induce tissue damage by a freeze-
+thaw process against others. All these treatments operate on 
+the principle of hyperthermia except cryoablation. Of all the 
+ablation techniques, cryoablation demonstrated the highest 
+potential to elicit a post-ablative immunogenic response.52
+Recent studies showed additional to tissue disruption 
+RFA and cryoablation can modulate the immune system that 
+they were applied as therapy on TM and in the systematic 
+circulation. Evidence has shown that ablation procedures 
+affect carcinogenesis due to its local inflammatory response 
+leading to an immunogenic gene signature.53
+The advantage of this procedure over surgery is that it 
+provides a minimal (e.g. percutaneously or laparoscopically) 
+or non-invasive approach to cancer therapy and gets atten-
+tion as an alternative to standard surgical therapies.54
+Cryoablation
+Cryoablation is one of the ablation techniques which ablates 
+the extensive tissue by freezing to lethal temperatures fol-
+lowed by liquid formation, causing extensive tissue. Benign 
+and malignant primary tumors are mostly treated by this 
+therapy.55 James Arnott reported that the freezing tempera-
+tures can impair cancer cell viability after he attempted the 
+usage of cold temperatures by salt and ice solutions for the 
+generation of local numbness before surgical operations in 
+the nineteenth century. He suggested cryoablation as an 
+attractive therapeutic option and increased a patient’s 
+survival.56
+Cryoablation techniques are based on the principle of the 
+Joule–Thomson effect which was studied in the 1930s by 
+many researchers and concluded using liquid CO2 under 
+high pressure, liquid air, and liquid oxygen to achieve the 
+cooling effect and the subsequent formation of ice crystals so 
+employed to treat lesions, warts, and keratosis. However, 
+after 1950, Allington replaced liquid N2 for the treatment of 
+various skin lesion disorders.47
+RFA therapy
+RFA is a minimally invasive procedure and an image-guided 
+technique using hyperthermic (high-frequency electrical 
+currents) conditions to destroy cancer cells. Imaging tech-
+niques, such as ultrasound, computed tomography (CT), or 
+magnetic resonance imaging (MRI), guide needle electrodes 
+
+Debela et al.	
+5
+into a tumor cell. Generally, RFA is the most effective 
+approach for treating small-size tumors of less than 3 cm in 
+diameter. RFA can be used in combination with other con-
+ventional cancer treatment options.57 After starting the use of 
+deployable devices or multiple-electrode systems, RFA can 
+treat medium tumors (up to 5 cm diameter).58
+Gene therapy
+Gene therapy is the insertion of a normal copy of a defective 
+gene in the genome to cure a specific disorder. The first 
+application dates back to 1990 when a retroviral vector was 
+exploited to deliver the adenosine deaminase (ADA) gene to 
+T cells in patients with severe combined immunodeficiency 
+(SCID). Approximately, about 2900 gene therapy clinical tri-
+als are currently ongoing, two-third of which are related to 
+cancer. Strategies, such as expression of proapoptotic and 
+chemosensitizing genes, expression of wild-type tumor sup-
+pressor genes, expression of genes able to solicit specific 
+anti-tumor immune responses, and targeted silencing of 
+oncogenes, are under evaluation for cancer gene therapy.47
+Thymidine kinase (TK) gene delivery is effective for the 
+administration of prodrug ganciclovir to activate its expres-
+sion and induce specific cytotoxicity.59 The p53 tumor sup-
+pressor gene which is vectors carrying has been assessed for 
+the clinical purpose very recently. ONYX-015 has been 
+tested in NSCLC patients and gave a high response rate 
+when given alone or combined with chemotherapy.60 
+Gendicine, a recombinant adenovirus carrying wild-type 
+p53-induced complete disease regression in head and neck 
+squamous cell cancer had similar success when combined 
+with radiotherapy.61
+Some challenges that have been faced with gene therapy 
+are the selection of the right conditions and the choice of the 
+best delivery mechanism. Identified drawbacks of this ther-
+apy are genome integration, limited efficacy in specific sub-
+sets of patients, and high chances of being neutralized by the 
+immune system. Basic research and medical translation used 
+RNA interference (RNAi) as an efficient technology that 
+able to produce targeted gene silencing.62 RNA-induced 
+silencing complex (RISC) mediates the targeted gene silenc-
+ing process by cleaving the messenger RNA (mRNA) and 
+interference with protein synthesis.63 A siRNAs can be 
+designed to block desired targets, involving cell proliferation 
+and metastatic invasion; hence, precise molecular mecha-
+nisms are a triggering factor for tumor formation. This 
+method relies on siRNA-mediated gene silencing of anti-
+apoptotic proteins, transcription factors (i.e. c-myc gene),64,65 
+or cancer mutated genes (i.e. K-RAS).66
+Advantages of siRNA-based drugs are safety, high effi-
+cacy, specificity, few side effects, and low costs of produc-
+tion.67 However, occasionally, they can induce off-target 
+effects or elicit innate immune responses, followed by spe-
+cific inflammation.68 Delivery methods currently under study 
+are chemical modification (insertion of a phosphorothioate at 
+3’ end, introduction of a 2’ O-methyl group, and modification 
+by 2,4-dinitrophenol) and lipid encapsulation, or conjugation 
+with organic molecules (polymers, peptides, lipids, antibod-
+ies, small molecules) efficiently target to spontaneously cross 
+cell membranes of naked siRNAs.69 Interaction of cationic 
+liposomes with negatively charged nucleic acids facilitates 
+easy transfection by simple electrostatic interactions.70 They 
+can be constituted by 1,2-dioleoyl-3-trimethylammonium 
+propane (DOTAP) and N-[1-(2,3-dioleoyloxy) propyl]-N, 
+Ntrimethylammonium methyl sulfate (DOTMA).71 Currently, 
+a Phase I clinical trial is recruiting patients for evaluating the 
+safety of Eph receptor A2 (EphA2) targeting 1,2-dioleoyl-sn-
+glycero-3-phosphocholine (DOPC) encapsulated siRNA 
+(siRNA-EphA2- DOPC) in patients with advanced and recur-
+rent cancer.72 siRNAs can be concentrated in cationic poly-
+mers, such as chitosan, cyclodextrin, and polyethyleneimine 
+(PEI).73 CALAA-01 is one of the cyclodextrin polymers con-
+jugated with human transferrin is being entered a Phase I 
+clinical trial. PEI has been used as an anti-cancer by forming 
+small cationic nanoparticles and loading with human epider-
+mal growth factor receptor 2 (HER-2 receptor)-specific 
+siRNA.74 Phase II clinical trial has been started to evaluate 
+Local Drug EluteR (siG12D LODER) directed to mutated 
+Kirsten rat sarcoma (K-RAS) oncogene for the treatment of 
+advanced pancreatic cancer. Conjugating to peptides, anti-
+bodies, and aptamers improves stability during circulation 
+and enhances cellular uptake of siRNAs.75 The introduction 
+of nanocarriers has largely improved siRNAs stability, phar-
+macokinetics and biodistribution properties, and targeting 
+specificity. Polyallylamine phosphate nanocarriers have been 
+developed to release siRNAs in the cytoplasm after disassem-
+bly at low endosomal pH.76
+Dose correction and variabilities between individuals and 
+different stages of disease are challenging issues on clinical 
+translation of the siRNA-based approach. In the future, the 
+needed research is on setting up the best-personalized ther-
+apy and toward controlled release to reach only specific tar-
+gets on treating the tumor. Table 2 summarizes the gene 
+therapy drugs based on their mechanism of action and 
+induction.
+Natural antioxidants
+Day to day, the anatomy undergoes many exogenous insults, 
+such as ultraviolet (UV) rays, pollution, and tobacco smoke, 
+that end in the assembly of reactive species, particularly oxi-
+dants and free radicals, liable for the onset of many diseases, 
+together with cancer. These molecules can even be made as a 
+consequence of clinical administration of medication; how-
+ever, they are additionally naturally created within our cells 
+and tissues by mitochondria and peroxisomes, and from 
+macrophages metabolism, throughout traditional physiologi-
+cal aerobic processes.47
+
+6	
+SAGE Open Medicine
+Oxidative stress and radical oxygen species can signifi-
+cantly change the regulation of transcription factors by dam-
+aging the DNA and other bio-macromolecule.77
+Vitamins, polyphenols, and plant-derived bioactive com-
+pounds are natural antioxidants used as preventive and thera-
+peutic drugs against these molecules that damage the body 
+due to their anti-inflammatory and antioxidant properties.78 
+Studies added to cancer therapy after appreciating their anti-
+proliferative and proapoptotic properties. Compounds, such 
+as vitamins, alkaloids, flavonoids, carotenoids, curcumin, 
+berberine, quercetin, and others, are examples of natural 
+antioxidants screened in vitro and in vivo.79
+Limited bioavailability and/ or toxicity is one of the chal-
+lenges of natural drugs while their translation into clinical 
+practice.47 Curcumin has cytotoxic effects in different kinds 
+of tumors, such as the brain, lung, leukemia, pancreatic, and 
+hepatocellular carcinoma,80 while sparing normal cells at 
+effective therapeutic doses. The curcumin’s biological prop-
+erties, treatment duration and efficient therapeutic doses are 
+under study.80 This day, about 27 clinical trials are done, 
+while 40 are under study on curcumin.
+Berberine is an alkaloid compound that has been studied 
+to be effective against different cancers as a chemopreven-
+tive agent, modulating many signaling pathways. Different 
+nanotechnological strategies have been developed to facili-
+tate its delivery across cell membranes due to their poorly 
+soluble in water.81 Six clinical trials are under study and two 
+have been completed.
+Quercetin is another natural plant origin agent that is 
+effective alone and also in combination with chemotherapeu-
+tic agents in treating many cancers, such as lung, prostate, 
+liver, colon, and breast cancers.82 Quercetin’s mechanism of 
+action is by binding to cellular receptors and the interference 
+of several signaling pathways.83 Currently, six clinical trials 
+are under study and seven studies have been completed.
+Current clinical trials
+In recent years, analysis of cancer medication has taken out-
+standing steps toward more practical, precise, and fewer 
+invasive cancer treatments in the research of clinical trials 
+(Figure 1).
+Currently, the most frequent entries focusing on cancer 
+therapies in the database of clinical trials (www.clinicalTri-
+als.gov) include the terminologies stem cell, targeted ther-
+apy, immunotherapy, and gene therapy because they are 
+very promising and effective. Table 3 summarizes the poten-
+tial advantages and disadvantages of the new treatment 
+approaches.
+Table 4 summarizes the approaches to advanced cancer 
+therapies and their respective delivery systems with examples.
+Conclusion
+Current methods in oncology focus on the development of 
+safe and efficient cancer nanomedicines. Targeted medical 
+care helped rising the biodistribution of recent or already 
+tested chemotherapeutical agents around the specific tissue 
+to be treated; different methods, such as sequence medical 
+care, siRNAs delivery, therapy, and inhibitor molecules, sup-
+ply new potentialities to cancer patients. Gene therapy acts 
+by direct in situ insertion of exogenous genes into benign 
+tumors. Noticeably, stem cells can be used as regenerative 
+medicine, therapeutic carriers, drug targeting, and generation 
+of immune cells because of having unique biological actions 
+on other cells.22 On the opposite hand, thermal ablation and 
+magnetic hyperthermia are promising alternatives to the 
+growth surgical process. Finally, radionics and pathomics 
+approaches facilitate the management of huge knowledge 
+sets from cancer patients to enhance prognosis and out-
+comes. Much progress has been made, but many others are 
+likely to come soon, producing more and more ad hoc 
+Table 2.  Summary of gene therapy approaches.
+S. no.
+Gene therapy
+Mechanism of action
+Category
+Indication
+01
+Oncolytic 
+virotherapy (OV)
+Directly lyses tumor cells and 
+introduces wild-type tumor 
+suppressor genes into cells
+Naturally occurring or genetically 
+modified viruses
+Tumor immunotherapy
+02
+Gendicine
+Induces the expression of p53, 
+restores its activity, and destroys 
+the tumor cells
+Non-replicative adenoviral vector
+Neck and head squamous 
+cell carcinoma
+03
+Oncorine 
+(rAd5-H101)
+Causes oncolysis
+Replicative, oncolytic recombinant 
+ad5
+Refractory nasopharyngeal 
+cancer
+04
+Imlygic
+Causes apoptosis of tumor cell
+Genetically modified oncolytic 
+HSV-1
+Non-resectable metastatic 
+melanoma
+05
+Rexin-G
+Inhibits cell cycle in the G1 phase
+Replication-incompetent retroviral 
+vector
+Metastatic cancers
+06
+Kymriah
+Initiates the anti-tumor effect 
+through CD3 domain
+CAR T cell-based gene
+Relapsed B-cell acute 
+lymphoblastic leukemia
+07
+Zalmoxis
+Enhances immune reconstitution
+Allogeneic hematopoietic stem cell 
+transplantation (allo-HSCT)
+Hematopoietic malignancies
+
+Debela et al.	
+7
+Figure 1.  Current status of clinical trials of innovative and novel strategies of cancer therapy.
+Table 3.  Comparison of advantageous and disadvantageous of new cancer therapies.
+S. no.
+Treatment approach
+Advantages
+Disadvantages
+01
+Stem cell therapy
+Safe and effective
+Can be combined with other strategies
+Decreases tumor volumes and extend survival
+Treatment not durable
+Potential tumorigenesis
+02
+Targeted therapy
+High specificity
+Reduced adverse reactions
+Long-term side effects in question
+03
+Ablation therapy
+Precise treatment
+Possibility to perform along with MRI imaging (magnetic 
+hyperthermia)
+Efficiency mainly to localized areas
+Low penetration power
+Needs skilled operator
+04
+Gene therapy
+Expression of proapoptotic and chemosensitizing genes
+Expression of wild-type tumor suppressor genes
+Expression of genes able to solicit specific anti-tumor 
+immune responses
+Targeted silencing of oncogenes and safety (RNAi)
+Genome integration
+Limited efficacy in specific subsets of patients
+High chances to be neutralized by the 
+immune system
+Off-target effects and inflammation (RNAi)
+Need for ad hoc delivery systems (RNAi)
+Setup of doses and suitable conditions for 
+controlled release (RNAi)
+05
+Natural antioxidants
+Easily available in large quantities
+The exploitation of their intrinsic properties
+Limited bioavailability
+Possible toxicity
+MRI: magnetic resonance imaging.
+Table 4.  Advanced therapy approaches and delivery systems.
+S. no.
+Types of therapy
+Delivery system
+Example
+01
+Stem cell
+Nanoparticles84
+Hyaluronic acid (HA)
+Polyvinyl alcohol
+02
+Immune therapy85
+Nanoparticles
+Scaffolds
+Hydrogels
+Antigen-TLR agonist fusion vaccines
+Porous 3D scaffolds
+Anti-PD-1 mAbs
+03
+Gene therapy86
+Viral gene delivery
+Non-viral gene delivery
+Polysaccharides
+Polyethylemine (PEI)
+Lipid
+Naked DNA
+04
+Natural antioxidants
+Nano delivery systems87
+Solid nanocrystals
+Nanoemulsion
+Nanoliposomes
+
+8	
+SAGE Open Medicine
+personalized therapies. Further development and refinement 
+of drug delivery systems are essential for improving thera-
+peutic outcomes.
+Acknowledgements
+The authors thank the Center for Innovative Drug Development and 
+Therapeutic Trials for Africa (CDT-Africa), Addis Ababa 
+University, for the support rendered.
+Author contributions
+D.T.D. is a major contributor in writing the manuscript. All others 
+reviewed and approved the manuscript.
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with respect 
+to the research, authorship, and/or publication of this article.
+Funding 
+The author(s) received no financial support for the research, author-
+ship, and/or publication of this article.
+ORCID iDs 
+Dejene Tolossa Debela 
+ https://orcid.org/0000-0002-4615-5839
+Tsegahun Manyazewal 
+ https://orcid.org/0000-0002-8360-7574
+References
+	 1.	 Sung H, Ferlay J, Siegel RL, et  al. Global cancer statistics 
+2020: GLOBOCAN estimates of incidence and mortality 
+worldwide for 36 cancers in 185 countries. CA Cancer J Clin 
+2021; 71: 209–249.
+	 2.	 Ganesh K and Massagué J. Targeting metastatic cancer. Nat 
+Med 2021; 27: 34–44.
+	 3.	 Merriel SWD, Ingle SM, May MT, et al. Retrospective cohort 
+study evaluating clinical, biochemical and pharmacological 
+prognostic factors for prostate cancer progression using pri-
+mary care data. BMJ Open 2021; 11: e044420.
+	 4.	 GlobalSurg Collaborative and National Institute for Health 
+Research Global Health Research Unit on Global Surgery. 
+Global variation in postoperative mortality and complications 
+after cancer surgery: a multicentre, prospective cohort study in 
+82 countries. Lancet 2021; 397: 387–397.
+	 5.	 Roy A and Li SD. Modifying the tumor microenviron-
+ment using nanoparticle therapeutics. Wiley Interdiscip Rev 
+Nanomed Nanobiotechnol 2016; 8(6): 891–908.
+	 6.	 Bayat Mokhtari R, Homayouni TS, Baluch N, et  al. 
+Combination therapy in combating cancer. Oncotarget 2017; 
+8: 38022–38043.
+	 7.	 Abbas Z and Rehman S. An overview of cancer treatment 
+modalities. Neoplasm 2018; 1: 139–157.
+	 8.	 El-Hussein A, Manoto SL, Ombinda-Lemboumba S, et al. A 
+review of chemotherapy and photodynamic therapy for lung 
+cancer treatment. Anticancer Agents Med Chem 2021; 21(2): 
+149–161.
+	 9.	 Ghanghoria R, Kesharwani P, Tekade RK, et  al. Targeting 
+luteinizing hormone-releasing hormone: a potential therapeu-
+tics to treat gynecological and other cancers. J Control Release 
+2018; 269: 277–301.
+	10.	 Charmsaz S, Collins DM, Perry AS, et al. Novel strategies for 
+cancer treatment: highlights from the 55th IACR annual con-
+ference. Cancers 2019; 11: 1125.
+	11.	 Arruebo M, Vilaboa N, Sáez-Gutierrez B, et al. Assessment of 
+the evolution of cancer treatment therapies. Cancers 2011; 3: 
+3279–3330.
+	12.	 Moses MA, Brem H and Langer R. Advancing the field of 
+drug delivery: taking aim at cancer. Cancer Cell 2003; 4(5): 
+337–341.
+	13.	 Shapira A, Livney YD, Broxterman HJ, et al. Nanomedicine 
+for targeted cancer therapy: towards the overcoming of drug 
+resistance. Drug Resist Updat 2011; 14(3): 150–163.
+	14.	 Mondal J, Panigrahi AK and Khuda-Bukhsh AR. Conventional 
+chemotherapy: problems and scope for combined therapies 
+with certain herbal products and dietary supplements. Austin J 
+Mol Cell Biol 2014; 1: 10.
+	15.	 El-Readi MZ and Althubiti MA. Cancer nanomedicine: a new 
+era of successful targeted therapy. J Nanomater 2019; 2019: 
+4927312.
+	16.	 Naji A, Eitoku M, Favier B, et al. Biological functions of mes-
+enchymal stem cells and clinical implications. Cell Mol Life 
+Sci 2019; 76(17): 3323–3348.
+	17.	 Takahashi K and Yamanaka S. Induction of pluripotent stem 
+cells from mouse embryonic and adult fibroblast cultures by 
+defined factors. Cell 2006; 126: 663–676.
+	18.	 Li Y, Hermanson DL, Moriarity BS, et  al. Human iPSC-
+derived natural killer cells engineered with chimeric antigen 
+receptors enhance anti-tumor activity. Cell Stem Cell 2018; 
+23: 181.e5–192.e5.
+	19.	 Ouyang X, Telli ML and Wu JC. Induced pluripotent stem 
+cell-based cancer vaccines. Front Immunol 2019; 10: 1510.
+	20.	 Trujillo-Alonso V, Pratt EC, Zong H, et  al. FDA-approved 
+ferumoxytol displays anti-leukaemia efficacy against cells 
+with low ferroportin levels. Nat Nanotechnol 2019; 14(6): 
+616–622.
+	21.	 Lin W, Huang L, Li Y, et al. Mesenchymal stem cells and 
+cancer: clinical challenges and opportunities. Biomed Res Int 
+2019; 2019: 2820853.
+	22.	 Chu DT, Nguyen TT, Tien NLB, et al. Recent progress of stem 
+cell therapy in cancer treatment: molecular mechanisms and 
+potential applications. Cells 2020; 9: 563.
+	23.	 Chang JC. Cancer stem cells: role in tumor growth, recur-
+rence, metastasis, and treatment resistance. Medicine 2016; 
+95(1 Suppl. 1): S20–S25.
+	24.	 Sullivan CB, Porter RM, Evans CH, et al. TNFα and IL-1β 
+influence the differentiation and migration of murine MSCs 
+independently of the NF-κB pathway. Stem Cell Res Ther 
+2014; 5: 104.
+	25.	 Vakhshiteh F, Atyabi F and Ostad SN. Mesenchymal stem 
+cell exosomes: a two-edged sword in cancer therapy. Int J 
+Nanomedicine 2019; 14: 2847–2859.
+	26.	 Reddy RL. Mobilization and collection of peripheral blood 
+progenitor cells for transplantation. Transfus Apher Sci 2005; 
+32: 63–72.
+	27.	 Copelan EA. Hematopoietic stem-cell transplantation. N Engl 
+J Med 2006; 354: 1813–1826.
+	28.	 Casper J, Wolff D, Knauf W, et al. Allogeneic hematopoietic 
+stem-cell transplantation in patients with hematologic malig-
+nancies after dose-escalated treosulfan/fludarabine condition-
+ing. J Clin Oncol 2010; 28: 3344–3351.
+
+Debela et al.	
+9
+	29.	 Sage EK, Thakrar RM and Janes SM. Genetically modified 
+mesenchymal stromal cells in cancer therapy. Cytotherapy 
+2016; 18(11): 1435–1445.
+	30.	 Dai H, Wang Y, Lu X, et  al. Chimeric antigen receptors 
+modified T-cells for cancer therapy. J Natl Cancer Inst 2016; 
+108(7): djv439.
+	31.	 Batlle E and Clevers H. Cancer stem cells revisited. Nat Med 
+2017; 23: 1124–1134.
+	32.	 Khalil C, Moussa M, Azar A, et al. Anti-proliferative effects 
+of mesenchymal stem cells (MSCs) derived from multiple 
+sources on ovarian cancer cell lines: an in-vitro experimental 
+study. J Ovarian Res 2019; 12: 70.
+	33.	 Konopleva M, Pollyea DA, Potluri J, et al. Efficacy and bio-
+logical correlates of response in a phase II study of Venetoclax 
+monotherapy in patients with acute myelogenous leukemia. 
+Cancer Discov 2016; 6(10): 1106–1117.
+	34.	 National Cancer Institute. Targeted cancer therapies. 
+Bethesda, MD: National Cancer Institute, 2020.
+	35.	 Adjei IM and Blanka S. Modulation of the tumor microen-
+vironment for cancer treatment: a biomaterials approach. J 
+Funct Biomater 2015; 6: 81–103.
+	36.	 Valter K, Chen L, Kruspig B, et al. Contrasting effects of glu-
+tamine deprivation on apoptosis induced by conventionally 
+used anticancer drugs. Biochim Biophys Acta Mol Cell Res 
+2017; 1864(3): 498–506.
+	37.	 Bailey KM, Wojtkowiak JW, Hashim AI, et al. Chapter four: 
+targeting the metabolic microenvironment of tumors. In: 
+Smalley KSM (ed.) Advances in pharmacology. Cambridge, 
+MA: Academic Press, 2012, pp. 63–107.
+	38.	 Yadav P. Targeted cancer therapy; researchers reflection. Int 
+Peer-Rev J 2017; 1: 11–17.
+	39.	 Weber WA. Positron emission tomography as an imaging bio-
+marker. J Clin Oncol 2006; 24: 3282–3292.
+	40.	 Citri A and Yarden Y. EGF-ERBB signalling: towards the sys-
+tems level. Nat Rev Mol Cell Biol 2006; 7(7): 505–516.
+	41.	 Luo J, Manning BD and Cantley LC. Targeting the PI3K-Akt 
+pathway in human cancer: rationale and promise. Cancer Cell 
+2003; 4(4): 257–262.
+	42.	 Hurwitz H, Fehrenbacher L, Novotny W, et al. Bevacizumab 
+plus irinotecan, fluorouracil, and leucovorin for metastatic 
+colorectal cancer. N Engl J Med 2004; 350: 2335–2342.
+	43.	 Carter P. Improving the efficacy of antibody-based cancer 
+therapies. Nat Rev Cancer 2001; 1(2): 118–129.
+	44.	 Adams GP and Weiner LM. Monoclonal antibody therapy of 
+cancer. Nat Biotechnol 2005; 23: 1147–1157.
+	45.	 Sorokin P. Mylotarg approved for patients with CD33+ acute 
+myeloid leukemia. Clin J Oncol Nurs 2000; 4(6): 279–280.
+	46.	 Jacobs SA. Yttrium ibritumomab tiuxetan in the treatment 
+of non-Hodgkin’s lymphoma: current status and future pros-
+pects. Biologics 2007; 1(3): 215–227.
+	47.	 Pucci C, Martinelli C and Ciofani G. Innovative approaches 
+for cancer treatment: current perspectives and new challenges. 
+ecancer 2019; 13: 961.
+	48.	 Tanner JE. Designing antibodies for oncology. Cancer 
+Metastasis Rev 2005; 24(4): 585–598.
+	49.	 Yap TA and Workman P. Exploiting the cancer genome: strat-
+egies for the discovery and clinical development of targeted 
+molecular therapeutics. Annu Rev Pharmacol Toxicol 2012; 
+52: 549–573.
+	50.	 American Cancer Society. Ablation for liver cancer. Atlanta, 
+GA: American Cancer Society, 2019.
+	51.	 Singh S and Melnik R. Thermal ablation of biological tissues 
+in disease treatment: a review of computational models and 
+future directions. Electromagn Biol Med 2020; 39: 49–88.
+	52.	 Yakkala C, Chiang CL, Kandalaft L, et al. Cryoablation and 
+immunotherapy: an enthralling synergy to confront the tumors. 
+Front Immunol 2019; 10: 2283.
+	53.	 Liu Y, Cao CS, Yu Y, et  al. Thermal ablation in cancer 
+(review). Oncol Lett 2016; 12: 2293–2295.
+	54.	 Cabuy E. Thermal ablation in cancer treatment. Reliab Cancer 
+Ther 2012; 2: 1–68.
+	55.	 Gage AA and Baust J. Mechanisms of tissue injury in cryosur-
+gery. Cryobiology 1998; 37(3): 171–186.
+	56.	 Korpan NN. A history of cryosurgery: its development and 
+future. J Am Coll Surg 2007; 204(2): 314–324.
+	57.	 Radiological Society of North America (RSNA) and American 
+College of Radiology (ACR). Radiofrequency ablation (RFA) 
+/ microwave ablation (MWA) of liver tumors (internet). Oak 
+Brook, IL: Radiological Society of North America; Reston, 
+VA: American College of Radiology, 2020.
+	58.	 Brace C. Thermal tumor ablation in clinical use. IEEE Pulse 
+2011; 2(5): 28–38.
+	59.	 Freeman SM, Abboud CN, Whartenby KA, et  al. The 
+“bystander effect”: tumor regression when a fraction of the 
+tumor mass is genetically modified. Cancer Res 1993; 53: 
+5274–5283.
+	60.	 Ahrendt SA, Hu Y, Buta M, et al. p53 mutations and survival 
+in stage I non-small-cell lung cancer: results of a prospective 
+study. J Natl Cancer Inst 2003; 95: 961–970.
+	61.	 Räty JK, Pikkarainen JT, Wirth T, et al. Gene therapy: the first 
+approved gene-based medicines, molecular mechanisms and 
+clinical indications. Curr Mol Pharmacol 2008; 1(1): 13–23.
+	62.	 Elbashir SM, Harborth J, Lendeckel W, et  al. Duplexes of 
+21-nucleotide RNAs mediate RNA interference in cultured 
+mammalian cells. Nature 2001; 411: 494–498.
+	63.	 Weiss B, Davidkova G and Zhou LW. Antisense RNA gene 
+therapy for studying and modulating biological processes. Cell 
+Mol Life Sci 1999; 55(3): 334–358.
+	64.	 Putney SD, Brown J, Cucco C, et  al. Enhanced anti-tumor 
+effects with microencapsulated c-myc antisense oligonucleo-
+tide. Antisense Nucleic Acid Drug Dev 1999; 9(5): 451–458.
+	65.	 Vita M and Henriksson M. The Myc oncoprotein as a thera-
+peutic target for human cancer. Semin Cancer Biol 2006; 
+16(4): 318–330.
+	66.	 Fleming JB, Shen GL, Holloway SE, et al. Molecular conse-
+quences of silencing mutant K-ras in pancreatic cancer cells: 
+justification for K-ras-directed therapy. Mol Cancer Res 2005; 
+3(7): 413–423.
+	67.	 Subhan MA and Torchilin VP. siRNA based drug design, 
+quality, delivery and clinical translation. Nanomedicine 2020; 
+29: 102239.
+	68.	 Meng Z and Lu M. RNA interference-induced innate immu-
+nity, off-target effect, or immune adjuvant? Front Immunol 
+2017; 8: 331.
+	69.	 Xu CF and Wang J. Delivery systems for siRNA drug devel-
+opment in cancer therapy. Asian J Pharm Sci 2015; 10: 1–12.
+	70.	 Sarisozen C, Salzano G and Torchilin VP. Recent advances in 
+siRNA delivery. Biomol Concepts 2015; 6: 321–341.
+
+10	
+SAGE Open Medicine
+	71.	 Kim HS, Song IH, Kim JC, et al. In vitro and in vivo gene-
+transferring characteristics of novel cationic lipids, DMKD 
+(O, O'-dimyristyl-N-lysyl aspartate) and DMKE (O,O'-
+dimyristyl-N-lysyl glutamate). J Control Release 2006; 115: 
+234–241.
+	72.	 Wagner MJ, Mitra R, McArthur MJ, et al. Preclinical mam-
+malian safety studies of EPHARNA (DOPC nanoliposomal 
+EphA2-targeted siRNA). Mol Cancer Ther 2017; 16: 1114–
+1123.
+	73.	 Mao S, Sun W and Kissel T. Chitosan-based formulations for 
+delivery of DNA and siRNA. Adv Drug Deliv Rev 2010; 62: 
+12–27.
+	74.	 Urban-Klein B, Werth S, Abuharbeid S, et al. RNAi-mediated 
+gene-targeting through systemic application of polyethyl-
+enimine (PEI)-complexed siRNA in vivo. Gene Ther 2005; 
+12(5): 461–466.
+	75.	 Jeong JH, Mok H, Oh YK, et al. siRNA conjugate delivery 
+systems. Bioconjug Chem 2009; 20(1): 5–14.
+	76.	 Andreozzi P, Diamanti E, Py-Daniel KR, et al. Exploring the 
+pH sensitivity of poly(allylamine) phosphate supramolecular 
+nanocarriers for intracellular siRNA delivery. ACS Appl Mater 
+Interfaces 2017; 9: 38242–38254.
+	77.	 Halliwell B. Oxidative stress and cancer: have we moved for-
+ward? Biochem J 2007; 401: 1–11.
+	78.	 Bernardini S, Tiezzi A, Laghezza Masci V, et  al. Natural 
+products for human health: an historical overview of the 
+drug discovery approaches. Nat Prod Res 2018; 32(16): 
+1926–1950.
+	79.	 Chikara S, Nagaprashantha LD, Singhal J, et  al. Oxidative 
+stress and dietary phytochemicals: role in cancer chemopre-
+vention and treatment. Cancer Lett 2018; 413: 122–134.
+	80.	 Imran M, Ullah A, Saeed F, et al. Cucurmin, anticancer, & 
+antitumor perspectives: a comprehensive review. Crit Rev 
+Food Sci Nutr 2018; 58: 1271–1293.
+	81.	 Farooqi AA, Qureshi MZ, Khalid S, et al. Regulation of cell 
+signaling pathways by berberine in different cancers: search-
+ing for missing pieces of an incomplete jig-saw puzzle for an 
+effective cancer therapy. Cancers 2019; 11: 478.
+	82.	 Liu Y, Tang ZG, Lin Y, et al. Effects of quercetin on prolifera-
+tion and migration of human glioblastoma U251 cells. Biomed 
+Pharmacother 2017; 92: 33–38.
+	83.	 Yang F, Song L, Wang H, et al. Quercetin in prostate cancer: 
+chemotherapeutic and chemopreventive effects, mechanisms 
+and clinical application potential (review). Oncol Rep 2015; 
+33(6): 2659–2668.
+	84.	 Wang H and He X. Nanoparticles for targeted drug delivery 
+to cancer stem cells and tumor. Methods Mol Biol 2018; 1831: 
+59–67.
+	85.	 Zhao Z, Zheng L, Chen W, et al. Delivery strategies of cancer 
+immunotherapy: recent advances and future perspectives. J 
+Hematol Oncol 2019; 12: 126.
+	86.	 Sung YK and Kim SW. Recent advances in the development 
+of gene delivery systems. Biomater Res 2019; 23: 8.
+	87.	 Vaiserman A, Koliada A, Zayachkivska A, et al. Nanodelivery 
+of natural antioxidants: an anti-aging perspective. Front 
+Bioeng Biotechnol 2020; 7: 447.

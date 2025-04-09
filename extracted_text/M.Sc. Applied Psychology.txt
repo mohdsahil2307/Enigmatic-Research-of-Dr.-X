@@ -1,0 +1,1875 @@
+
+
+
+
+
+
+
+
+
+Template for P.G., Programmes 
+
+
+Choice Based Credit System (CBCS), Learning Outcomes Based Curriculum Framework (LOCF) Guideline Based Credits and Hours Distribution System
+for all Post – Graduate Courses including Lab Hours
+
+First Year – Semester – I 
+Semester-II
+Second Year – Semester – III
+Semester-IV
+
+Total 91 Credits for PG Courses 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEMESTER  I (CORE)
+Course Name: THEORIES OF PERSONALITY
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 5
+
+OBJECTIVES: 
+Major objectives of this course are:
+To make the student understand about personality and its determinants
+To know the fundamentals of personality theory and its emergence to gain insight about human behavior.
+To understand the significance of each school of thought in psychology
+To compare and contrast the conceptual framework of various theories of personality
+To know the recent trends in personality theories how its applied in the field of psychology
+
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K2): Understand the determinants of psychology and how it emerged as significant concept of psychology
+CO2(K2): Classify and compare various personality theories’ basic principles and approaches in understanding human nature.
+CO3(K4): Explain a critical understanding of personality through various Western approaches including type and trait, psychoanalytic, socio-cognitive, and humanistic and contemporary theories.
+CO4(K5): Apply different personality theory’s perspectives by engaging students in a discussion about the everyday applications of various personality theories.
+CO5(K5): Adapt to apply principles of personality in counseling practices.
+Lesson - Units
+Unit – I: Introduction to personality Theory - Nature of Personality- Personality theory and history. Definitions- Personality, Paradox of human nature. Personality in perspective: genetic, environmental, learning, parental, developmental factors.
+Unit – II:Psychodynamic Approach: Sigmund Freud- Psychoanalysis, Alfred Adler- Individual Psychology, Carl Jung- Analytical Psychology, Klein- Object Relations Theory
+Unit – III:Neo Psychoanalytic Approach: Karen Horney- Psychoanalytic Social Theory, Erich Fromm- Humanistic Psychoanalysis, Sullivan- Interpersonal Theory, Erikson- Post-Freudian Theory
+Unit – IV:Humanistic Approach/ Type/Cognitive /Dispositional:  Abraham Maslow- Holistic Dynamic theory. Carl Rogers- Person-Centered theory, May – Existential Psychology, Eysenck -Trait and factor theory, Allport -Psychology of the Individual, BIG 5 Theory
+Unit – V: Behavioristic Approach/ Recent Theory:   Skinner- Behavioral Analysis, Albert Bandura-Social Cognitive theory,  Rotter&Mischel -Cognitive Social Theory , Seligman- Positive Psychology approach
+Recap: Factors contribute to constitute personality, chronological and emergence of various personality theories, concept of human from Various theory, understanding of human nature from birds’ eyes views with interpretations of significant theorists in personality.
+Learning Resources:
+Recommended Text books:
+Duanep, Schultz & Sydney Ellen Schultz (2012). Theories of Personality (10thEdn.)New Delhi: Thomson Publishers
+Hall,S. Calvin & Garner Lindzey (2007). Theories of Personality(4thEdn.), John
+Wiley & sons: US 137 (H)
+Jess Feist and Gregory j Feist ( 2008   ) Theories of personality ,7th edition , McGraw Hill
+References:
+Donna M, Ashcraft (2015). Personality Theories Workbook, Cengage Learning,USA.
+Allen, B. P. (1997). Personality theories: Development, growth, and diversity, (2nded.). London: Alyn and Bacon.
+Gardner Lindzey, John B. Campbell Calvin S. Hall (2007). Theories of Personality (4th Edition), John Wiley & sons
+Web Sources:
+http://www.thetransformedsoul.com/additional-studies/miscellaneous-studies/the-four-human-temperaments
+https://sites.google.com/site/psychologyofpersonalityperiod8/home/type-and-trait-theories/sheldon-s-personality-theory
+https://www.mindler.com/blog/introverts-extoverts-careers/
+https://courses.lumenlearning.com/boundless-psychology/chapter/traitperspectives-on-personality
+https://www.psychologistworld.com/cognitive/carl-jung-analytical-psychology
+
+Out of Syllabus- Self Study
+Recent research in personality theories
+Study about  Zuckermann, Murry,
+Kelly- Psychology of personal Constructs
+Personality profiles of famous personalities
+History and childhood experiences of each theorist’s reflections on their conceptual framework and their approach to life.
+Indian theory on personality
+
+
+
+
+
+Course Name: RESEARCH METHODS AND APPLIED STATISTICS
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 5
+
+
+OBJECTIVES:
+Major objectives of this course are:
+To understand the processes of   scientific research.
+To gain knowledge in ethics in research
+To explore the use of appropriate research design. 
+To familiarize with various types of sampling techniques
+To gain knowledge in research report writing
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Describe the elements of research, sampling and hypothesis formulation.
+CO2(K3): Develop research report in APA Style.
+CO3(K3): Apply knowledge for the selection of appropriate research design.
+CO4(K4): Analyze ethical issues in conducting a research
+CO5(K5): Explain the steps  in  conducting Psychological research.
+
+Lesson - Units
+Unit- I: Foundations of Research -Meaning – Critical thinking process – Objectives of science – Need for research – Research approaches – Steps in research. Method Vs Methodology. General Principles – Ethical issues: Children, Adults, Animals. Research problem – Sources – Criteria of good problem.Reviewing the literature – Research article.
+
+Unit- II: Hypothesis,variables and sampling- Hypothesis: Meaning – Types – Basic concepts related to hypothesis testing. Variables – Definition – Ways of asking questions – measuring observed variables – Scales of measurement – Types of measures – Reliability – Validity. Sampling – Meaning – Probability and Non-probability sampling – Sample &amp; effect size. Data collection methods: Observational research –Survey research.
+
+Unit- III: Research Design: Experimental design: Independent groups designs – Completely randomized groups designs, randomized factorial groups design. Dependent groups designs: Within-participants design, matched groups design – Mixed Designs – Single-participant design – Baseline designs. Non- experimental designs: Quasi-experiments – Time-series design, nonequivalent groups designs, longitudinal research, Cross-sectional research, Case-studies, Correlational research.
+
+Unit- IV: Statistics: Organizing data: Frequency distribution – Graphs – Descriptive statistics: Measures of central tendency – Measures of variation – Types of distributions. Inferential statistics: z test – t test –Analysis of Variance – Correlation– Concepts related to correlation – Correlation coefficient –Regression. Non-parametric statistics: Mann-Whitney test – Wilcoxon Chi-square – Spearman Rank correlation – Kruskal-Wallis test. Analysis of data using SPSS
+
+Unit- V: Report Writing and computers in research: Writing Proposal – Plagiarism – References and In-text citation – APA primer - Presenting research: Research report – Typing guidelines – Oral and Poster presentation. Computers in research – Internet and research.
+
+Learning Resources
+Recommended Text books 
+Evans, A.N., &Rooney, B. J. (2011). Methods in psychological research. New Delhi, India: Sage Publications India Pvt. Ltd.
+Jackson, S.L. (2015). Research methods and statistics. New Delhi, India: Cengage Learning India Pvt. Ltd.
+Kothari, C. R.(2004). Research methodology,(2 nd ed). Chennai: New Age International Publishers.
+Shaughnessy, J.J., Zechmeister, E.B. &amp;Zechmeister, J.S. (2006). Research Methods in Psychology. (7th ed.). Singapore: McGraw-Hill.
+
+
+
+REFERENCE BOOKS
+1. Coaley, K. (2009). An introduction to psychological assessment and psychometrics. New Delhi, India:
+Sage Publications India Pvt. Ltd.
+2. Coolican, H. (2009). Research methods in statistics in psychology. New Delhi, India: Rawat
+Publications.
+3. Gravetter, F.J., &amp; Forzana, L.A.B. (2009). Research methods for behavioral sciences. Boston, MA:
+Wadsworth Cengage learning.
+4. Mohanty, B., &amp; Misra, S. (2019). Statistics for behavioural and social sciences. New Delhi, India: Sage
+Publications.
+5. Myers, J. (2008). Methods in psychological research. New Delhi, India: Sage Publications.
+6. Ruyon, R.P, Haber, A, Pittenger, D.J., &amp; Coleman, K.A. (2010). Fundamentals of behavioural statistics.
+New York, NY: McGraw Hill.
+7. Singh, A.K. (2006). Tests, measurements and research methods in behavioural sciences. Patna, India:
+Bharati Bhavan Publishers.
+
+Recap
+Reviewing of Psychological research done using various research designs, sampling
+techniques
+
+Web source:
+https://www.sciencedirect.com/topics/psychology/psychological-research
+https://opentextbc.ca/researchmethods/chapter/qualitative-research/
+https://www.studysmarter.us/explanations/psychology/research-methods-in-psychology/
+https://www.verywellmind.com/introduction-to-research-methods-2795793
+https://apaformat.org/apa-format-overview/
+
+
+Out of Syllabus: Self Study
+
+Difference Between qualitative and quantitative research
+Recent research in the area of the specialization
+Students can submit a research proposal in their area of interest
+
+
+
+
+
+
+
+
+
+Course Name: COUNSELING SKILLS AND TECHNIQUES
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 4
+
+OBJECTIVES:
+The major objectives of this course are:
+To acquire knowledge about skill based models of counseling.
+To examine the ethical issues in counseling
+To understand the skills and process of online counseling.
+Practice the skills of attending, listening and responding with empathy using classroom activities and exercises.
+To understand one’ strengths and limitations in basic counseling skills.
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Discuss the process of counseling offline and online and ethical issues.
+CO2(K3): Explain the basic counseling skills of listening, responding , challenging and formulating action plans.
+CO3(K4): Identify and differentiate skills at different stages of Counseling.
+CO4(K5): Evaluate the various counseling approaches that are skill based.
+CO5(K6): Apply the skills of counseling through classroom activities and practicum
+
+
+Lesson - Units
+Unit- I: Counseling Skills and Ethical Issues: The Helping relationship and process. Specific Counseling skills: Understanding the internal frame of reference, showing attention and interest, paraphrasing and reflecting feelings, structuring, probing, monitoring, challenging, self-disclosing. Managing resistances and making referrals. Facilitating problem solving. Improving client’s perceptions, negotiating homework, conducting middle sessions and terminating helping. Ethical and Legal Issues in Counseling
+
+Unit- II: The Skill Based Models of Counseling: Egan’s problem management approach to helping. Stage I Problem clarification, Stage II Setting goals based on dynamic understanding, Stage III Facilitating action. Ivey and Ivey’s Step by Step Micro skills model- Towards Intentional interviewing and Counseling. The Micro skills hierarchy. Drawing out client stories. Relationship-Story and Strengths- Goals- Restory- Action. Increasing skills and flexibility. Theory and Microskills.
+
+Unit- III: Listening & Empathy Building: Qualities of the Effective Listener: Positive & Negative Listening– Proximity in Listening–Using Silence – Head nodding – Facial Expressions – Active Listening – Distraction –Assessing your own Listening. Clarifying empathy– Empathy building Statements–People who empathize –Simple reflection of content – Simple reflection of feeling – Selective reflection – Putting it all together – Using Empathy in everyday life – Empathy in difficult situations–Ethical issues 
+
+Unit- IV: Activities in Counseling: Information Activities: Types of information – Pros and cons of advice-giving – Breakingbad news – Confrontation I – Confrontation II – Checking for understanding. Facilitation Activities: Exploring facilitation – Types of facilitation– Learning to facilitate – Group facilitation – Limits to facilitation – Dealing with contingencies. Problem Solving Activities: Types of problem– Identifying problems– Problem- Solving Cycle–Clarifying Problems– Dealing with problems – Planning – Evaluation of Problem solving. Coping with Feelings: Types of feelings – Feeling words – Expressing feelings – Dealing with Paradox - Focusing –Preventing Burnout–Coping with 
+stress
+
+Unit- V: Online Counseling Skills: Establishing an online presence and online relationship, online expression and listening, establishing and maintaining an open dialogue. Professional considerations in online practice. Technological advances: Implications for Counseling Psychological research, training and practice Practicum: To practice basic skills of listening,responding,empathizing and summarizing in the classroom under supervised guidance.
+Recap: Conducting quiz, class test, assigning students to do review sessions, “Question hour”
+
+Learning Resources:
+Recommended Textbooks:
+Egan, G. (2019).The skilled helper: A problem-management and opportunity- development approach to helping, 11 th edition. Pacific Grove, CA: Brooks/Cole
+Brown, S.D., & Lent, R.W.(2008).Handbook of counseling psychology (4 th Ed) Edison, NJ: John Wiley &amp; Sons, Inc.
+Evans, J (2009) Online Counseling and Guidance Skills: A resource for trainees & practitioners, 1 st Edition, Sage Publications India Pvt. Ltd., New Delhi
+Ivey, A.E., Ivey, M.B.,&amp; Zalaquett, C.P.(2018). Intentional interviewing and counselling. 9 th edition. Belmont, CA: Brooks/Cole Cengage learning Pub. Co.
+Feltham, C.,& Horton, I.(2017).The SAGE handbook of counseling and psychotherapy (4th ed.).Los Angeles, CA: Sage Publications Pub. Co.
+Nelson–Jones, R. (2011). Basic counseling skills: A helper’s manual (2 nd Ed.). Chennai, India: Sage Publications India Pvt. Ltd.
+
+References: 
+Burnard, P. (1995). Counseling skills training: A source book of activities for trainers. London, England: Kogan Page Ltd.
+Nelson-Jones (2010). The theory and practice of counseling and Therapy (5th ed). Sage.
+Meier,A.&Boivin,M. (2010), Counseling & Therapy Technique, Theory and Practice (Sage)
+Thompson,R.A.(2016). Counseling Techniques-Improving relationships with others, ourselves, our families, and our environment, 3rd ed. Routledge.
+
+
+Web resources
+https://www.apa.org/education-career/ce/beyond-microskills.pdf
+https://cognella-titles-sneakpreviews.s3-us-west-2.amazonaws.com/82967-1A-URT/82967-1A_SP.pdf
+
+Out of Syllabus: Self Study
+Cross-cultural differences in counseling
+Counseling in the Indian context
+
+
+SEMESTER II- CORE
+Course Name: PSYCHOMETRY
+Course Code:
+Year and Semester:     Thirdyear ,th Semester
+Credits : 5
+
+
+OBJECTIVES:
+The major objectives of this course are:
+1.	To understand the steps in construction of Psychological tests.
+2.	To gain knowledge of the procedures in standardization and development of norms.
+3.	To describe item writing procedures for different types of tests.
+4.	To explain item analysis procedures used in test construction
+5.	To understand ways to minimize error in test construction.
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Describe the steps in test construction and standardization
+CO2(K3): Explain the requirements of item writing and methods in item analysis
+CO3(K4): Analyze test construction principles for different types of tests.
+CO4(K5): Summarize test standardization procedures such as reliability, validity and  development of norms.
+CO5(K6): Plan test construction and/or standardization procedures for hypothetical tests
+
+
+
+Lesson - Units
+Unit- I: The science of psychometrics. Psychometrics in the 21st century. Defining the test– Classification of tests – Characteristics of standardized tests. Scaling-Selecting a scaling method. Representative scaling methods. Criterion referenced tests and norm referenced tests.
+
+Unit- II: Construction of Intelligence Tests: Item writing for Intelligence tests: Analogies, odd-man-out, sequences. Tests of ability and attainment: Content of items, multiple choice items. Advantages of multiple choice items.True-false items, matching items, choosing the item type. Other item types, arrangement of items for a test trial, guessing. Constructing Personality Inventories- Problems in constructing personality Inventories. Writing items for personality Inventories: item forms, guidelines for item writing. Eliminating response sets. Item content.
+Unit- III: Construction of Other Types of Tests: Objective tests: Advantages, principles, stimulus-instruction situation, and response scoring parameters. Distinction between objective tests of ability, temperament and dynamics. Practical hints for objective test construction in personality and motivation. Differential Activation of different subjects. The influence of ability and achievement on objective test scores. Group vs Individual tests. Objective test dimensions.Projective Tests-construction of projective tests. Item writing for mood and state scales. Attitude measurement: types of attitude scales.
+
+Unit- IV: Item Analysis: Important variables for item analysis. Two indices in item analysis- correlations of items and the total score, choice of item –analytic statistics.Item scoring and item analysis-Itemdifficulty, Item discrimination, Item response theory. Selection of items after item analysis. Re-writing items.Failure to form a test.
+
+Unit- V: Test Standardization: An overview of the different types of reliability and validity. Factors affecting reliability and validity- Generalizability of test scores. Norms- Meaning and purpose of norms. Raw score transformation.Percentile And Percentile Ranks, Standardized scores. Normalizing standard scores .T scores, stanines, sten scores and C-Scale. Selecting a norm group--age and grade norms. Local and sub group norms..Practical difficulties in test construction.
+Recap: 
+Conducting quiz, class test, assigning students to do review sessions, “Question hour”
+
+Recommended Textbooks
+Kline,P.(2015).A handbook of test construction: Introduction to psychometric design. NewYork, NY:Methuen.
+Schultz,K. S., Whitney,D.J. &Zickar,M.J.(2021) Measurement theory in action-Case studies & Exercises,(3rd ed), Routledge, New York, Taylor &Francis
+Rust,J.,Kosinski,M., Stillwell,D,(2021).Modern psychometrics: The science of psychological measurement(4th edn)
+
+References
+Anastasi,A.,& Urbina, S.  (2017). Psychological testing. (7thed). Chennai, India: Pearson India Education Services, Pvt.Ltd.
+Gregory,R.J.(2017).Psychological testing. (7thed.). Chennai, India: Pearson India Education Services Pvt. Ltd.
+Husain,A.(2012). Psychological Testing.Noida, India:DorlingKindersley(India)Pvt.Ltd
+
+Web references
+https://files.eric.ed.gov/fulltext/EJ1083861.pdf
+https://www.egyankosh.ac.in/bitstream/123456789/73590/3/Unit-9.pdf
+
+Out of Syllabus: Self Study
+Constructing own questionnaire and suggesting suitable methods of standardization. 
+To follow steps given in Modern Psychometrics by Rust
+
+Course Name: BEHAVIOR MODIFICATION
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 5
+
+OBJECTIVES:
+The major objectives of this course are:
+Learn the terminology, procedures, and techniques of Behavior Modification
+Equip students to apply these principles within the real-world environment. 
+ LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Demonstrate knowledge of the basic principles and techniques in operant and classical conditioning.
+CO2(K3): Apply the behavioral model to the procedure and practical applications of various techniques to establish new behaviors
+CO3(K4): Distinguish between behavior modification techniques to increase desirable behavior and decrease undesirable behavior, and their practical applications
+CO4(K4): Distinguish between behavior modification techniques for anxiety induction and anxiety reduction, and their practical applications
+CO5(K5): Recommend individualized behavior modification plans based on the various techniques learnt
+
+
+
+
+
+
+Lesson - Units
+Unit- I: Basic Concepts: Definition and characteristics of behavior modification: Historical aspects. Areas of application. Reinforcement - positive and negative reinforcement, escape and avoidance behaviors, conditioned and unconditioned reinforcers, factors that influence the effectiveness of reinforcement, schedules of reinforcement. Punishment - positive and negative punishment - Factors that influence the effectiveness of punishment. Respondent conditioning, timing of neutral and unconditioned stimulus, higher order conditioning, conditioned emotional responses, extinction of conditioned responses, discrimination and generalization of respondent behavior, Influential factors of respondent conditioning. Introduction to a functional behavioral analysis. Basic behavioral principles of the A-B-C  contingency .Formal behavioral assessment. A brief look at the areas of application.
+
+Unit- II: Procedures to Establish New Behaviours: Stimulus control: discrimination and generalization. Defining stimulus control, stimulus discrimination training, the three-term contingency. Generalization, Shaping and its applications - How to use shaping, shaping of problem behaviors. Prompting and fading techniques. Types of prompts. How to use prompting and transfer of stimulus control (for example in autism). Chaining . Examples of behavioral chains, analyzing stimulus-response chains, task analysis, backward chaining, forward chaining, total task presentation. Chaining Components of behavioral skills training procedures. Modeling, instructions, rehearsal, feedback.
+
+Unit- III: Procedures to Increase Desirable Behavior and Decrease Undesirable Behavior: Differential reinforcement of alternative behavior, differential reinforcement of other behavior-Differential reinforcement of low rates of responding. Antecedent control procedures. Using antecedent control strategies. Using punishment. Timeout, Response Cost.
+Unit- IV:  Other Behavior Change Procedures
+Token economy, practical considerations, implementing a token economy, applications of token economy, advantages and disadvantages of a token economy. Behavioral contract, components of a behavioral contract. Cognitive behavior changes procedures, Thought stopping. Introduction to third wave therapies–Dialectical Behaviour therapy, Metacognitive therapy.
+
+Unit- V: Overview of Assessment, Formulation and Intervention in Clinical Conditions:
+Clinical Conditions– Depression, panic, OCD, GAD, eating disorders, PTSD. Anxiety reduction procedures – Defining fear and anxiety problems, procedures to reduce fear and anxiety–relaxation, systematic desensitization, in-vivo desensitization. Anxiety induction procedures – implosive therapy flooding, aversive counterconditioning –use of electric shock, covert sensitization.
+Recap: Conducting quiz, class test, assigning students to do review sessions, “Question hour”
+
+Recommended Textbooks
+Miltenberger, R.G. (2016). Behavior modification: Principles and procedures. (6th ed.).Boston,MA:WadsworthCengageLearning.
+Masters, J. C., Burish, T. G., Hollon, S. D., &Rimm, D. C. (1987). Behavior Therapy: Techniques And Empirical Findings. (3rded.).NewYork,NY: Harcourt Brace Jovanovich College Publishers.
+
+References:
+Kanfer, F.H., &Saslow, G. (1965). Behavioral analysis: An alternative to diagnostic classification.Archives Of GeneralPsychiatry,12(6),529-538.
+Simos, G. (2002).Vol I &II Cognitive behavior therapy: A guide for the practicing clinician (Vol1)London, England:Brunner-Routledge.
+
+Web resources
+https://in.sagepub.com/en-in/sas/behavior-modification/journal200900#description
+https://onlinecourses.swayam2.ac.in/cec22_ed04/preview
+
+
+
+Self- study component
+Observation of videos of case studies using different methods of behavior modification
+An overview of strategies to promote generalization in behavior change.
+Assertiveness training
+
+
+Course Name: PSYCHOLOGICAL ASSESSMENT – I
+
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 4
+
+OBJECTIVES:
+The major objectives of this course are:
+To assist in the selection of appropriate tests.
+To develop competence in Various types of Psychometric tests
+To Administer psychological test according to the guidelines
+To understand and interpret the person’s test scores
+To understand and solve the ethical issues in Psychological assessment.
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Explain the  conceptual framework of psychological testing.
+CO2(K2): Identify the appropriate psychological test
+CO3(K3): Determine how to discuss the obtained individual data.
+CO4(K4): Evaluate the ethical issues in psychological testing.
+CO5(K6): Infer the Individual differences through psychological testing.
+
+
+
+ At least 10 tests have to be conducted from the following list: 
+1.    Raven’s progressive matrices
+2.     Weschler’s Adult Intelligence
+3.     Differential Aptitude tests
+4.     Adolescent Interest scale
+5.     David's Battery of Differential aptitude test III
+6.     Myers Briggs Type Indicator (MBTI)
+7.     Cattell’s 16 Personality Factor Questionnaire (16PF)
+8.     Multiple Anxiety Inventory
+9.     Beck Depression Scale
+10.  Memory Scale
+11.  Assessment of Learning disability
+12.  Career maturity
+13.  Assertive Questionnaire
+14.   Students Stress Scale
+15.   Marital Adjustment Questionnaire
+Recap :The test can be discussed along with the process of construction and validation
+Recommended Textbooks:
+Anastasi. A. &Urbina.S. (2002), Psychological testing, 7th Edition, Pearson Education, USA
+Gregory.R.J. (2005). Psychological testing, history, principles and applications. 4th Edition, Pearson Education, USA.
+Reference:
+1. Freeman, G.B. (1971) Theory and Practice of Psychological testing . New Delhi : Oxford and IBH Publishing Co.
+2. Kaplan, R.M &Saccuzzo, D.P (2007). Psychological Testing. Delhi: Cengage Learning India.
+3. Singh, A.K. (2004). Test Measurements and Research Methods in Behavioural Sciences. Patna: Bharat Bhavan Publishers and Distributors.
+Web resource:
+https://www.psychologydiscussion.net/essays/essay-on-the-uses-of-psychological-test/742
+https://www.youtube.com/watch?v=6HtnBBmuZpI
+https://www.verywellmind.com/psychometric-properties-425262
+Self study:
+Students can refer the psychological research done using the above test
+They can conduct a research study using the tests .
+ SEMESTER III- CORE
+Course Name: APPLIED SOCIAL PSYCHOLOGY
+
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 5
+
+
+OBJECTIVES: - 
+Main objectives of this Course are:
+To understand the key issues and theoretical concepts of applied social psychology and examine the roles of applied social psychologists.
+To analyze the intricacies underlying the theories of attribution and social cognition and to gain insight in the formation of attitudes and analyze its impact on behavior.
+Examine the causes of prejudice and explore techniques to prevent them.
+To gain an understanding on the cognitive, affective and behavioral process of individuals as influenced by group interaction.
+To understand the applications of applied social psychology to social issues in the field of media, legal system, politics, work settings, community, health and environment.
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1 Delineates the theoretical concepts of applied social psychology and appraise the role of applied social psychologist. 
+CO2 Explain the attribution concept and relate the information in social context to explain and predict others behavior.
+CO3 Explore the influence of social indicators on the formation of attitude and examine the attitude- behavior relationship.
+CO4 Demonstrate ability to articulate about group behavior, prejudice and its influence on individuals’ behavior.
+CO5 Apply the principles of social psychology in various fields like media, legal system politics, work settings, community, health and environment.
+Lesson - Units
+Unit- I: Introduction: Definition of Social Psychology and Applied Social Psychology, Historical Context of Applied Social Psychology, Research Methods in Applied Social Psychology, Role of Applied Social Psychologists.
+Unit- II: Understanding Others & Social Cognition: Nonverbal Communication: Basic Channels, Recognizing Deception. Attribution: Theories, Basic sources of error, Applications. Impression Formation &amp; Impression Management: Asch’s Research, Cognitive perspective. Social Cognition- Schemas, sources of error in social cognition.
+Unit- III: Attitude & Prejudice: Attitude: Meaning – three components – Attitude Formation: Social Learning, Genetic Factors, Attitude Functions, Attitude- Behavior link. Persuasion: The Early Approach &amp; the Cognitive Approach. Attitude Change: Cognitive Dissonance – Attitude scales. Prejudice:Nature,Sources,Consequences,Techniques for minimizing prejudice.
+Unit- IV: Group Dynamics & Leadership: Group: Nature, functions, types of group, theories of group formation, Social facilitation, Social loafing, Group Think, Influence of minority. Leadership: Meaning – three major types – functions – theories – Nature and impact in groups, Gender differences, Leader effectiveness, Transformational, transactional and other types of leadership.             
+Unit V: Applying Social Psychology to arenas of life and to one's own life: Applying social psychology: In Media, Legal System, Politics, Work settings, Community/Culture, Health and Environmental Psychology, social neuroscience Applying social psychology to personal relationships, to classroom and to good life - balance optimism and pessimism.
+Recommended texts
+Robert A. Baron &amp; Nyla R. Branscombe, Social Psychology, 13 th Edition, Pearson Education.
+David G. Myers, Prem Sahajpal, Pushpita Behera. (2012) Social Psychology, 10 thEdition,McGraw Hill Education(India) Private Limited. 
+Robert S. Feldman, (2001). Social Psychology 3 rd Edition, Pearson.
+
+References:
+Schultz, W., Oskamp.S (2000). Social Psychology: An applied perspective, Upper saddle River, NJ Prentice Hall.
+Frank W.Schneider., Jamie A. Gruman., Larry M.Coutts. (2005) Applied social Psychology- Understanding and Addressing Social and Practical Problems, Sage publications. 
+Gruman J, A,: Schneider, F. W. &amp; Coutts, L.M. (2017). Applied Social Psychology:Understanding and Addressing Social and Practical problems. 3ed edition. New Delhi: Sage Publications.
+Web resources
+https://www.youtube.com/watch?v=9VlWm6OJA4k scope of social psychology in India
+https://www.youtube.com/watch?v=tcvouz1v12M social psychology
+Out of Syllabus: Self Study
+Develop a semi structured interview schedule and conduct an attitude survey
+
+
+
+Course Name: ADVANCED COGNITIVE PSYCHOLOGY
+
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 5
+
+OBJECTIVES: - 
+Main objectives of this Course are:
+1. To develop an understanding of Cognitive Neuropsychology
+2. To give orientation about different methods in cognitive neuroscience
+3.  To explain brain structure and functions
+4. To develop the concept behind the neurological functions of sensory, motor, attention and memory
+5. To provide the understanding of brain functions related to executive functions, emotions and social cognition
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K1): Recognize the importance of cognitive neuropsychology and its connections to human behavior
+CO2(K2): Explain about various methods in cognitive neuroscience and its applications
+CO3(K2): Understand the structure and functions of brain and its application in understanding various disorders
+CO4(K4): Discuss the importance of cognitive bases of perception and the neural bases of sensory motor functions
+CO5(K3): Explain the neural background for higher order cognitive functions, such as attention, language, executive functions, learning and memory, consciousness and emotion regulation.
+Lesson - Units
+Unit- I: Introduction to cognitive neuropsychology–  Brief History of cognitive neuroscience –  Present and existing future of cognitive neuroscience,  experimental approaches to Brain functions- localization and lateralization overview of methods in cognitive neuroscience -  Invasive  and  noninvasive methods.
+Unit- II: Introduction to  brain- Structure and functions of the Neuron,  Brain Anatomy and functions-  the gross organization of the brain- lobes,  cerebrum-  cerebral cortex-  subcortex-  midbrain- hindbrain- connectivity of the brain- neurotransmitters and hormones.
+
+Unit- III: Memory and Language:  Working Memory – Process of Forgetting – Memory Distortions – Reconstructive Retrieval – Recovered Memory – Memory Illusion – False Memory – Eyewitness Testimony – Approaches to Memory- Information processing & connectionist.   Defining Language – Origin of Language – Meaning, Structure and Use – Universal Language –  Language acquisition, models of reading and language comprehension; Meaning and beyond; Language production
+
+Unit- IV: Problem Solving  and reasoning: Types of Thinking – Well Defined and Ill-Defined Problems – Productive and Reproductive Problems – Model of Problem Solving - Reasoning and Decision Making – Categorical Syllogism – Conditional Syllogism – Errors in Deductive Thinking – Theories of Deductive Reasoning – Syllogistic Reasoning, Syllogistic Forms – Common Errors – Conditional Reasoning – Inductive Reasoning – General Inductions – Specific Inductions
+
+Unit- V: Neuropsychological tests – principles of neuropsychological assessment- rationale and goals (orientation sensation, perception attention and concentration, motor skills, verbal functions and languages) overview of neuropsychological battery- domains and measures of tests- HalsteradReitan, luria Nebraska, PGI BBP, NIMHANS battery
+Recap: Importance of cognitive- neuro- psychology , structure and functions of brain- neural basis for sensory, motor, attention, speech and language functions, memory, forgetting, reasoning, problem solving and decision making, Social and emotional cognition.
+Learning Resources:
+Recommended Text Books:
+Jamie Ward (2015), “The Student’s Guide to Cognitive Neuroscience”- Third Edition, Psychology Press, London NewYork
+Baddley, A. (1997). Human memory: Theory and practice. New York: Psychology Press.
+Harley, Treror, A. (2002). The psychology of language: From data to theory. Taylor Francis.
+Smith, E.E. &Kosslyn, (2007). Cognitive psychology: Mind and brain. Prentice Hall.
+Tripathi, A.N. &Babu, Nandita (2008). Cognitive processes. In Misra, G. (Ed.). Psychology in India: Advances in Research, Vol. 1. New Delhi: Pearson Education.
+Liro P. Jaaskelainen (2015),”Introduction to Cognitive Neuroscience” – bookboon.com
+
+References:
+Kellogg, R. (2016). Fundamentals of cognitive psychology. Thousand Oaks: SAGE Publications.
+Smith, E., Kosslyn, S., &Barsalou, L. (2008). Cognitive psychology. New Delhi [India]: Prentice Hall of India.
+Sternberg, R., & Sternberg, K. Cognitive psychology (7th ed.). Wadsworth Publishing.
+Groom , D. (2014) . An Introduction to Cognitive Psychology - Processes and Disorders. USA: Psychology Press.
+Reed, S. K. (2010). Cognition - Theories and Applications  . UK: Wadsworth Cengage Learning.
+
+Web Sources:
+https://www.youtube.com/watch?v=EtxibYcyDz0
+https://www.youtube.com/watch?v=plm9tmkOV88
+https://www.youtube.com/watch?v=ZudHhIDG3M4
+https://www.youtube.com/watch?v=kVollCt4_dQ
+https://www.youtube.com/watch?v=gdzmNwTLakg
+https://www.youtube.com/watch?v=tFHL1_DStY8
+Outside Syllabus: Self Study
+Trends in cognitive neuroscience research
+Hemispheric Specialization
+Brain damage and neurological disorder
+Neuroimaging and EEG
+Reflection of Neurological issues in cognition , affect and action
+Social Cognition. Personality. Evolutionary Psychology and brain
+Course Name: PSYCHOLOGICAL ASSESSMENT – II
+
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 5
+
+OBJECTIVES: - 
+Main objectives of this Course are:
+To gain knowledge in assessment used at workplace
+To familiarize with  Psychometric properties of  tests
+To Administer psychological test according to the guidelines
+To understand and interpret the person’s test scores
+To understand and solve the ethical issues in Psychological assessment.
+
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Explain the  application of  psychological testing at work place .
+CO2(K2):  Identify the appropriate psychological test  in recruiting and managing employees
+ CO3(K3): Determine how to discuss the obtained individual data and write a report
+ CO4(K4): Evaluate the ethical issues in psychological testing.
+ CO5(K6): Infer the Individual differences through psychological testing.
+
+At least 10 tests have to be conducted from the following list
+1.    Communication Skills Assessment
+2.    Emotional Intelligence
+3.    Work Motivation
+4.    Organizational Commitment
+5.    Job Involvement
+6.    Organizational  Stress
+7.    Fundamental Interpersonal Relationship Organization Behavior
+8.    Work Motivation Questionnaire (WMQ)
+9.    Conflict Style Inventory
+10.  Managing by Motivation
+11.  Daftuar Types at Work (DTAW)
+12.  Leadership Effectiveness Scale
+13.  Employee Engagement Scale
+14.  Working Styles Assessment
+15. Organization Effectiveness Scale 
+Recap: The test can be discussed along with the process of construction and validation
+Recommended Text Books:
+Anastasi. A. &Urbina.S. (2002), Psychological testing, 7th Edition, Pearson Education, USA
+Gregory.R.J. (2005). Psychological testing, history, principles and applications. 4th Edition, Pearson Education, USA.
+References:
+Freeman, G.B. (1971) Theory and Practice of Psychological testing . New Delhi : Oxford and IBH Publishing Co.
+Kaplan, R.M &Saccuzzo, D.P (2007). Psychological Testing. Delhi: Cengage Learning India.
+Singh, A.K. (2004). Test Measurements and Research Methods in Behavioural Sciences. Patna: Bharat Bhavan Publishers and Distributors.
+
+Web resources:
+https://www.psychologydiscussion.net/essays/essay-on-the-uses-of-psychological-test/742
+https://www.youtube.com/watch?v=6HtnBBmuZpI
+https://www.verywellmind.com/psychometric-properties-425262
+
+Outside Syllabus: Self Study
+Students can refer the psychological research done using the above test
+They can conduct a research study using the tests .
+
+
+SEMESTER-III: INDUSTRIAL MODULE
+
+Course Name: PSYCHOLOGICAL TRAINING MODULE
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+OBJECTIVES: 
+Major objectives of this course are:
+To help students understand the method of preparing Psychological Training Modules using counseling techniques.
+To design customized training module for various target groups
+To utilize the psychological principles in constructing training module
+To apply psychological interventions in bringing constructive change in thinking, affect and behavior
+To help students acquire necessary skills to conduct Training Programmes
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+Conduct needs assessment and prepare the concept background for the training programme.
+Design a psychological training module with the detailed planning and structuring of a course to achieve specific instructional goals.
+Infer a better understanding of practical knowledge, skills and attitude to conduct training programmes.
+Adapt specific psychological techniques into a training module.
+Analyze and design appropriate assessment and evaluation tools that accurately reflect the results of the training module.
+
+METHOD: This paper is an extension of the theory paper Training and Development (PAPER XX - MP / ID / 306 – INTER DISCIPLINARY, CREDITS 3) offered in the third semester. 
+The Modules chosen by the students from the list given below will be oriented to the students in one or two (few) sessions. 
+Each Student has to develop 6 modules under the guidance of a supervisor (out of which 3 will be from self-help skills topics found below and 3 from interpersonal skills topics) using psychological concepts and counseling techniques (BMT, CBT, REBT, etc could be used)  for specific target populations. 
+Students are expected to submit a project report about the training procedures.
+SELF-HELP SKILLS (Practical Oriented Teaching)
+Self-Awareness
+Stress Management & Relaxation Training
+Self-Concept, Self Esteem Skills
+Assertiveness skills
+Anger management
+Diary keeping and self-analysis
+Goal setting behaviors
+Time management skills
+Physical disciplines - Exercise, etc.
+Reading skills
+Coping with Complexity And ambiguity
+Coping Emotions
+Coping with failures
+Creative thinking
+Self-efficacy skills
+
+
+
+INTERPERSONAL SKILLS (Practical Oriented Teaching)
+Communication Skills (Styles)
+Facilitation and Moderation Skills.
+Conflict management
+Problem solving and Decision Making
+Motivation and Leadership Skills
+Peer Counselling
+Relationship Skills (also with reference to opposite sex and Martial relationship)
+Event Management Skills
+Team Building
+Empathy and interpersonal relationship skills
+Negotiation and confrontation skills
+Learning Resources:
+Recommended text books:
+Agochiya, D. (2002). Every trainer's handbook . Sage Publications .
+Tony Bray (2012) The training Design manual the Complete Practical Guide to Creating Effective & Successful training programmes , Kogan
+Blanchard, N. P. &Thacker, J. W. (2009).Effective training: systems, strategies and practices, Pearson Education.
+
+References:
+Hackett, P. (1998).Introduction to training, University Press India Ltd.
+Colvin Clark  (2010).Evidence-Based Training Methods: A Guide For Training Professionals 2nd Edition.
+Elaine Biech (2015). Training and Development for Dummies, John Willey & Sons Ltd.
+Rolf P. Lynton and UdaiPareek's( 2011).   Training for Development,3rd Edition, Sage Publications.
+Burnard, P. (1999). Counselling skills training – A sourcebook of activities for trainers, Viva Books Private Limited.
+
+
+Course Name: HUMAN RESOURCE MANAGEMENT
+
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 4
+
+OBJECTIVES: - 
+Main objectives of this Course are:
+1. To introduce the fundamental concepts of the HR Department and its structure, personnel policies and principles.
+2. To enable the students to learn the process and the sources of planning, recruitment, selection and identify appropriate performance appraisal methods.
+3. To impart skills in designing training and development programs and explain the maintenance of Human Resources.
+4. To understand the appraisal process and methods.
+5. To investigate the causes of stress and describe the models of stress.
+
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K1): Define and describe human resource management.
+CO2(K3): Examine the process and sources of recruitment.
+CO3(K4): Analyze the techniques of training.
+CO4(K5): Evaluate the different types of rewards.
+CO5(K6): Discuss the legal benefits and services provided by organizations.
+
+Lesson - Units
+Unit- I: Introduction to Human Resource Management- Scope- Objectives of human resource management-Structure and functions of human resource department - Image and qualities of HR managers - Evolution of human resource management –Personnel policies and principles –Human resource management model.
+Unit- II: Acquisition of Human Resources- Human resource planning and forecasting - Job analysis - Job description and Job specification-Process and sources of recruitment-Selection process.
+Unit- III: Development of Human Resources- Training and development– Designing training and development programme- Methods and techniques of training- Evaluation of training program.
+Unit- IV: Motivation of Human Resources -Job design work scheduling and motivation-Job characteristics model- Job enrichment- Job rotation- Work modules- Flextime-New trends in work scheduling. Performance Appraisal – Appraisal process - Appraisal methods – Factors distorting appraisals. Rewarding the productive employee -Types of rewards-Qualities of effective rewards- Criteria for distribution of rewards.
+Unit- V: Maintenance of Human Resources- Benefits and Services-Legal benefits and services provided by organizations. Disciplining the problem employee. Safety and health- The occupational safety and health act. Safety programme- Causes of accidents- Preventive measures. Health programmes- Causes of stress - A model of job stress - Causes of burnout – Reducing burnout.
+Recap: Image and qualities of HR managers, Designing training and development programme, Factors distorting appraisals, Causes of accidents.
+Learning Resources:
+Recommended Texts:
+1. Decenzo, D.A.,Robbins-D. A.,Verhulst,L.S. (2015).HumanResourceManagement(11th ed) India:Wiley.
+2. Aswathappa K. (2006). Human Resource and Personnel Management (4th ed.). New Delhi:Tata McGraw Hill Publishing company limited.
+3. Dessler D. &amp;Varkkey B.,(2017). Human Resource Management, (16th ed.) India :Prentice,Hall Private Limited
+References:
+1.Mamoria-C. B (2007). PersonalManagement, Twelfth edition, Mumbai : Himalaya Publishing House
+2. Durai.P.(2020). Human Resource Management (3rd ed).India: Pearson Education.
+3. Decenzo - D.A. - Robbins - D. A. (2007). Personnel/ Human Resource Management India: Prentice-Hall Private Limited.
+Web sources:
+https://www.economicsdiscussion.net › personnel-policies- Personnel Policies: Meaning, Definitions, Types, Importance
+https://www.toppr.com › human-resource-management- Recruitment Process : HRM, External and Internal Sources
+https://safetyculture.com › Topics- The Process of Evaluating Training Programs – Safety Culture
+https://kitaboo.com › training-evaluation-evaluate-training- 5 Best Ways to Evaluate Training Effectiveness and Impact
+
+Outside syllabus- Self Study
+Equal employment opportunity
+Career development.
+Research in Human Research Management.
+Course Name: COMMUNITY PSYCHOLOGY
+
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 4
+
+OBJECTIVES: - 
+Main objectives of this Course are:
+To understand the important concepts in community Psychology.
+To understand the fields of community psychology.
+To describe the various preventive measures that can be adopted in the community.
+To explain ways to provide supportive measures in the community and psychological first aid in cases of traumatic stress.
+To analyze ways in which community and social change can be facilitated.
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Describe the concepts of Community Psychology
+CO2(K3): Explain the importance of working with the Community
+CO3(K4): Classify the community interventions and psychological first aid.
+CO4(K5): Investigate on the needs of the community 
+CO5(K6): Recommend strategies for proper implementation of community psychology projects.
+Lesson - Units
+Unit- I: Introducing Community Psychology: History of community psychology. Aims of community research. Methods of community psychology research. Understanding individuals within environments and the community
+Unit- II: Preventing problem behavior and promoting social competence:  Understanding the key concepts of prevention and promotion. Ways to implement programs.
+Unit- III: Promoting community and social change: Citizen participation and empowerment. Program evaluation and program development.
+Unit- IV: Community based psychological first aid: Introduction. On being a helper in providing CBPFA. Traumatic stress.-emotional, physical, behavioral and cognitive reactions to stress. Stress of disasters. Coping with stress. CBPFA with marginalized and rural communities.
+Unit -V: Group service learning project on a community related issue: Skill training exercises for the students.
+Recap: Conducting quiz, class test, assigning students to do review sessions,“Question hour”
+
+Learning Resources 
+Recommended Text Books
+1. Thomas, E., Kloos B., Hill J., Wandersman A., Elias M.J. & Dalton, J.H. (2012) Community Psychology: Linking Individuals and Communities, 3rd Edition. Wadsworth Publishing.
+2. Jacobs,G.A.(2016) Community based Psychological first aid -- A Practical Guide to Helping Individuals and Communities During Difficult Times, Elsevier,Ltd.
+
+References:
+1. Johnson, D.W. (1986) Reaching out interpersonal effectiveness and self-actualization, 3rd edition. New Jersey: Prentice Hall.
+2. Johnson, D.W. & Johnson F.P. (1982) Joining together, 2nd Edition. New Jersey: Prentice Hall.
+
+Web References:
+www.springer.com
+www.gicpp.org
+www.scrahl.org
+Outside syllabus- Self Study
+Social Issues and community based interventions relevant to the Indian  context.
+
+
+Course Name: DISSERTATION
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+OBJECTIVES: 
+Major objectives of this course are:
+Identify the  research problem on the basis of relevant literature review 
+Adopt appropriate research design to undertake the research study
+Apply research methodology in selection of sample, finalization of tools for research
+Collect data and analyze the results
+Present the research work in the form of dissertation
+
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K2): Identify gap in knowledge in existing literature
+CO2(K3): Apply appropriate sampling techniques and research design
+CO3(K2): Choose appropriate psychological tools for data collection
+CO4(K6): Design an research plan and carry out a independent research
+CO5(K6): Prepare a research report
+
+
+
+SUGGESTED FORMAT FOR DISSERTATION
+Lesson - Units
+Unit- I: Introduction :
+Conceptual Framework / Theoretical Framework
+Need of the study
+
+Unit- II: Review of Related Literature (Last ten years)
+Introduction (Brief)
+Studies on variables, sample and related variables and samples
+Critical analysis of reviews collected
+
+Unit- III: Method of Investigation
+Introduction
+Statement of the Problem
+Objectives
+Hypotheses
+Research Design (Methodology)
+Sample (Sample, Sample Size, Sampling technique & Delimitation)
+Variables
+Tools (Description of the Tools – Author(s), Year, Target Group, No of items, Scoring, Norms, Reliability & Validity)
+Statistical techniques
+Unit- IV: Results and Discussion
+Introduction
+Tables followed with discussion
+
+Unit- V: Summary and Conclusion
+Summary (one and half pages)
+Findings
+Suggestions & Recommendations
+Implications
+Conclusion
+
+
+
+Reference  (APA FORMAT)
+
+
+Appendices  (Tools used, item analysis if any, special diagrams, photographs if any)
+
+
+
+
+GROUP I
+
+Course Name: GERIATRIC: CHALLENGES AND DEVELOPMENT
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+OBJECTIVES:
+Major objectives of this course are:
+Acquire an insight about the aging process
+Envisage the physical and psychological changes of the aged people
+Identify the symptoms of mental illness in old age.
+List out the welfare policies and agents for elderly care.
+Express the issues of caregiving, case management and long term care regulations
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Attain a comprehensive and scientific knowledge based on various aspects relating to  geriatric care.
+CO2(K3): Analyze the health issues arising during old age.
+CO3(K4): Illustrate the welfare needs of the aged
+CO4(K4): Demonstrate skill development in managing elderly people in the family and  community settings for the welfare of the elder persons.
+CO5(K6): Identify and promote support systems and networking for care of the older persons.
+Lesson - Units
+Unit- I: Physiological conditions of old age: Understanding the physiological conditions of old age in context to life style, socio economic conditions, gender -Old age from an old age perspective- Old age from society’s perspective – Life expectancy in India and abroad – sensory problems – vision and eye diseases – cataracts – glaucoma – hearing loses – problems in movement and balance – Parkinson disease and dental problems – alcohol abuse – sexual activity.
+Unit- II: Health issues in old age: Heart diseases – BP – other cardiovascular problems – arthritis, diabetics, osteoporosis, cancer, kidney or bladder diseases, incontinence, indigestion, urinary tract infections, changes in the nervous system, immune system .
+Unit- III: Mental illness in old age: Symptoms of mental illness in old age – stress – different forms of stressors in old age – depression – Alzheimer and dementia – confusion due to multiple medication – loneliness – panic disorder-fear of death – anxiety – reduced mental and cognitive functioning – suicidal tendency – insomnia – substance abuse – falls .
+Unit- IV: Care and welfare needs of old age: Physical needs – health care needs – social needs – psychological needs – financial needs – retirement – singleness – adjustment problems of the aged – violence, neglect, abuse, crime, empty nest syndrome – governmental and nongovernmental welfare measures for the aged.
+Unit- V: Elderly care and management: Knowledge and skills required for old age care planning- assessments – financial support- legal and medical issues – referrals, advocacy and counseling – finding the resources human and material.
+Recap: Problems of old age people staying at home as well as old age  homes can be reviewed. Responsible behavior of families and citizens towards old age people can be discussed.
+
+
+Learning Resources:
+Recommended Textbooks:
+Behr, N. K. &Monhanty R P. (2005). Aging in changing social systems – their problems. New Delhi: Discovery Publishers House.
+Iswar M. (2001). Aging Human Development. New Delhi: Rawat Publications.
+Sandrock, J.W. (1999).  Lifespan development. New York: Mac-Graw Hill Publishing.
+
+References:
+Johnson. M. (2005). The Cambridge handbook of age and ageing . New York: Cambridge University Press.
+Mc- Innis Dittrich, K. (2009). Social work with older adults: A biopsychosocial approach to assessment and intervention. Boston: Allen and Bacon.
+
+Web sources:
+Educative videos on various welfare schemes, old age living conditions, counseling old generations and the like can be shared with the students.
+https://www.youtube.com/watch?v=Z_LbsK6LelE problems of elderly in India.
+https://www.seniority.in/blog/10-government-schemes-launched-for-the-benefit-of-senior-citizens/ aging policies and welfare schemes in India.
+
+Out of Syllabus: Self Study
+Visit to old age homes/senior citizen colony, terminally ill senior citizens can be observed a report submitted for gaining deeper understanding to the life of old people for their perspective, 
+Students can adopt an old age home and provide psychological assistance to them to better understand how to function as a psychologist.
+
+
+Course Name: ADDICTION COUNSELING
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+
+OBJECTIVES: 
+Major objectives of this course are:
+Gaining a basic understanding of addiction counseling and addiction theory.
+To familiarize with different types of drugs and their effects.
+To enable students to use various addiction counseling assessments & diagnosis
+To equip to students to psycho educate family members of addicted  patients
+To formulate appropriate treatment plan with respect to biopsychosocial environment of patients 
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K2): Distinguish various drugs and various types of addiction
+CO2(K3): Apply the knowledge relating to addiction counseling, assessment and Interview        techniques for making diagnosis
+CO3(K3): Able to Psycho educate family members to deal with addiction
+CO4(K4): Devise individualized treatment plan for addiction patients with respected to their bio-psychosocial environment
+CO5(K3): Apply various therapeutic techniques in addiction counseling.
+Lesson - Units
+Unit– 1: Introduction to Addiction Counseling & Therapy: Counseling relationship, establishing a genuine helping relationship, Disease model vs Moral model of Addiction, Contemporary Psychoanalytic models of addiction, Kohut’s self-psychology approach to addiction, defense mechanisms and addiction theory, advantage and disadvantages of psychoanalytic theory and contemporary analytic theories.
+Unit– 2: Types of Drugs and Their Effect: Drug categories, sedatives –hypnotics, stimulants, opians, narcotics, hallucinogens, and psychotropic medications. Effects of drugs on the brain, factors affecting the response to drugs, Federal Drug Administration Schedule of Drugs. Contemporary Forms of addiction: Internet, shopping, work, sex, gambling, food, gadget. Social media addiction. Addiction cycle: Emotional Trigger, Craving, Ritual, Using,Guilt.
+Unit– 3: Drug and Alcohol Assessments, Diagnosis and Interview Techniques: The counselor as a Facilitative Gatekeeper, Components of a Comprehensive Assessment Alcohol and Drug Assessment Instruments, Psychological Information, Medical Information. Psychological applications to addiction counseling, Assessments, techniques and Interviews, Clinical applications for counselors.
+Unit– 4: Families and Addiction: Bepko and Krestan Stage Theory, Family Life Cycle,Family Roles in Addicted Families, Al-Anon, Nar-Anon, Al-a-Teen, Families Anonymous, and ACOA Support Meetings, Intervention Strategies for Both Family and Addicted Member.
+Unit– 5: Developmental theories of Recovery, Relapse and Prevention Techniques: Developmental theory, advantages and limitations, relapse prevention, Gorski’s Relapse model, Marlatt’s Relapse model, application to addiction counseling, strengths and limitations. Biomedical model, Aversion therapy. Cognitive Therapy, Motivational Approaches to Addiction Treatment, Mindfulness based Therapies and Group Theory, Structure and Process.
+Learning Resources:
+Recommended Text books:
+Cavaiola,A.A .,&Smith,M.(2020).A comprehensive guide to addiction theory and counseling techniques.Routledge.
+Brook,F.,&McHenry,B.(2015).A Contemporary Approach to Substance Use Disorders and Addiction Counseling. American Counseling Association
+West, R. (2006). Theory of Addiction. Oxford : Blackwell.
+Moss, A., &Dyer,K. (2010). Psychology of Addiction. London: Palgrave Macmillan.
+Reference
+Miller, W.R., Zweben, A., DiClemente.,C.C&Rychtarik,R.G(1999).Motivational Enhancement Therapy Manual A Clinical Research Guide for Therapists Treating Individuals With Alcohol Abuse and Dependence.National Institute on Alcohol Abuse and Alcoholism Project MATCH Monograph Series.
+
+Web Resources
+https://www.counselling-directory.org.uk/addictions.html#whatisaddiction
+https://www.youtube.com/watch?v=ZkLtnaBpxCk
+
+Out of Syllabus- Self Study
+ICD classification mental and behavioral disorders due to use of psychoactive substances
+Creating profiles of patient with mental and behavioral disorders due to use of Psychoactive substances
+
+
+Course Name: TRAINING AND DEVELOPMENT
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+OBJECTIVES:
+The major objectives of this course are:
+To introduce the fundamental concepts of training and development.
+To identify the need for training and to develop appropriate skills to construct objectives.
+To understand different approaches to training and plan training methods.
+To examine different training styles and to apply the principles to conduct training programs and ensure quality management.
+To build skills in evaluating the training program.
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Differentiate training and development and describe its nature, need and scope.
+CO2(K3): Analyze and evaluate the reasons for training in the light of data collection methods, training design and learning style of participants.
+CO3(K4): Compare the merits and demerits of the experiential and non-experiential training techniques.
+CO4(K6): Formulate methods of improving productivity and quality in the workplace.
+CO5(K6): Recommend the techniques for evaluation of the training programme.
+Lesson - Units
+Unit- I: Nature and Meaning of Training and development:Training and Development – definition – difference between training and development activities– reasons for training skills – qualities of an effective trainer. Training as Performance Improvement practice.
+Unit- II: Training and Assessment  of needs:  Training Need Analysis – reasons , method of data collection, criteria for data collection . Learning styles of participants , factors influencing the learning process. Competence assessment and Skill gap analysis. Writing objectives: SMART objectives, ideas for writing objectives, task analysis.
+Unit-III: Training methods, designing and conducting: Training Programs Non-experiential training techniques – lecture method, audio visual assisted method, programmed instruction and computer assisted instruction method – suitability, advantages and limitations. Experiential Training techniques: Experiential learning approaches, simulation, in basket techniques, case study, role playing, T – groups, group discussion- Business games – suitability, advantages and limitations. Coaching and Mentoring. Conducting training programmes- training styles, gauging group dynamics.- Training the professional - presentation skills, participation materials, questing, concluding the training session.
+Unit-IV: Technical Training Systems: On the job and off the job technical training – training approaches to improve productivity and quality- TQM, TPM, 5-s concepts,  Six Sigma, Quality circles and Kaizen. Agile Methodology, LEAN, SCRUM, Kan-Ban, Design of Experiments. Training and career planning.
+UNIT V: Evaluation of Training: Purpose of evaluation, Kirkpatrick’s four levels of evaluation, guidelines for measuring the four levels, evaluation methods, ROI – process and benefits. Kaufman’s Five Levels of evaluation, The Philips ROI - process and benefits. Method of Validation, trainee validation, types of evaluation instruments - questionnaire/survey, interview, test, focus group, observation of participant, performance record.
+Recap: Process and skills can be recalled through role play in class room set up, for example: To prepare mini training modules and test it in stimulated corporate settings in class room set up, Prepare a report of various training techniques and challenges faced during training sessions, Identify the essential skills for an effective trainer.
+
+Learning Resources:
+Recommended Textbooks:
+Camp, R.R., Blanchard, N.P., &Huszczo, G.E. (1986).Toward a more organizationally effective training strategy and practice.  New Jersey:  Prentice Hall.
+Goldstein. I., & Ford, K. (2001). Training in organizations. 4thed.  CA: Wadsworth Thomson.
+Landale. A. (2006). Advanced Techniques for Training and Development. New Delhi: Infinity Books.
+Lynton, R. P., &Pareek, U. (2013).  Training for Development. 3rded. New Delhi: India: Sage Publications.
+Blanchard, N.P., &Thacket, J. W. (2009).  Effective training: systems, strategies and practices.  New Delhi, India: Pearson Education.
+
+References:
+Biech, E. (2005).  Training for dummies.  Hoboken, NJ: Wiley Publishing Inc.
+Songh, P. N. (1996). Training management development. 4th ed. Mumbai: Suchandra Publications.
+Hardinghan, A. (1998). Training essential – Psychology for trainers.  London, England: Chartered Institute of Personnel and Development.
+Agochiya, D. (2009).  Every trainer’s handbook.  2nd edition. New Delhi: Sage Publications.
+Rothwell, W., Hohne, C. and King, S., 2018. Human performance improvement. England.
+Whitmore, J. and Lyddon, R., 2017. Coaching for Performance, 5th ed. Nicholas Brealey Publishing.
+Singh P N. (1996). Training Management Development.  Mumbai: Suchandra Publications.
+Janakiram, B. (2007).  Training and Development.  New Delhi: Biztantra.
+
+Web sources
+https://youtu.be/qBQqR_DBwlo
+https://youtu.be/bNp7v2e4GRs
+https://youtu.be/d_HHnEROyw
+https://youtu.be/rT4XW9ogHD0 
+https://youtu.be/wzicXbnmllc
+
+Out of syllabus -  Self study 
+Visit a training department and submit a report on the various activities undertaken by the department.
+
+
+GROUP II
+
+Course Name:  PSYCHOLOGICAL INTERVENTION FOR DEVELOPMENTAL DISORDERS 
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+
+OBJECTIVES:
+
+On successful completion of syllabus students will be able to: 
+
+1. To introduce various Developmental Disorders
+2. To understand the causal factors of childhood disorders.
+3. To gain knowledge about the different types of assessment used in psycho diagnosis of childhood disorders.
+4. To explain the psychological principles in management of childhood disorders.
+5. To recommend suitable intervention strategies in hypothetical case studies.
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K2): Describe the clinical picture of childhood disorders.
+CO2(K2): Explain the causal factors and prevalence of childhood disorders.
+CO3(K3): Compare the diagnostic criteria of different childhood disorders.
+CO4(K4): Identify the different types of psychological assessment of various childhood disorders.
+CO5(K5): Apply various behavioural management and remedial education strategies for the different developmental disorders through hypothetical case discussions.
+Lesson - Units
+Unit- I: Intellectual Disability - Definition, classification, prevalence,  etiology,  early identification, interpersonal deficits, behavior problems and management. Common intellectual disability syndromes - hypothyroidism, Fragile X syndrome, Down’s, William’s, PKU.
+Unit- II:Language and learning disabilities-  Definition, prevalence, etiology – social and
+motivational factors. Assessment- tests of intelligence and cognitive abilities - underlying psychological and cognitive deficits. Treatment approaches-  individualized educational program, remedial teaching.
+Unit-  III: Attention deficit hyperactivity disorder- Diagnostic criteria – co morbid factors - academic, social &amp; conduct problems. Etiology - biological, family and social influences.Assessment -interviews, behavior rating scales. Treatment – medication, behavior
+modification, self-regulation and cognitive behavioral intervention.
+Unit- IV: Anxiety and other Disorders - Generalized anxiety, separation anxiety, social phobias, school phobia, specific phobias, Obsessive Compulsive Disorder. Schizophrenia in
+children and adolescents. Childhood depression. Conduct disorder. habit disorders-treatment
+Unit- V:Autism spectrum disorders- Prevalence, psychological and behavioral functioning, etiology,  assessment, comprehensive educational treatment and behavioral intervention. Presentation of case formulation and recommend suitable intervention strategies in hypothetical cases.
+Recap: Conducting quiz, class test, assigning students to do review sessions, “Question hour”
+Learning Resources:
+Recommended Text books:
+Wicks – Nelson, R., &amp; Israel, A. C. (1984). Behaviour disorders of childhood. Englewood Cliffs, New Jersey.
+Malavika Kapur (2011). Counselling children with psychological problems. Pearson
+Diagnostic and statistical manual of mental disorders: DSM-5TM (5th ed.). (2013)Arlington, VA, US: American Psychiatric Publishing, Inc.
+
+Reference
+Learner,J.&Kline,F. (2006) Learning Disabilities and related Disorders – Characteristics and Teaching Strategies 10th ed. Houghton Mifflin
+Matson, A., & Matson (Eds.) (2009). Treating Childhood Psychopathology and Developmental Disabilities. Springer
+Jacobson, M &Rojahn (2008). Handbook of Intellectual and Developmental Disabilities (Issues in Clinical Child Psychology). Springer.
+Thambirajah& Ramanujan (2016). Essentials of Learning Disabilities and Other Developmental Disorders. Sage Publications.
+Henderson,D.A.,&Thomson ,L.C.(2016) Counselling children (9 th ed.) Cengage Learning,Boston
+Thomas,P.H., Fedewa,A.L.(2021) Counselling & Psychotherapy with children & Adolescents-Theory &Practice for school & Clinical settings(5 th ed.) John Wiley &Sons,Canada
+
+Web Resources:
+https://alison.com/course/understanding-child-development-and- disabilities
+https://www.coursera.org/learn/child-development
+
+Out of Syllabus- Self Study
+Ethical and legal issues in psychological interventions with children and adolescents.
+Play therapy with children
+
+Course Name:  CASE STUDY
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+
+Objectives:
+
+Main Objectives are:
+
+1. Identify problem areas of individuals /industry to study in-depth.
+2. Formulate cases / design training programme for specific purpose
+3. Apply psychological principles in imparting training /counselling
+4. Analysis the assessment results and design specific intervention programme
+5. Recommend referrals/ Career Counselling / professional development
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1 (K2) Prepare the case studies related to the different areas of counselling /Industry
+CO2 (K3) design training programme for industries with specific purpose
+CO3 (K3) Apply the Counselling process/ Intervention techniques for various clientele
+CO4 (k4) Prepare a case report based with suggestive intervention / training
+CO5 (k5) refer clients /conduct career development programmes
+
+Framework:
+
+Candidate should select at least 5 cases from different areas such as school counselling, family counselling, adolescent counselling, marital counselling, Industry specific training- Employee Counselling, Change management, Employee engagement, Employee Wellbeing, Counselling for Employee risky behaviour and geriatric counselling.
+
+The case studies reports should include
+1. Case history, e.g., Genogram of the Client / Organogram
+2. Identification of the problem
+3. Psychological Assessment- Administration, Interpretation, profiling
+4. Counselling strategies adopted for intervention /training
+5. Verbatim report of all sessions /module
+6. Summary and Outcomes
+7. learning outcome
+
+
+Course Name:  PSYCHOTHERAPY
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+
+OBJECTIVES:
+The main objectives of the course are:
+1. To gain an understanding of the different types of psychological therapies
+2. To describe the application of psychological therapies.
+3. To explain the process of psychotherapy
+4. To understand the application of counseling and psychotherapy in groups and families.
+5. To understand the procedures of certain alternative methods to psychotherapy
+
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K2): Describe the basic concepts of different psychological therapies.
+CO2(K3):  Examine the process of psychological therapies.
+CO3(K4): Analyze skills and techniques used in specific groups/ problems.
+CO4(K5): Critically evaluate psychological therapies for specific groups/ problems.
+CO5(K5): Recommend suitable strategies to be used in hypothetical cases.
+
+Lesson - Units
+Unit- I: Psychotherapy formulation- Definition, types and purpose of formulation. Structured case formulation methods. Therapeutic process: transference, counter transference and resistance. Types of transference and counter transference.
+Unit- II: Group counselling and group therapy: definition – assumptions underlying group work, Historical perspective of group counselling and therapy – group dynamics and development, Therapeutic factors – Process and outcome in group counselling and psychotherapy - ethical issues in therapeutic group work.
+Unit- III: Family therapy: Family therapies that focus on background- Adlerian family therapy, multigenerational family therapy, Structural family therapy. Family therapies that focus on emotions, Emotionally focused couples therapy- Experiential family therapy. Skill development: genograms.
+Unit- IV: Supportive Psychotherapy –objectives, indications and contraindications. Supportive measures: Application of psychotherapy in certain areas : Psychotherapy for Obsessive Compulsive Disorder, personality disorders, post- traumatic stress disorder and psychoses
+Unit- V: Alternatives to counselling and psychotherapy: Eye movement desensitization therapy, Mindfulness based therapy, Neuro linguistic programming, Yoga therapy and Art Therapy. Method: Workshops to be organized by experts on these topics.
+Recap: Conducting quiz, class test, assigning students to do review sessions, “Question hour”
+Learning resources:
+Recommended text books:
+Jacobs, Ed. E., Masson, R. L., &amp; Harvill, R.L. (2011). Group counselling –strategies and skills. (7th ed.). Pacific Grove: Brooks/Cole.
+Ells, Tracy.D.(2007 ). Handbook of psychotherapy –Case formulation (2 nded.)The Guilford Press,New York
+Elsie,J.S. (2016), Theories of Counselling and Psychotherapy: an integrative approach, SAGE publication, Inc, (2 nd ed.)
+Feltham, C., Hanley, T., &Winter, (Eds.) (2017).The SAGE Handbook of Counseling and Psychotherapy. (4th ed.) London: Sage Publications Ltd.
+Seligman, L. and Reichenberg, L. (2014). Theories of Counselling and Psychotherapy: systems, strategies and skills. 4th ed. United States of America: Pearson Education.
+
+References
+Hersen, M., & Sledge, W. H. (2002). Encyclopedia of psychotherapy. Amsterdam: Academic Press.  
+
+Web references
+https://www.ericdigests.org/1992-1/basic.htm 
+https://www.jfhc.co.uk/play-therapy-as-a-mental-health-intervention-for-children-and-ad 
+https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/crisi https://www.healthissuesindia.com/mental-health/
+Out of Syllabus- Self Study
+Case examples particularly pertaining to the Indian context.
+Videos of psychotherapeutic methods
+The use of psychodrama in therapeutic change.
+Course Name: LEARNING DISABILITY 
+
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+
+
+OBJECTIVES:
+The main objectives of the course are:
+
+1. To comprehend the nature, types and sources of stressors.
+2. To understand the impact of stress on physical and mental health.
+3. To understand the nature, types and methods of coping with stress,
+4. To appreciate and cultivate social support to mitigate stress.
+5. To learn specific techniques to deal with stress with the help of practicum.
+
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K1): Examine the nature and causes of stress
+CO2(K2): Identify the positive and negative effects of stress
+CO3(K3): Explain the coping style of stress.
+CO4(K4): Appraise the effective ways of social support.
+CO5(K6): Discuss the psychological techniques to manage stress.
+Lesson - Units
+Unit- I: Introduction: Definition and Meaning of Stress and Stressor; Types of stress and symptoms of stress. Factors that cause stress: The General Adaptation Syndrome, The Diathesis Stress Model, Sources of Stress
+Unit- II: Effects of Stress: Positive effects of stress: Optimal stress and positive psychological functioning. Negative effects of stress: Effect of stress on physical mental health
+Unit- III: Coping with Stress: Introduction to Coping. Personality and Coping. Coping Style: Problem Focused and Emotion Focused Coping. Spiritual coping- Yoga, Meditation. Psychosocial Resources. Resilience: Growth through Trauma. Learned optimism, Hope, gratitude as psychological moderators of stress
+Unit- IV: Social Support - Meaning Effects of Social Support on Illness. Bio psychosocial Pathways. Moderation of Stress by Social Support. Effective Types of Social Support. Enhancing Social Support.
+Unit- V: Interventions for Stress Management - Coping Interventions: Expressive Writing, Self-Affirmation, Relaxation Training, Exercise, Diet, Cognitive interventions, Time Management, Communication skills training: Assertiveness training
+Recap: Types and symptoms of stress, Effects of stress on physical mental health, Coping interventions.
+
+Learning resources:
+Recommended text books:
+1.Greenberg J. S (2009). Comprehensive stress management. McGraw-Hill Education.
+2. Straub, O,R (2001) Health Psychology. U.S.A.: Worth Publishers.
+3. Taylor, E.S. (2018). Health Psychology. (10 the.d.) India: McGraw Hill Education (India)
+4. Nanda, M. (2006). Handbook on stress management. New Delhi: Indialog Publication Pvt.Ltd.
+
+References:
+Clegg. B. (2000) Instant stress management: bring calm to your life now. London: Kogan Page.
+DiMatteo, R.M., &amp; Marting, R.L (2002). Health Psychology, India: Pearson India Education Services Pvt. Ltd.
+Nanda, M. (2006). A Handbook on Stress Management. India:lndialog Publications Pvt. Ltd
+Turkington, C. (2005) Stress management for busy people. India: McGraw-Hill.
+
+Web sources:
+http://opentextbc.ca/introductiontopsychology/chapater/15-2-stress-and-coping/- Stress and coping 
+http://courses.lumenlearning.com/boundless-psychology/chapater/coping-with-and- managing-stress/ - Coping with and managing stress. 
+http://www.garrettcollege.edu/images/faculty/kasecamp/PSY101/psy7.pdf- Notes - Health, Stress &amp; Coping 
+http://college.cengage.com/psychology/bernstein/essentials/4e/assets/instructors/outlines/ch10_outline.pdf - Chapter Health, Stress and coping.
+
+Out of Syllabus (Self Study):
+Health-Endangering Behaviors
+Promoting Healthy Behavior
+Cognitive coping strategies change the thinking process about stressors.
+James Prochaska - five stages of successful change
+
+
+		GROUP-III
+Course Code:  RELATIONSHIP COUNSELING FOR CHILDREN AND YOUNG PEOPLE
+Year and Semester:      rdyr ,th Semester
+Credits : 2
+
+
+OBJECTIVES:
+
+On successful completion of syllabus students will be able to: 
+
+Familiarize concepts, models and theories related to Relationship counseling
+Acquire advanced theoretical understanding of Counseling with Children and Young People, integrating opportunities to develop professional and practical counseling skills.
+Apply Relationship counseling skills in real time scenarios
+To learn competences based on professional body standards to work with children and young people
+Identifying the ways in which children and young people manage and process their emotions, including the ability to recognise situations where they are finding it difficult to access these
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K3): Demonstrate counseling techniques to help child explore relationships
+CO2(K3): Employ strategies to address child and young people relationship with significant others
+CO3(K3): Apply  relationship counseling techniques to attend to a young person’s relationships.
+CO4(K3): Apply family therapy practice focussing child and adolescence
+CO5(K3): Implement evidence based  practice that is ethically oriented and ensures safety of the clients
+Lesson - Units
+Unit- I: Helping and Exploring Child’s Relationship: Helping the Child to Talk about Their Relationships- Contracting with Parents, The Purpose of Individual Counseling, Attributes of the Child’s Counsellor, Combining Media and Activity with Counseling Skills, Joining with the Child. Combining Media and Activity with Counselling Skills, Exploring the Child’s Relationships with Parents and Siblings- Working with Children of Age 7 Upwards Using Miniature Animals, Working with Children of Age 5–7 Using Symbols in the Sand Tray, Working with Children of Below Age 5 Using Imaginative Pretend Play, Integration of Individual Counselling Work for the Child with Family Counselling,
+Unit- II: Addressing Child Relationship: Addressing the Child’s Relationships with Parents and Siblings- Whole Family Counselling, Counselling for Individual Children, Group Counselling for the Children Concerned, Using Clay to Address Relationship Issues between Siblings, Counselling for the Parent/s and Child/Children , Family Counselling to Integrate and Complete the Work,  Addressing the Child’s Relationships with Peers, Teachers and Other Adults- The Role of Parents, The Development of Social Skills, Relationship Counselling for the Child,
+Unit- III: Young person's relationship with Family: Helping Young People to Talk About their Relationships- Being Authentic and Open, Drawing on Existentialist Philosophy and Constructivist Thinking, Being Proactive in Introducing Creative, Experiential, Cognitive, and Psycho-educational Strategies, Responding to the Young Person’s Developmental Needs, Working Within the Young Person’s Constructs, Matching an Adolescent Style of Communication, Relevant Counselling Skills, Transitional, Choice and Guru Questions, Normalizing, Attending to the Young Person’s Relationships within the Family- Ways to Attend to the Young Person’s Relationships in the Family, Family Counselling, Individual Counselling, Young Person–Sibling Subgroup Counselling, Young Person–Parent Subgroup Counselling, Integration into Whole Family Counselling.
+Unit –IV: Young Persons relationship with Significant Others: Focusing on the Young Person’s Relationships with Peers- Building and Maintaining Relationships, The Influence of Peer Pressure, Dealing with Sexuality Issues, Individual Counselling, Group Counselling, Addressing a Young Person’s Relationships with Teachers, Employers and Other Adults- Expectations of Teachers and Employers, Counselling Strategies.
+Unit- V: Family Therapy practice with Child and Adolescent focused problems: Family Therapy for Child physical abuse-Contracting for Assessment, Assessment, Contracting for treatment, treatment. Family therapy for Child sex abuse - Contracting for Assessment, Assessment, Contracting for treatment: Family treatment interventions. Family therapy for Conduct problems - Contracting for Assessment, Assessment, Contracting for treatment, treatment. Family therapy for Drug abuse in Adolescence-  Contracting for Assessment, Assessment, Contracting for treatment, treatment
+
+RECAP: Addressing child and young people's relationship with peers and parents can be discussed with the help of role play, Different assessment methods can be reviewed
+
+Learning Resources:
+Recommended Text books:
+Alan Carr (2006). Family therapy - Concepts, Process and Practice. 2nd edition, John wiley& sons ltd, New york
+Kathryn Geldard and David Geldard (2009). Relationship Counselling for Children, Young People and Families, SAGE Publications India Pvt Ltd, New Delhi
+
+
+References: 
+Andreozzi, L.L. (1996) Child-centered FamilyTherapy. NewYork:Wiley
+Bailey, C.E. and Sori, C.E.F. (2005) Involving parents in children therapy. In C.E. Bailey (ed.), Children in Therapy: Using the Family as a Resource. New York: W.W. Norton.
+Bearsley-Smith, C. (2007) Adapting family therapy for step-families
+Geldard, K. (2006) Adolescent peer counselling. Unpublished doctoral dissertation. Queensland University of Technology, Brisbane,Queensland,Australia
+Geldard, K. and Geldard, D. (2008b) Personal Counseling Skills: An Integrative Approach. Springfield, IL:Thomas
+Donald, C., & Atkinson, R. D. (2002).Counselling across life span, Sage Publications
+Gutstein, S., &Sheely, R. K. (2002). Relationship development intervention with children, adolescents and adults: Social and emotional development activities for Asperger syndrome, autism, PDD and NLD. Jessica Kingsley Publishers.
+Nelson-Jones (2010). The theory and practice of counselling and Therapy (5thed). Sage.
+Rosemary A Thompson (2016).Counselling Techniques-Improving relationships with others, ourselves, our families, and our environment, 3rded.Routledge.
+Sederholm, G. H. (2002). Counselling young people in school. Jessica Kingsley Publishers.
+
+Web Resources: 
+Extended demonstration of school-based humanistic counselling: Sophia
+Child Counseling Skills
+Out of Syllabus- Self Study
+To prepare a complete case history of the client
+To conduct a Mental status examination for a client and submit a summarized report
+
+
+
+
+Course Name: DYNAMICS IN PARENTING
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 2
+
+
+OBJECTIVES:
+
+The main objectives of the course are:
+To understand the skills involved in parenting.
+To familiarize the dynamic components of parents – child relationship
+To explain the role parenting emotional regulation
+To analyze the effects of reciprocal relationship between parents- Children and special
+children
+To evaluate the Nature of Couple Relationships on relationship distress
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K2): Discuss the facets of parenting.
+CO2(K2): Explain the dynamic processes in parent-child relationship
+CO3(K6): Develop an understanding effect of family structures and couple relationships on parenting.
+CO4(K5): Analysis various reciprocal relationship effect on children and special children
+CO5(K3): Apply various models of parenting to understand nature of couple relationship on children
+Lesson - Units
+Unit- I: Introduction: Parenting Styles and Practices, Functions of Parenthood, Parenting Tasks and Phases of Development, Parenting in Different Family Contexts.
+Unit- II: Parent–Child Relationships and Attachment - A Model for Parent–Child Relationships, Attachment, Individual Differences in the Quality of Child Attachment, Child Attachment and Developmental Consequences, The Parent’s Perspective: Representations of the Child and Relationship, Parental Interactive Behavior and Disorganized Child Attachment
+Unit- III: Effects of Parenting on Emotion and Self-Regulation – Self Regulation and Emotional Regulation and its importance, Emergence of Self-Regulation and Emotion Regulation During Childhood, Effects of Parenting on Children’s Self-regulation, Effects of Parenting on Children’s Emotion Regulation.
+Unit- IV: Child Characteristics and Their Reciprocal Effects on Parenting - Changing Conceptualizations of Child Development and Parenting, Child Individuality, Individual Differences in Temperament and Personality, Biological Underpinnings of Temperament, Temperament and Parenting, Gender Differences. Children with developmental disorders – Process of diagnosis, features of some developmental disorders, Issues related to parents, Parenting practices and child developmental
+Unit- V:Family Structure and the Nature of Couple Relationships: Relationship Distress, Separation, Divorce, and Re-partnering - Process Model of the Determinants of Parenting, Family Systems Theory and Indirect Effect Models, Relationship Distress in Parental Couples, Separation and Divorce Among Parents, Re-partnering and Stepfamilies.
+Recap: Dynamics of parenting in various setup, parenting models, couple relationship and its
+reflection on children’s distress, parenting and emotional regulation
+
+Learning Resources:
+Recommended Text books:
+R. Sanders, M., &Morawska, A. (2019). HANDBOOK OF PARENTING AND CHILD DEVELOPMENT ACROSS THE LIFESPAN (1st ed.). Springer International Publishing AG.
+Hurlock, E. (1981). Developmental psychology. New Delhi: Tata McGraw-Hill.
+
+References:
+Janet Levine (2003) “know your parenting Personality” John wiley&amp; sons,inc.
+Lindsay C. Gibson (2015) “ Adult Children of Emotionally Immature Parents”, New harbinger publications.
+Marc h. Bornste (2008) “Promoting Positive Parenting- An attachment – Lawrence Erlbaum Associates.
+
+Web Sources:
+https://www.youtube.com/watch?v=hY29SPXCxLA 
+https://www.youtube.com/watch?v=fyO8pvpnTdE 
+https://www.youtube.com/watch?v=WjOowWxOXCg 
+https://www.youtube.com/watch?v=A71OktxTPac 
+https://www.youtube.com/watch?v=6fL09e8Tm9c
+
+Out of Syllabus- Self Study
+Case studies on various type of parenting
+Preparing short training modules on parenting
+Positive parenting model
+Counselling intervention for handling special children
+
+
+Course Name: CORPORATE COUNSELLING
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 2
+
+
+
+OBJECTIVES:
+The main objectives of the course are:
+Updated knowledge on Corporate Counseling in context
+Understand various workplace models and distinguish the importance of each model
+Explain the skills and process related to professional practices in work setup
+Discuss various factors contribute towards work stress and its effect on organization
+Make students apply various psychological principles in employee well-being.
+
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K1): Outline differentiate counseling in workplace set up and relate to different models
+CO2(K2): Discuss occupational factors to identify the need for counseling
+CO3(K3): Apply skills and process of counseling in corporate setup
+CO4(K4): Describe different methods of employee group counseling and identify skills for dealing with problem behaviors in workplace
+CO5(K3): Apply various counseling interventions for employee specific issues in workplace
+
+Lesson - Units
+Unit- I: Understanding workplace counseling- Concept of workplace counseling- history of a workplace counseling- faces of workplace counseling- professional relationships in counseling in the workplace – Ethics and ethical issues in workplace counseling.
+
+Unit- II:Overview of Models of Workplace counseling: Counseling oriented models, brief therapy model, problem focused models, work oriented models, manager based models- Externally based models, Internally based models, welfare based models, organizational change based models
+Unit- III:  Setting up counseling in the workplace- preparation- assessment- contracting -Engaging in counseling- termination- evaluation- Integrative model of individual employee counseling - Training for Workplace Counselors.
+Unit- IV: Work Stress- Stressful job factors, Occupational Stress; dealing with difficult people, sexual harassment, and unethical behaviour in the work place, Travel stress, Time stress, Work stress and families. Group Counseling: Conflict resolution, interpersonal, familial, team building, negotiation and arbitration skills.
+Unit- V: Impact of organization on workplace counseling- Employee Problem specific Counseling – Problems of absenteeism turnover, Burnout, Depression, Substance abuse. 
+Recap: Importance of counseling in corporate setup, professional relationship between counselor and employee in workplace, various models of workplace counseling and its significance, group counseling techniques and process used in corporate set up and application of counseling in workplace related issues.
+Learning resources:
+Recommended text books:
+Michael, C. (1996). Work place counseling – a Systematic approach to employee care, Sage Publications. 
+Jacobs, Ed. E., Masson, R. L., &Harvill, R.L. (2002). Group counseling – strategies and skills. (7thed.). Pacific Grove: Brooks/Cole.
+Adrian Coles, A (2003). Counseling in the Workplace.   Open University Press, McGraw-Hill Education (UK)
+
+References:
+Vardi,&Weitz.E (2004). Misbehavior in organization – theory research and management. New Jersey: Lawrence Erlbaum associates.
+Cartwright, S. & Cooper, C. (1997). Managing Workplace Stress, Sage  Publications.
+Patterson, L. E.&Welfel, E. R. The counseling process,5  TH edition. Brooks/Cole ,Thomson Learning.
+Nelson - Jones, R. (2002). Essential counseling and therapy skills, Sage Publications
+Rosemary A Thompson (2016). Counseling Techniques-Improving relationships with others, ourselves, our families, and our environment, 3rd ed. Routledge.
+
+Web Sources:
+Counselling a staff member to improve performance
+How To Improve Communication Skills? 12 Effective Tips To Improve Communication Skills
+Corporate Counselling
+Stress in the Workplace
+https://trijog.com/corporate-wellness/?utm_term=employee%20assistance%20program&hsa_acc=2784775574&hsa_cam=11137618726&hsa_grp=117644457268&hsa_ad=466177713049&hsa_src=s&hsa_tgt=kwd-12843221&hsa_kw=employee%20assistance%20program&hsa_mt=b&hsa_net=adwords&hsa_ver=3
+
+Out of Syllabus (Self Study):
+Trends in corporate counseling
+Recent issues and challenges for corporate employees
+Digital detoxification
+Stress management group techniques – yoga, mindfulness meditation, Taichi , Zumba etc.
+Solution focused models in corporate set
+
+Course Name: ENHANCEMENT OF EMOTIONAL INTELLIGENCE
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 3
+OBJECTIVES:
+The main objectives of this course are to enable students:
+1. 	To understand emotional intelligence and the skills of it.
+2. 	To identify the emotions of self.
+3. 	To know various methods of self-management.
+4. 	To identify the emotions of other people.
+5. 	To deal with Difficult Friends and Relatives.
+
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K1): Identify the impact and skills necessary for Emotional Intelligence
+CO2(K2): Describe the strategies essential for being aware of self.
+CO3(K3): Examine the techniques for self Management
+CO4(K5): Appraise the social awareness strategies for becoming emotionally intelligent.
+CO5(K6): Develop techniques for efficient relationship management.
+Lesson - Units
+Unit- I: Introduction to Emotional Intelligence-  Meaning and definition - Impact of Emotional Intelligence — Four Skills of Emotional Intelligence: Self- awareness, Self- management, Social-Awareness and Relationship Management - Action Plan to increase Emotional Intelligence.
+Unit- II: Strategies for Self-awareness - Definition of feelings -Identification of Emotions of Self — Recognition of Emotions: Interpreting behaviours, examining self-destructive behaviours, Understanding body language and Identification of Emotions through other people- Changing Negative Emotions: Recognizing negative emotions.
+
+Unit- III: Strategies for Self-Management-Acceptance of Emotions: Cognitive Restructuring, Methods of Distraction, Relaxation, Meditation and Similar Activities and Application of Mindfulness- Recognizing the Importance of Practice.
+Unit- IV: Strategies for Social Awareness - Difference between Empathy and Sympathy -Identification of Emotions of Other People, Understanding Empathy, Listening, Facial Cues and Decoding body language- Practice Empathy: Determine Emotions of others- Usefulness of Empathy, Dealing with intimate Relationships, Dealing with Friends & Relatives and dealing with strangers.
+Unit- V: Strategies for Relationship Management: Controlling the Reactions to Others Emotions: Being aware of the gut reaction and working through alternative responses - Influencing Other People's Emotions - Encountering Difficult People: Determining the best outcome with a difficult person, Techniques for dealing with difficult people - Dealing with Difficult Friends and Relatives.
+Recap: Four Skills of Emotional Intelligence, Understanding body language and Identification of Emotions through other people, Difference between Empathy and Sympathy
+	
+Learning Resources:
+Recommended Text books:
+Stein. S. J. (2009). Emotional Intelligence for Dummies. Canada: John Wiley & Sons.
+Bradberry, T..Greaves. J., Lencioni, P.M. (2005) The Emotional Intelligence Quick Book: Everyhing You Need to Know to Put Your EQ to Work. ISBN 978-0743273268: Touchstone
+Stein. S. J.. Book, H. E. (2011). The EQ Edge: Emotional Intelligence and Your Success. (3" ed.). ISBN 978-0470681619: Jossey-Bass.
+
+References:
+l. Goleman. B. (20 19). Emotional Intelligence: For a Better Life, success at work, and happier relationships. Improve Your Social Skills, Emotional Agility and Discover Why it Can Matter More Than IQ. (EQ 2.0). ISBN 978-1077972131: Independently Published
+2 Goleman, D. (2011). The Brain and Emotional Intelligence: New Insights. (2nd ed.). : More Than Sound LLC
+3. Segal. J. (2008). The Language of Emotional Intelligence: The Five Essential Tools for Building Powerful and Effective Relationships (NTC SELF-HELP). ed.). ISBN 978-007154455: McGraw- Hill Education;
+
+Web Sources:
+https://www.verywelImind.com/what-is—emotional-intelligence-2795423
+https://brm.institute/strategies-increase-self-awareness/
+https://aliabdaal.com/self—management-skills/
+https://www.trainerbubble.com/downloads/emotional-intelligence-e-learning/
+https://elearningindustry.com/ways-facilitate-emotional-intelligence
+https://blog.neolms.com/how-online-courses-can-nurture-emotional-intelligence/
+https://www.coursera.org/learn/emotional-and-social-intelligence/
+https://positivepsychology.com/emotional-intelligence-training/
+
+Out of Syllabus- Self Study
+
+Measuring emotional intelligence.
+Finding happiness and happy people
+Identify the difference between EQ and IQ
+Investigating science behind emotional intelligence.
+Construct a simple  emotional intelligence assessment
+
+
+GROUP-IV
+Course Name: COMPUTER ASSISTED RESEARCH SKILLS
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 2
+
+
+OBJECTIVES: 
+Major objectives of this course are:
+1.  To have hands-on training on state-of-the-art technology developments in research.
+2.   To gain knowledge in various statistical test using SPSS
+3.  To identify appropriate statistical analysis for the research
+4.  To gain familiarity with various concepts in SPSS
+5.  To Interpret data output in SPSS
+
+COURSE OUTCOME:
+On successful completion of course the students will be able to
+CO1(K2): Comprehend the basics in research methodology and fundamentals of using SPSS
+CO2(K2): Acquire knowledge on overview of statistical tests in SPSS
+CO3(K3): Create graphical representations and charts.
+CO4(K4): Statistically Analyze given research data and represent in required format
+CO5(K5): Apply knowledge acquired in preparing a research  report.
+
+Lesson - Units
+Unit- I: Basics in Research methodology -Variable, data format, coding, measurement, research questions, hypothesis, statistics, interpretation, discussion. Computers - operating system, on- line off-line usage, scope and utilities in every stage of research. On-line database Psy-INFO Direct, Reference manager softwares - Mendeley, Papership, EndNote, Zotero.
+Unit- II: Fundamentals of Using SPSS - Introduction to what SPSS can do, Descriptive information and statistics, An overview of statistical tests in SPSS , Exploring data with graphics, Reading Raw Data into SPSS, Input of raw data into SPSS, Input of data directly into the SPSS Data Editor.
+Unit- III: Basic Data Management in SPSS - Creating and recoding variables, Using SPSS functions for making/recoding variables, Subsetting variables and observations, Analysis of a subset of a data.Labeling and documenting data, SORT and SPLIT BY, Missing data in SPSS.
+Unit- IV: Data Analysis: Creating and editing graphs and charts, Exploratory data analysis: scale data, Probability and inferential statistics, Comparing categorical variables, Mean differences between groups: “t” test, ANOVA, ANCOVA, MANOVA, MANCOVA, correlation, regression, multiple and hierarchical regression,, factor analysis – exploratory and confirmatory - structural model.
+Unit- V: Interpretation and presentation: Prepare the report on statistical data analysis in the appropriate formats, Use the related software (Word, Excel) as an additional tool for preparing a good report.
+Recap: Demonstration of online database and reference managing software can be done .
+Learning Resources:
+Recommended Text books:
+1.  McCormick, K., & Salcedo, J. (2020). SPSS statistics for dummies. John Wiley & Sons.
+2.  Aldrich, J. O. (2018). Using IBM SPSS statistics: An interactive hands-on approach:   Sage Publications.
+
+References:   
+Brace ,K., Kemp, R. &Snelgar R ( 2009) Spss for Psychologist – a guide to data analysis using SPSS.  Palgrave macmillan
+Mayers, A. (2013) Introduction to statistics and SPSS in Psychology  . Pearson Education
+
+Web Source:
+https://www.youtube.com/watch?v=rBj3gyNaTW4
+https://www.youtube.com/watch?v=_zFBUfZEBWQ
+https://www.youtube.com/watch?v=GQP47ijt4LI
+Out of Syllabus- Self Study
+With the help of hypothetical data students can do various  statistical test  and  report in   appropriate formats
+Students can explore AMOS  and R Software
+
+
+Course Name: SCIENTIFIC REPORT WRITING
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 2
+
+
+OBJECTIVES:
+The major objectives of this course are:
+To describe the process of writing skills.
+To apply Microsoft office features in preparing the reports.
+To choose APA style in writing and publication of research papers.
+To articulate how to write a research proposal.
+To combine reports on various forms of qualitative and quantitative research methods.
+
+
+LEARNING OUTCOMES: 
+On successful completion the students will be able to :
+CO1(K2): Explain the process of writing skills.
+CO2(K3): Practice Microsoft office.
+CO3(K4): Apply APA style in writing and publication of research papers.
+CO4(K4): Articulate how to write a research proposal.
+CO5(K6): Critically compile  reports on various forms of qualitative and quantitative research methods.
+
+Lesson - Units
+Unit- I: Written Communication – basics, parts of written communication, punctuation, common grammatical errors; spelling, commonly confused words, gender; Style – flow of writing, making writing lively, use of style in writing sentences and paragraphs.
+Unit- II: Manuscript writing – critical appraisal using journal articles, review of literature, writing and publication of research papers
+Unit- III: The process of writing-  Audience analysis, planning, collecting relevant materials, organizing ideas; specific writing situations and writing.
+Unit- IV: Plagiarism - Software for grammar and plagiarism check.
+Unit- V: APA style –Basics of APA, in-text citations, formatting and writing Reference.
+Recap: Required portions of the units may be presented by the course faculty giving life examples from published research to explain the different publishing styles .
+
+Learning Resources:
+
+Recommended Textbooks:
+West.C.(2008).PerfectWrittenEnglish–All you need to get it right first time, New Delhi: Random Books House.
+Monippally. M. M. & Pawar. B. S. (2010). Academic Writing – A guide for Management students and researchers. Response books, New Delhi: Sage Publications.
+American Psychological Association(2010) – Publication Manual of the American Psychological Association, (7thed.). Washington DC.Author.
+
+References:
+100 tips to avoid mistakes in academic writing and presenting . (2020). Wallwork, A & Southern, A.  USA: Springer publications.
+Write an impactful research paper (2021). Zaumanis, M.
+Kail, R. V. (2018). Scientific Writing for Psychology.  Lessons in Clarity and Style. 2nd edition. USA: Sage Publishing Inc.
+McInerney, D. M.  (2021). Publishing your psychology research.  A guide to writing for journals in psychology and related fields. USA: Routledge Publishers.
+
+Web sources
+How to format your paper in APA style in 2022
+My Step by Step Guide to Writing a Research Paper
+How to add citations and references in research paper, thesis, how to use different citations style
+References in APA Style | Writing Research Papers | UC San Diego Psychology
+How to remove Plagiarism from Article
+
+Out of Syllabus: Self Study
+Students can present a review of a research paper highlighting methodological errors, non APA style compliance and suggest means of improvising the quality of the paper for publication in high impact journals.
+Identify list of approved journals and high impact journals in their field and related disciplines for publications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Name: INTERPERSONAL AND COMMUNICATION SKILLS
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 2
+
+
+LEARNING OBJECTIVES:
+
+On successful completion of syllabus students will be able to: 
+
+1. To comprehend the nature, types and sources of stressors.
+2. To understand the impact of stress on physical and mental health.
+3. To understand the nature, types and methods of coping with stress,
+4. To appreciate and cultivate social support to mitigate stress.
+5. To learn specific techniques to deal with stress with the help of practicum.
+
+LEARNING OUTCOMES: -
+On successful completion the students will be able to :
+CO1(K1): Examine the nature and causes of stress
+CO2(K2): Identify the positive and negative effects of stress
+CO3(K3): Explain the coping style of stress.
+CO4(K4): Appraise the effective ways of social support.
+CO5(K6): Discuss the psychological techniques to manage stress.
+Lesson - Units
+Unit-I: Introduction: Definition and Meaning of Stress and Stressor; Types of stress and symptoms of stress. Factors that cause stress: The General Adaptation Syndrome, The Diathesis Stress Model Sources of Stress
+
+Unit- II-Effects of Stress - Positive effects of stress: Optimal stress and positive psychological functioning. Negative effects of stress: Effect of stress on physical mental health
+
+Unit-III- Coping with Stress - Introduction to Coping. Personality and Coping. Coping Style: Problem Focused and Emotion Focused Coping. Spiritual coping- Yoga, Meditation. Psychosocial Resources. Resilience: Growth through Trauma. Learned optimism, Hope, gratitude as psychological moderators of stress
+
+Unit- IV- Social Support - Meaning Effects of Social Support on Illness. Bio psychosocial Pathways. Moderation of Stress by Social Support. Effective Types of Social Support. Enhancing Social Support.
+
+Unit- V- Interventions for Stress Management - Coping Interventions: Expressive Writing, Self- Affirmation, Relaxation Training, Exercise, Diet, Cognitive interventions, Time Management, Communication skills training: Assertiveness training.
+
+Recap
+Types and symptoms of stress
+Effects of stress on physical mental health.
+Coping interventions.
+
+Recommended Texts
+1.Greenberg J. S (2009). Comprehensive stress management. McGraw-Hill Education.
+2. Straub, O,R (2001) Health Psychology. U.S.A.: Worth Publishers.
+3. Taylor, E.S. (2018). Health Psychology. (10 the.d.) India: McGraw Hill Education (India)
+4. Nanda, M. (2006). Handbook on stress management. New Delhi: Indialog Publication
+Pvt.Ltd.
+
+
+References:
+1. Clegg. B. (2000) Instant stress management: bring calm to your life now. London: Kogan
+Page.
+2. DiMatteo, R.M., &amp; Marting, R.L (2002). Health Psychology, India: Pearson India
+Education Services Pvt. Ltd.
+3. Nanda, M. (2006). A Handbook on Stress Management. India:lndialog Publications Pvt.
+Ltd
+4. Turkington, C. (2005) Stress management for busy people. India: McGraw-Hill.
+
+Web Resource:
+
+http://opentextbc.ca/introductiontopsychology/chapater/15-2-stress-and-coping/- Stress and Coping
+http://courses.lumenlearning.com/boundless-psychology/chapater/coping-with-and- managing-stress/ - Coping with and managing stress.
+http://www.garrettcollege.edu/images/faculty/kasecamp/PSY101/psy7.pdf- Notes - Health, Stress &amp; Coping
+http://college.cengage.com/psychology/bernstein/essentials/4e/assets/instructors/outlines/ch10_outline.pdf - Chapter Health, Stress and coping.
+
+Out of Syllabus- Self Study
+Health-Endangering Behaviors
+Promoting Healthy Behavior
+Cognitive coping strategies change the thinking process about stressors.
+James Prochaska - five stages of successful change
+
+Course Name:  STRESS MANAGEMENT 
+Course Code:
+Year and Semester:      rdyr ,th Semester
+Credits : 2
+
+OBJECTIVES:
+
+The main objectives of this course are to enable students:
+
+1. To comprehend the nature, types and sources of stressors.
+2. To understand the impact of stress on physical and mental health.
+3. To understand the nature, types and methods of coping with stress,
+4. To appreciate and cultivate social support to mitigate stress.
+5. To learn specific techniques to deal with stress with the help of practicum.
+
+
+COURSE OUTCOMES:
+
+On successful completion of the course, the learners will be able to:
+
+CO1(K1): Examine the nature and causes of stress
+CO2(K2): Identify the positive and negative effects of stress
+CO3(K3): Explain the coping style of stress.
+CO4(K4): Appraise the effective ways of social support.
+CO5(K6): Discuss the psychological techniques to manage stress.
+
+Lesson - Units
+Unit- I - Introduction - Definition and Meaning of Stress and Stressor; Types of stress and symptoms of stress. Factors that cause stress: The General Adaptation Syndrome, The Diathesis Stress Model Sources of Stress
+
+Unit- II -Effects of Stress - Positive effects of stress: Optimal stress and positive psychological functioning. Negative effects of stress: Effect of stress on physical mental health
+
+Unit-III- Coping with Stress - Introduction to Coping. Personality and Coping. Coping Style: Problem Focused and Emotion Focused Coping. Spiritual coping- Yoga, Meditation. Psychosocial Resources.Resilience: Growth through Trauma. Learned optimism, Hope, gratitude as psychological moderators of stress
+
+Unit- IV- Social Support - Meaning Effects of Social Support on Illness. Bio psychosocial Pathways. Moderation of Stress by Social Support. Effective Types of Social Support. Enhancing Social Support.
+
+Unit-V-  Interventions for Stress Management - Coping Interventions: Expressive Writing, Self- Affirmation, Relaxation Training, Exercise, Diet, Cognitive interventions, Time Management,Communication skills training: Assertiveness training
+
+Recap
+Types and symptoms of stress
+Effects of stress on physical mental health.
+Coping interventions.
+
+Learning resources:
+Recommended Texts
+1.Greenberg J. S (2009). Comprehensive stress management. McGraw-Hill Education.
+2. Straub, O,R (2001) Health Psychology. U.S.A.: Worth Publishers.
+3. Taylor, E.S. (2018). Health Psychology. (10 the.d.) India: McGraw Hill Education (India)
+4. Nanda, M. (2006). Handbook on stress management. New Delhi: Indialog Publication Pvt.Ltd.
+
+References:
+1. Clegg. B. (2000) Instant stress management: bring calm to your life now. London: Kogan Page.
+2. DiMatteo, R.M., &amp; Marting, R.L (2002). Health Psychology, India: Pearson India Education Services Pvt. Ltd.
+3. Nanda, M. (2006). A Handbook on Stress Management. India:lndialog Publications Pvt. Ltd
+4. Turkington, C. (2005) Stress management for busy people. India: McGraw-Hill.
+
+Web sources:
+http://opentextbc.ca/introductiontopsychology/chapater/15-2-stress-and-coping/- Stress and coping
+http://courses.lumenlearning.com/boundless-psychology/chapater/coping-with-and-
+managing-stress/ - Coping with and managing stress.
+http://www.garrettcollege.edu/images/faculty/kasecamp/PSY101/psy7.pdf- Notes - Health,Stress&amp; Coping
+http://college.cengage.com/psychology/bernstein/essentials/4e/assets/instructors/ outlines/ch10_outline.pdf - Chapter Health, Stress and coping.
+\
+Out of Syllabus (Self Study):
+Health-Endangering Behaviors
+Promoting Healthy Behavior
+Cognitive coping strategies change the thinking process about stressors.
+James Prochaska - five stages of successful change
+
+
+
+
+M.sc., 
+applied psychology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SYLLABUS
+
+
+
+
+
+
+
+from the acadmic year 
+2023-2024
+
+
+
+
+
+
+
+
+TAMILNADU STATE COUNCIL FOR HIGHER EDUCATION,  CHENNAI – 600 005
+TANSCHE REGULATIONS ON LEARNING OUTCOMES-BASED CURRICULUM FRAMEWORK FOR POSTGRADUATE EDUCATION	TANSCHE REGULATIONS ON LEARNING OUTCOMES-BASED CURRICULUM FRAMEWORK FOR POSTGRADUATE EDUCATION
+Programme	M.Sc., Applied Psychology
+Programme Code	
+Duration	PG-2 YEARS
+Programme Outcomes (Pos)	PO1: Problem Solving Skill
+Apply knowledge of Management theories and Human Resource practices to solve business problems through research in Global context.
+PO2: Decision Making Skill
+Foster analytical and critical thinking abilities for data-based decision-making.
+
+PO3: Ethical Value
+Ability to incorporate quality, ethical and legal value-based perspectives to all organizational activities.
+
+PO4: Communication Skill
+Ability to develop communication, managerial and interpersonal skills.
+
+PO5: Individual and Team Leadership Skill
+Capability to lead themselves and the team to achieve organizational goals.
+PO6: Employability Skill
+Inculcate contemporary business practices to enhance employability skills in the competitive environment.
+
+PO7: Entrepreneurial Skill
+Equip with skills and competencies to become an entrepreneur.
+
+PO8: Contribution to Society
+   Succeed in career endeavors and contribute significantly to society.
+
+PO 9 Multicultural competence
+    Possess knowledge of the values and beliefs of multiple cultures and   
+    a global perspective.
+
+PO 10: Moral and ethical awareness/reasoning
+Ability to embrace moral/ethical values in conducting one’s life.
+Programme Specific Outcomes
+(PSOs)	PSO1 – Placement
+To prepare the students who will demonstrate respectful engagement with others’ ideas, behaviors, beliefs and apply diverse frames of reference to decisions and actions.
+
+PSO 2 - Entrepreneur
+To create effective entrepreneurs by enhancing their critical thinking, problem solving, decision making and leadership skill that will facilitate startups and high potential organizations.
+
+PSO3 – Research and Development
+Design and implement HR systems and practices grounded in research that comply with employment laws, leading the organization towards growth and development.
+
+PSO4 – Contribution to Business World
+To produce employable, ethical and innovative professionals to sustain in the dynamic business world.
+
+PSO 5 – Contribution to the Society
+To contribute to the development of the society by collaborating with stakeholders for mutual benefit.
+Semester–I	Credit	Hours	Semester-II	Credit	Hours	Semester-III	Credit	Hours	Semester–IV	Credit	Hours
+1.1. Core-I	5	7	2.1. Core-IV	5	6	3.1. Core-VII	5	6	4.1. Core-XI	5	6
+1.2  Core-II	5	7	2.2  Core-V	5	6	3.2  Core-VIII	5	6	4.2  Core-XII	5	6
+1.3 Core – III	4	6	2.3 Core – VI	4	6	3.3 Core – IX	5	6	4.3 Project with viva voce	7	10
+1.4 Discipline Centric 
+Elective -I	3	5	2.4 Discipline Centric 
+Elective – III	3	4	3.4 Core – X	4	6	4.4Elective  - VI (Industry / Entrepreneurship) 
+20% Theory
+80% Practical	3	4
+1.5 Generic Elective-II:	3	5	2.5 Generic Elective -IV:	3	4	3.5 Discipline Centric Elective - V	3	3	4.5 Skill Enhancement course / Professional Competency Skill	2	4
+			2.6 NME I	2	4	3.6 NME II	2	3	4.6 Extension Activity	1	
+						3.7 Internship/ Industrial Activity	2	-			
+	20	30		22	30		26	30		23	30
+Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91	Total Credit Points -91
+Part	List of Courses	Credits	No. of Hours
+	Core – I	5	7
+	Core – II	5	7
+	Core – III	4	6
+	Elective – I	3	5
+	Elective – II	3	5
+		20	30
+Part	List of Courses	Credits	No. of Hours
+	Core – IV	5	6
+	Core – V	5	6
+	Core – VI	4	6
+	Elective  – III	3	4
+	Elective – IV	3	4
+	Skill Enhancement Course [SEC] - I	2	4
+		22	30
+Part	List of Courses	Credits	No. of Hours
+	Core  – VII	5	6
+	Core  – VIII	5	6
+	Core  – IX	5	6
+	Core (Industry Module) – X	4	6
+	Elective – V	3	3
+	Skill Enhancement Course - II	2	3
+	Internship / Industrial Activity [Credits]	2	-
+		26	30
+Part	List of Courses	Credits	No. of Hours
+	Core – XI	5	6
+	Core – XII	5	6
+	Project with VIVA VOCE	7	10
+	Elective – VI  (Industry Entrepreneurship)	3	4
+	Skill Enhancement Course – III / Professional Competency Skill	2	4
+	Extension Activity	1	-
+		23	30
+Semester - I	Semester - I	Semester - I	Semester - I	Semester - I
+S No	Course No – Category	Title of the course	Credit	Hour
+1	1.1 Core -I	Theories of Personality	5	7
+2	1.2. Core-II	Research Methodology & Applied Statistics	5	7
+3	1.3 Core - III	Counselling skills and techniques	4	6
+4	1.4 Elective 1	One from Group – I	3	5
+5	1.5 Elective - II	One from Group – II	3	5
+TOTAL	TOTAL	TOTAL	20	30
+Semester – II	Semester – II	Semester – II	Semester – II	Semester – II
+6	2.1 Core -IV	Psychometry	5	6
+7	2.2 Core-V	Behaviour Modification	5	6
+8	2.3 Core - VI	Psychological Assessment - I ( Counselling and Psychotherapy )	4	6
+9	2.4 Elective III	One from Group – I	3	4
+10	2.5 Elective - IV	One from Group – II	3	4
+11	2.6 Skill Enhancement Course	One from Group – III	2	4
+TOTAL	TOTAL	TOTAL	22	30
+Semester – III	Semester – III	Semester – III	Semester – III	Semester – III
+15	3.1 Core -VII	Applied Social Psychology	5	6
+16	3.2 Core-VIII	Advanced Cognitive Psychology	5	6
+17	3.3 Core - IX	Psychological Assessment  - II ( Organizational Behaviour& HR)	5	6
+18	3.4 Core X - Industry Module	Psychological Training Module	4	6
+19	3.5 Elective V	One from Group – I	3	3
+20	3.6 Skill Enhancement Course	One from Group – III	2	3
+21	3.7 Internship	Summer Internship	2	-
+TOTAL	TOTAL	TOTAL	26	30
+Semester – IV	Semester – IV	Semester – IV	Semester – IV	Semester – IV
+24	4.1 Core-X1	Human Resource Management	5	6
+25	4.2 Core - IX	Community Psychology	5	6
+26	4.4 Project Dissertation	Project Viva voce	7	10
+27	4.5 Elective VI	One from Group – II	3	4
+28	4.6 Skill Enhancement Course	One from Group – III	2	4
+29	4.7 Extension Activity		1	-
+TOTAL	TOTAL	TOTAL	23	30
+Total Credits    91	Total Credits    91	Total Credits    91		
+Group I
+
+1. Geriatric challenges and development
+2. Addiction counselling
+3. Training and development
+
+
+Group - II
+1. Psychological intervention for developmental disorders
+2. Case studies
+3. Psychotherapy
+4. Learning disability
+
+
+Group - III
+1. Relationship counselling
+2. Dynamics in parenting
+3. Corporate counselling
+4. Enhancement of emotional intelligence
+
+Group - IV
+1. Computer assisted research skills
+2. Scientific report writing
+3. Interpersonal and communication skills
+4. Stress management
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+0	1	2	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	1
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+3	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+0	1	2	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2	1		0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+			
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2	1		0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2	1		
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+0	1	2	
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2	1		
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2	1		
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+1	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+1	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+1	1	0	0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2	1		0
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2			
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2			
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2			
+Lecture (L)	Tutorial (T)	Practical (P)	Project (P)
+2			

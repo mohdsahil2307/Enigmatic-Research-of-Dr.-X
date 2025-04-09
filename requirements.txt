@@ -1,0 +1,8 @@
+ipykernel
+python-docx
+pymupdf
+pandas
+openpyxl
+xlrd
+matplotlib
+seaborn

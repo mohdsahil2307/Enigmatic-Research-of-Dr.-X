@@ -1,0 +1,70 @@
+--- Sheet: Wedding budget ---
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17
+	PARTY BUDGET																
+																	
+																	
+	SUMMARY	ESTIMATED	ACTUAL	OVER/UNDER		SUMMARY OF ACTUAL EXPENSES						Rank	Category	Estimated	Actual	Ranking Value	Ref
+	Reception	5500	5300	-200								10	Apparel	0	0	0.0006	1
+	Photography	2950	2950	0								9	Decorations	0	0	0.0007	2
+	Transportation	1450	1400	-50								4	Gifts	1400	1300	1300.0008	3
+	Gifts	1400	1300	-100								6	Flowers	800	800	800.0009	4
+	Music	1200	1250	50								5	Music	1200	1250	1250.001	5
+	Flowers	800	800	0								2	Photography	2950	2950	2950.0011	6
+	Stationery / Printing	400	400	0								1	Reception	5500	5300	5300.0012	7
+	Other Expenses	300	300	0								7	Stationery / Printing	400	400	400.0013	8
+	Decorations	0	0	0								3	Transportation	1450	1400	1400.0014	9
+	Apparel	0	0	0								8	Other Expenses	300	300	300.0015	10
+	Total budget	14000	13700	10													
+																	
+																	
+																	
+	APPAREL	ESTIMATED	ACTUAL	OVER/UNDER		DECORATIONS	ESTIMATED	ACTUAL	OVER/UNDER								
+	Engagement ring	5000	5000	0		Bows for church pews	1800	1800	0								
+	Wedding rings	0	0	0		Table centerpieces	500	500	0								
+	Tux, suit, and/or dresses	0	0	0		Candles	0	0	0								
+	Veil/headpiece	0	0	0		Lighting	0	0	0								
+	Shoes	0	0	0		Balloons	0	0	0								
+	Jewelry	0	0	0		Others	0	0	0								
+	Accessories	0	0	0		Total for decorations	0	0	0								
+	Others	0	0	0													
+	Total for apparel	0	0	0													
+						FLOWERS	ESTIMATED	ACTUAL	OVER/UNDER								
+						Bouquets	800	800	0								
+	GIFTS	ESTIMATED	ACTUAL	OVER/UNDER		Boutonnières	0	0	0								
+	Attendants	1200	1100	-100		Corsages	0	0	0								
+	Parents	200	200	0		Ceremony	0	0	0								
+	Readers/other participants	0	0	0		Reception	0	0	0								
+	Others	0	0	0		Others	0	0	0								
+	Total for gifts	1400	1300	-100		Total for flowers	800	800	0								
+																	
+																	
+	MUSIC 	ESTIMATED	ACTUAL	OVER/UNDER		PHOTOGRAPHY	ESTIMATED	ACTUAL	OVER/UNDER								
+	Musicians for ceremony	1200	1250	50		Formals	1200	1200	0								
+	Band/DJ for reception	0	0	0		Candid's	800	800	0								
+	Others	0	0	0		Extra prints	0	0	0								
+	Total for music	1200	1250	50		Photo albums	0	0	0								
+						Videography	950	950	0								
+						Others	0	0	0								
+	RECEPTION	ESTIMATED	ACTUAL	OVER/UNDER		Total for photography	2950	2950	0								
+	Room/hall fees	5500	5300	-200													
+	Tables and chairs	0	0	0													
+	Food	0	0	0		STATIONERY / PRINTING	ESTIMATED	ACTUAL	OVER/UNDER								
+	Drinks	0	0	0		Invitations	400	400	0								
+	Linens	0	0	0		Announcements	0	0	0								
+	Cake	0	0	0		Thank-You cards	0	0	0								
+	Favors	0	0	0		Personal stationery	0	0	0								
+	Staff and gratuities	0	0	0		Guest book	0	0	0								
+	Others	0	0	0		Programs	0	0	0								
+	Total for reception	5500	5300	-200		Reception napkins	0	0	0								
+						Matchbooks	0	0	0								
+						Calligraphy	0	0	0								
+	OTHER EXPENSES	ESTIMATED	ACTUAL	OVER/UNDER		Others	0	0	0								
+	Officiant	300	300	0		Total for stationery / printing	400	400	0								
+	Church/ceremony site fee	0	0	0													
+	Wedding coordinator	0	0	0													
+	Rehearsal dinner	0	0	0		TRANSPORTATION	ESTIMATED	ACTUAL	OVER/UNDER								
+	Engagement party	0	0	0		Limousines/trolleys	900	900	0								
+	Showers	0	0	0		Parking	200	200	0								
+	Bachelor/ette parties	0	0	0		Taxis	350	300	-50								
+	Hotel rooms	0	0	0		Others	0	0	0								
+	Total for other expenses	300	300	0		Total for transportation	1450	1400	-50								

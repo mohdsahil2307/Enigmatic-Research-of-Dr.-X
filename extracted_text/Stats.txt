@@ -1,0 +1,85 @@
+Introduction
+The purpose of the Machine Readable file (“the file”) is to provide regression coefficients and intercepts for different components to calculate low, mid, and high (10th, 50th, and 90th percentile) material price estimates and labor multipliers/add-ons to estimate new construction and retrofit project costs. The file provides a list of envelope and non-envelope components (e.g., Windows, Water Heaters) and any associated classes within those components (e.g., Low Emissivity, Electric Instantaneous). 
+Material Price Regression
+The Component & Class portion of the file shows the component, the class, and the output units. The “output units” column describes what the units of final output of the regression will be (e.g., 2023$, 2023$/sqft).
+
+
+The second and third sections of the file (Retail Price Regression) show the “Coefficient-Low”, “Coefficient-Mid”, and “Coefficient-High” values that correspond to the low, mid, and high quantile regression coefficients that are used to multiply the chosen performance metric values. These sections also contain the name and units of each performance metric and the associated unit and the lower and upper bounds of the regression. Each component is fitted via quantile regression to one (e.g., clothes dryers) or two (e.g., water heaters) applicable performance metrics. Some components, such as thermostats, have no regression analysis as there is no measurable performance metric associated with the product. The performance metrics were chosen based on market research on pricing factors and customer needs. Some components do not have any performance metrics because there were no significant component differentiators beyond the class types. The Retail Price Regression section of the file also contains the intercepts for the quantile regression equations.  
+
+
+
+
+
+Labor and Installed Cost
+The total installed cost is calculated one of two ways depending on the component. The first method is using an installation multiplier to derive the total installed cost based on the material price. The labor multipliers are separated out by “scenario” (new construction or retrofit). Retrofit scenarios include costs for removal or other demolition of existing components. After getting the estimated material price from calculating the material price regression using the coefficients, intercepts, and chosen performance metric input values, the multiplier is used to calculate the total installed cost or cost per square foot. The material and equipment price must be calculated first in order to use the labor cost multipliers. See Example 1.
+The second method to calculate the total installed cost is by using adders rather than multipliers. Labor for some of the components does not scale with increasing material or equipment price and has a constant installation cost (i.e., certain types of insulation upgrades). The values are therefore added to the material price regression results to produce the total installed cost or cost per square foot. See Example 2.
+
+
+Note for certain technologies with recent standards activity and data availability the installation costs are derived from the Technical Support Documents for the given appliance and averaged to create an installation adder. For technologies that do not have recent standards data available, installation costs were derived using a variety of available resources including RSMeans. For example, Heat Pump Water Heaters and other products covered under appliance standards rely on the updated appliance standards data to derive the installation costs. 
+Additional Data
+The last section of the file contains additional data not directly within the calculation of each component and product class. These include the expected lifetime (in years) of the component, cost variation considerations, a list of data sources used in the analysis for each component (using a numbering format), and a qualitative confidence rating of the data. 
+For cost variation considerations, the following implications may have additional impacts on pricing for each component. 
+Prevailing local wages
+Drive time
+Access
+Presence/condition/type of existing insulation
+Existing construction and materials
+Moisture issues present
+Condition of existing flue
+Need for condensate line/drain
+Need to bring in combustion air
+Condition of existing electrical system
+Presence of hazardous materials
+Nature/size of leaks
+Extent of preparation
+Each regression was given a confidence rating in the categories of sample size (SS), median  (R2), and source diversity, to qualify how robust the data and corresponding regressions are. If a dataset had a sample size above 100 data points, it was marked as "High SS". If it had between 50 and 100 data points, it was marked as "Medium SS", and less than 50 corresponds to "Low SS". If the regression plot had a median  over 0.4, it is marked as "High R2". If it is between 0.4 and 0.1, it is marked as "Medium R2", and if lower than 0.1, it is marked as "Low R2". For source diversity, if the data set uses over two (2) different sources, it is "High Source Diversity". If there are only two (2) sources, it is "Medium Source Diversity", and if the data just comes from one (1) source then it is marked as "Low Source Diversity". “No clear sources” refers to cases where the source material was not marked for the component. For complete list of data sources utilized, see Data Sources tab within the file.
+
+Price Calculation Example
+Example 1: Air Source Heat Pump (Retrofit Installation Multiplier)
+Example for calculating the low, mid, and high retail price along with the associated labor for replacing an air source heat pump that does not require a new circuit or panel upgrade. The numbers in red correspond to the different coefficients in the flat CSV file for the two performance metrics and the low, mid, and high regressions:
+
+Where A is the capacity in tons, B is the efficiency in SEER1, and C is the intercept value (constant). 
+
+
+
+
+To produce the total installed cost, use the retrofit labor multiplier (if this was for new construction, the new construction multiplier would be used):
+
+
+
+Therefore, the median material price is $9,826 and the labor cost is $4,913 for a total installed cost of $20,635. The installation costs here include labor and equipment costs for demolition, removal, and installation. There are many reasons the price for a specific home could be higher or lower, some of which are mentioned in the Cost Variation Considerations column. Note in this example the labor cost is calculated by subtracting the material price from the installed cost.
+Example 2 Unfinished Attic Ceiling Batt Insulation (Retrofit Installation Adder)
+Example for calculating the low, mid, and high retail price along with the associated labor for replacing (retrofitting) ceiling insulation in an unfinished attic with an R-Value of 15, using fiberglass batt insulation. The numbers in red correspond to the different coefficients in the Machine Readable CSV file for the performance metric and the low, mid, and high regressions:
+
+Where A is the R-value coefficient and C is the intercept value (constant). 
+
+
+
+
+To produce the total installed cost, use the retrofit labor adder, (if this was for new construction, the new construction adder would be used):
+
+
+
+Therefore, the median material price is $0.86 per square foot and the labor cost is $1.00 per square foot for a total installed cost of $1.86 per square foot. 
+
+Component & Class	Component & Class	Component & Class
+Component	Class	Output Units
+Water Heater	HP Tank w/ Gas Capping	2023$
+Retail Price Regression, Performance metric 1	Retail Price Regression, Performance metric 1	Retail Price Regression, Performance metric 1	Retail Price Regression, Performance metric 1	Retail Price Regression, Performance metric 1	Retail Price Regression, Performance metric 1	Retail Price Regression, Performance metric 1
+Coefficient-Low	Coefficient-Mid	Coefficient-High	Metric	Unit	Lower Bound	Upper Bound
+102.33	248.33	888.75	UEF	Unitless	3	4.07
+Retail Price Regression, Performance metric 2	Retail Price Regression, Performance metric 2	Retail Price Regression, Performance metric 2	Retail Price Regression, Performance metric 2	Retail Price Regression, Performance metric 2	Retail Price Regression, Performance metric 2	Retail Price Regression, Performance metric 2
+Coefficient-Low	Coefficient-Mid	Coefficient-High	Metric	Unit	Lower Bound	Upper Bound
+28.81	19.33	8.39	Nominal volume	gallons	40	80
+Retail Price Regression, Intercepts	Retail Price Regression, Intercepts	Retail Price Regression, Intercepts
+Int-Low	Int-Mid	Int-High
+155.30	436.45	-651.90
+Installation Multiplier	Installation Multiplier
+New Construction	Retrofit
+1.58	3.00
+Installation Adder	Installation Adder
+New Construction	Retrofit
+0.83	1.0
+Additional Data	Additional Data	Additional Data	Additional Data	Additional Data
+Lifetime	Cost Variation Considerations	Data Sources	Qualitative Rank	Notes
+14.8	Prevailing local wages...	1, 2, 3	Low SS, High R2, High Source Diversity	Gas Cap as adder in Retail Price Intercepts

@@ -1,0 +1,742 @@
+The Plan of the Giza Pyramids 
+ 
+1 
+ 
+The Plan of the Giza Pyramids 
+by John A.R. Legon 
+Revision Date:   22-11-2019 
+My initial findings on the Giza Site Plan of Three Pyramids were first briefly summarized in a 
+pamphlet  published by the Archaeology Society of Staten Island in 1979.1  Subsequently, I 
+described the most significant features of the integrated site plan in several articles in the journals 
+Discussions in Egyptology2 and Göttinger Miszellen.3  Further research has shown that many 
+more factors must be taken into account, without alterating the basic framework of the dimensions 
+in royal cubits which I described in 1979. The following text is  based on my article in Discussions 
+in Egyptology Vol. 10, but now includes much new material and new illustrations.  In addition, 
+acount has been taken of the extensive survey work carried out since 2012 by the late Glen Dash, 
+and the positions of the corners of the three pyramids have been placed in the coordinate system 
+initiated by Mark Lehner and David Goodman for the Giza Plateau Mapping Project. 
+Now that a detailed topographical study of the Giza Plateau is in progress, 4 it is interesting to 
+consider the results of the excavations and survey carried out by Flinders Petrie in 1880-2, when 
+the exact dimensions and relative positions of the pyramids of Khufu, Khaefre and Menkaure, 
+were established by triangulation..5 With reference to Petrie's survey-data, the present paper 
+reviews the evidence first put forward by the writer in 1979, 6 showing that the sizes and relative 
+positions of the three pyramids were determined by a single unifying ground plan.  
+                                                 
+1 J.A.R. Legon, 'The Plan of the Giza Pyramids', Archaeological Reports of the Archaeology Society of Staten Island, 
+Vol.10 No.1. New York, 1979. 
+2  J.A.R. Legon, 'A Ground Plan at Giza', DE 10 (1988), 33-40; 'The Giza Ground Plan and Sphinx', DE 14 (1989), 53-
+60. 
+3 . J.A.R. Legon, 'The Design of the Pyramid of Khaefre', GM 110 (1989), 27-34; 'The Geometry of the Bent 
+Pyramid', GM 116 (1990) 65-72, 71; 'The Giza Site Plan Revisited', GM 124 (1991), 69-78. 
+4 1. M. Lehner, 'The Development of the Giza Necropolis: The Khufu Project', MDAIK 41, 1985, 109-143.  
+5 2. W.M.F. Petrie, The Pyramids and Temples of Gizeh (London, 1883). First edition only for full details, 34-36.  
+6  J.A.R. Legon, 'The Plan of the Giza Pyramids', Archaeological Reports of the Archaeology Society of Staten Island, 
+Vol.10 No.1. New York, 1979.  
+ 
+
+The Plan of the Giza Pyramids 
+ 
+2 
+ 
+The existence of a dimensional scheme underlying the placing of the three pyramids is suggested 
+in the first instance by the very regular arrangement of these pyramids on the Giza plateau. As a 
+result, the sides of the bases and the distances that separate them define consecutive axial distances 
+from north to south and from east to west. The three pyramids were accurately aligned with respect 
+to the four cardinal points, and were displaced from one another in a configuration which satisfies 
+the requirements of a coherent dimensional design. Certain technical difficulties relating to the site 
+chosen for each pyramid in turn also suggest that there must have been some significant constraint, 
+in addition to factors such as ease of construction or the selection of the most favourable 
+architectural setting, which determined where each of the three pyramids was positioned. 
+ 
+Using some of the finest surveying equipment available in his day, Petrie asserted that he had fixed 
+the positions of the main stations in his triangulation to within 3 mm.7 The accuracy of his work is 
+proven by the fact that his result for the mean side-length of the Great Pyramid differs from the 
+value obtained in the meticulous survey carried out by J.H. Cole in 1925,8 by only 1.5 cm,  even 
+though nearly all of the outer casing of the pyramid is missing. Whereas Petrie had located single 
+points of the casing in pits near the centre of each side, excavations in preparation for the work by 
+Cole showed that substantial traces of the original casing-edge still remained on the pavement in 
+some places where the casing itself has been destroyed. 
+                                                 
+7  Petrie, op.cit., 24. 
+8 .J-H..Cole, The determination of the exact size and orientation of the Great Pyramid of Giza, (Survey of Egypt, 
+paper no.39), (Cairo, 1925). 
+
+The Plan of the Giza Pyramids 
+ 
+3 
+The dimensions of the three pyramid-bases as determined by Petrie are given in Table I, together 
+with the average variations in the lengths of the sides and the orientations of the three pyramids 
+with respect to true north. The distances separating the centres of the pyramids were computed 
+by Petrie along axes constructed parallel to the mean azimuth of the Second and Great Pyramids 
+of -4' 52",9 and are given in Table II.  
+h  Table I 
+     Petrie: Inches 
+  Royal Cubits         Azimuth 
+ Great Pyramid 
+       9068.8 ± 0.6 
+       439.81 
+         -3' 43” 
+  Second Pyramid 
+       8474.9 ± 1.5 
+       411.00 
+         -5' 26” 
+ Third Pyramid 
+       4153.6 ± 3.0 
+        201.44 
+         14' 03” 
+To obtain the axial components of spacing between the bases of the three pyramids, the distances 
+between the pyramid-centres can be combined with the sides of the bases, to give the dimensions 
+as listed in Table III. There will be small differences at the corners due to slight variations in the 
+azimuths of the sides with respect to the axes of the plan; but since the Second and Great Pyramids 
+have the same orientation to within two minutes of arc - a remarkably small divergence - these 
+differences average only about 5 cm. The Third Pyramid, however, differs in azimuth from the 
+Second and Great Pyramids by about 1/3 degree in a clockwise direction, so that elements of about 
+25 cm are generated at the corners relative to the mean components of spacing. The exact positions 
+can be calculated using Petrie's original survey coordinates (see below). 
+Table II: Axial Distances between the Centres of the Three  
+          Pyramids as stated by Petrie in Inches 
+ N to S 
+  E to W 
+Centre of 1st to Centre of 2nd Pyramid 
+ 13931.6 
+   13165.8 
+Centre of 2nd to Centre of 3rd Pyramid  15170.4 
+    9450.2       
+Centre of 1st to Centre of 3rd Pyramid 
+ 29102.0 
+  22616.0 
+When the various dimensions are expressed in terms of the Royal Egyptian Cubit, with the value 
+of 20.620 inches or 0.52375 metres as determined by Petrie from his measurements inside the 
+Great Pyramid10  and as stated by Edwards,11 it is found that almost all of the mean components of 
+spacing correspond to whole numbers of cubits, or in some cases half numbers of cubits, to within 
+0.1 cubit. With reference to these potential design values, as listed in Table III, the largest error is 
+only 0.23 cubit or 12 centimetres.  
+TABLE III: Axial Components of Spacing between the Sides of the Pyramids. 
+Distances from North to South 
+Inches 
+      Cubits   Design 
+N side 1st to S side 2nd Pyramid 
+22703.4 
+1101.04       1101 
+S side 2nd to S side 3rd Pyramid 
+13009.7 
+630.93         631 
+                                                 
+9  Petrie, op.cit.,125. 
+ 
+10 . Ibid, 179.  
+11 I.E.S. Edwards, The Pyramids of Egypt, (Harmondsworth, 1947), 208. 
+
+The Plan of the Giza Pyramids 
+ 
+4 
+N side 1st to S side 3rd Pyramid 
+35713.2 
+1731.97       1732 
+S side 1st to N side 2nd Pyramid 
+5159.7 
+250.23         250 
+S side 2nd to N side 3rd Pyramid 
+8856.1 
+429.49 
+429.5 
+Distances from East to West 
+... 
+W side 1st to W side 2nd Pyramid 
+12868.8 
+624.09         624 
+W side 2nd to W side 3rd Pyramid 
+7289.5 
+353.52         353.5 
+E side 1st to W side 3rd Pyramid 
+29227.2 
+1417.42       1417.5 
+W side 1st to E side 2nd Pyramid 
+4393.9 
+213.09         213 
+W side 2nd to E side 3rd Pyramid 
+3135.9 
+152.08         152 
+The Lehner/Goodman and Glen Dash Surveys 
+ In 1984, Mark Lehner and David Goodman began the Giza Plateau Mapping Project, which was 
+intended to produce a topographical contour map of the plateau on a scale large enough to allow 
+the positions of monuments and other archaeological features to be accurately recorded.  In the 
+following year, Lehner and Goodman published a map of the Giza plateau which some theorists 
+assumed was the result of this new survey work. In fact, however, the various monuments and 
+features were traced from  the 1:5000 photogrammetric map which had been prepared by the 
+Egyptian Ministry of Housing and Reconstruction, with the assistance of aerial photographs. 
+Although the EMHR map carries the framework of a grid which could have been used to locate 
+structures on the plateau with sufficient accuracy for archaeological purposes,  Goodman and 
+Lehner decided to construct a new grid with an origin located at the notional centre of the Great 
+Pyramid.  This point does not exist on the ground and can only be deduced by reconstructing the 
+pyramid’s sides and corners. It was assigned the coordinates of 100,000 north and 50,000 east, in 
+consequence of which the coordinates of structures west of the origin require the prefix of 499, 
+while those to south of the origin are prefixed by 99 – a complication which could easily have been 
+avoided by placing the origin outside the area of the plateau. Surprisingly, Lehner’s grid is subject 
+to an error of scaling of about 1 part in 50, so that the grid coordinates of the Third Pyramid, for 
+example,  are displaced  by about 18 metres. 
+Confirmation of the accuracy of Petrie's findings has come from the surveys carried out in 2012 
+and 2015 by the Glen Dash Foundation in conjunction with Ancient Egypt Research Associates, 
+continuing the work of Lehner and Goodman for the GPMP some thirty years earlier.12 By locating 
+Petrie’s original station marks at the corners of the Great Pyramid, and referring to Petrie’s stated 
+coordinates for these stations,  it has emerged that the standard of length implied by the base-line 
+of Petrie’s triangulation was effectively lacking by about 1 part in 5,000 – a discrepancy which 
+Petrie himself noted when he compared his findings with the baseline of the previous survey by 
+David Gill.13  Taking this into account in a significant endorsement of Petrie's work, Glen Dash 
+                                                 
+12   Glen Dash, 'New Angles on the Great Pyramid' , Aeragram 13-2, Fall 2012, 10-19 
+13  See Petrie, Pyramids and Temples p. 205-7.  The shortfall may perhaps be ascribed to Petrie’s base-line measuring 
+equipment, which was of his own devising . 
+
+The Plan of the Giza Pyramids 
+ 
+5 
+has converted Petrie's coordinates for the corners and centres of the pyramids into coordinates in 
+the GPMP grid,14  to give the best possible estimates for these positions. 
+Petrie’s coordinates for the corners of the Second and Third Pyramids, as transformed by Glen 
+Dash to the cardinal orientation of the GPMP grid and expressed as northings and eastings, are 
+listed in Table IV. The positions of the corners are then stated as southings and westings relative to 
+the centre of the Great Pyramid. Next, the coordinates are transformed to the azimuth of the site 
+plan of –4’ 56” relative to the cardinal points and stated as distances southwards and westwards 
+from the north-east corner of the Great Pyramid. Finally, these distances are converted into royal 
+cubits of 0.52382 m or 20.623 inches.15  The average difference in the placing of the pyramid 
+corners with respect to the proposed design values as shown is only 0.07 cubit or 3.6  cm. 
+Table IV 
+ 
+ 
+Corner Location 
+ 
+Petrie/GDF 
+Coordinates 
+of corners 
+of Pyramids 
+in GPMP 
+grid aligned 
+to cardinal 
+points. 
+ 
+Distances  
+southwards and 
+westwards from 
+centre of 
+Great.Pyramid 
+at azimuth of 
+GPMP grid 
+ 
+Distances 
+southwards 
+and westwards 
+from N.E. 
+corner of 
+Great Pyramid 
+at azimuth of 
+site plan of  
+– 4’ 56” 
+Resulting Dimensions of 
+Giza Site Plan in Royal 
+Cubits of 0.52382 m or 
+20.623 in. 
+ 
+Second Pyramid 
+ Metres 
+ 
+Metres 
+  Metres 
+Cubits 
+Design Diff. 
+N.E. 
+Northing 
+ 99753.437 
+Southing  246.563 
+ 361.420  
+689.969 
+690.0 
+0.03 
+ 
+Easting 
+499773.458 
+Westing  226.542 
+ 342.078  
+653.044 
+653.0 
+0.04 
+S.E. 
+Northing 
+ 99538.127 
+Southing 461.873 
+  576.730 
+1101.008 
+1101.0 0.01 
+ 
+Easting 
+499773.857 
+Westing 
+226.143 
+  341.987 
+652.872 
+653.0    0.13 
+S.W. 
+Northing 
+ 99537.773 
+Southing 462.227 
+  576.775 
+1101.094 
+1101.0 0.09 
+ 
+Easting 
+499558.503 
+Westing 
+441.497 
+  557.342 
+1063.995 
+1064.0 0.01 
+N.W. Northing 
+ 99753.092 
+Southing 246.908 
+  361.456 
+690.038 
+690.0 
+0.04 
+ 
+Easting 
+499558.231 
+Westng 
+441.769 
+  557.305 
+1063.924 
+1064.0   0.08 
+Third Pyramid 
+ 
+ 
+     
+ 
+ 
+N.E. 
+Northing 
+ 99312.341 
+Southing 687.659 
+  802.094 
+1531.239 
+1531.0 0.24 
+ 
+Easting 
+499479.484 
+Westing 
+520.516 
+  636.684 
+1215.463 
+1215.5 0.04 
+S.E 
+Northing 
+ 99206.931 
+Southing 793.069 
+  907.503 
+1732.471 
+1732.5 0.03 
+. 
+Easting 
+499479.099 
+Westing 
+520.901 
+  637.220 
+1216.487 
+1216.5 0.01 
+S.W. 
+Northing 
+ 99207.334 
+Southing 792.666 
+  906.948 
+1731.412 
+1731.5 0.09 
+ 
+Easting 
+499373.470 
+Westing 
+626.530 
+  742.849 
+1418.137 
+1418.0 0.14 
+N.W. Northing 
+ 99312.860 
+Southing 687.140 
+  801.423 
+1529.959 
+1530.0 0.04 
+ 
+Easting 
+ 499373.854 Westing 
+626.146 
+742.313 
+1417.115 
+1417.0 0.11 
+Analysis of the Giza Site Plan 
+To investigate the possibility of a deliberate positional relationship between the bases of the three 
+pyramids, it seems reasonable to assume that any dimensional scheme would have been laid out 
+starting from the base of the Great Pyramid, which was the first of the Giza pyramids to be 
+                                                 
+14. Glen Dash, 'Where, Precisely, are the Three Pyramids of Giza?'. 
+http://www.academia.edu/6056783/Where_Precisely_are_the_Three_Pyramids_of_Giza  
+15 It will be noted that the azimuth and length of cubit differ very slightly from the values obtained in the writer’s 
+original analysis. 
+
+The Plan of the Giza Pyramids 
+ 
+6 
+constructed. The dimensions would thus have been measured out from the north-eastern area of the 
+plateau, southwards and westwards towards the Second and Third Pyramids. The task of setting 
+out the plan would have been no more difficult in principle than laying out the base of a single 
+pyramid, and it will be noted that the components of spacing between the three pyramids are in 
+each case shorter than the side-length of the Great Pyramid. 
+Before the extensive quarrying of the rock for building stone took  place, the natural 
+surface of the Giza plateau had a general slope of around 5 degrees, and the projection onto 
+the horizontal plane of a measurement taken over the surface would have been reduced by 
+about 0.4%. Thus the dimensions of the site plan could have been laid out with reasonable  
+accuracy without correcting for the slope of the plateau. Once the approximate position for 
+each pyramid had been determined, however, the sites were leveled around the perimeter, 
+and may also have been connected by temporary horizontal-topped embankments so that 
+the east-west and north-south components of spacing between the three pyramid bases 
+could be laid down with the greatest accuracy. While ropes may have been used in the 
+initial marking out of the site plan, the observed accuracy in the finished dimensions was 
+probably achieved  through the use of pairs of butting measuring rods laid alternately end 
+over end – a method capable of achieving a high degree of precision.16 
+ 
+The Great Pyramid 
+It is generally accepted that the sides of the Great Pyramid measure 440 cubits, although 
+only the longest or south side has exactly this length according to the survey by Cole.17  In 
+terms of the Giza royal cubit of 0.52375 metres or 20.620 inches, the actual mean side of 
+230.364 metres corresponds to 439.8 cubits, with an average variation in the sides of only 6 
+cm or 0.1 cubit. Petrie suggested that an adjustment had been effected such that the 
+perimeter of the base would express the 'pi-proportion' in relation to the height of 280 
+cubits, with greater accuracy than the value for π of 22/7.18 In this case, the theoretical side-
+length will be  (140 × π) or 439.822... cubits.  
+Although the mean side-length of the Great Pyramid in the survey by the Glen Dash 
+Foundation is just 1 mm less than Cole’s mean result, small differences in the alignment of 
+the individual sides give rise to variations in the side-lengths which cannot now be resolved.. 
+Cole’s findings must take precedence over those of Glen Dash, however, because the traces 
+of the casing-edge were better preserved. The use of regression analysis by the GDF team to 
+detemine confidence limits for the lengths of the sides is flawed because the data does not 
+satisfy the statistical requirements. 
+ 
+The Placing of the Second Pyramid 
+Turning now to the position of the Second Pyramid relative to the Great Pyramid, the 
+analysis of Petrie's survey data shows that the mean north-south spacing between the two 
+pyramids is 250.2 cubits. It seems likely, therefore, that the builders intended to place the 
+north side of the Second Pyramid on a line just 250 cubits southwards from the south side of 
+                                                 
+16  S. Clarke and R. Engelbach suggest an accuracy to one part in 250,000.  Ancient Egyptian Masonry (Oxford 1930), 
+66. 
+17 Length of south side, 230.454 metres; Cole, op.cit., 6 
+18 Petrie, op.cit., 220 
+
+The Plan of the Giza Pyramids 
+ 
+7 
+the Great Pyramid. Taking further distances along the north-south axis, the impression of a 
+deliberate design is strongly supported. The distance southwards from the north side of the 
+Great Pyramid to the south side of the Second Pyramid is 1101 cubits, or only 0.1% greater 
+than the round-figure of 1100 cubits. This is just 2½ times the side of the Great Pyramid of 
+440 cubits, and the south sides of the two pyramids are separated by an axial distance from 
+north to south of about 3/2 × 440 or 660 cubits.  
+From these plausible formative dimensions of 440 and 250 cubits, we can now obtain a 
+provisional design-value for the side-length of the Second Pyramid as follows: 
+ 
+Nominal  Side-length of Second Pyramid = 440 × 3/2 - 250 = 410 cubits 
+ 
+I have termed this the nominal side-length of the Second Pyramid, because Petrie's survey-
+data gives an actual mean side of of 8474.9 inches or exactly 411 cubits. The average 
+variation in the sides from their mean length is only 1.5 inches or 4 cm. Thus although the 
+above derivation accounts for a dimension of about 410 cubits in preference to one of just 
+400 cubits, an adjustment of one cubit appears to have been made to the actual side-length. 
+Reasons for this adjustment will be given shortly. 
+Now taking dimensions along the east-west axis, Petrie's data places the west side of the 
+Second Pyramid 624 cubits westwards from the west side of the Great Pyramid. Again with 
+an adjustment of one cubit, therefore, this dimension may be equated with a nominal value of 
+2½ × 250 or 625 cubits, making it analogous to the distance of 2½ × 440 or 1100 cubits along 
+the north-south axis. Hence the side-length of the Second Pyramid and the position relative to 
+the Great Pyramid may be ascribed to a simple design based upon modules of 440 and 250 
+
+The Plan of the Giza Pyramids 
+ 
+8 
+cubits. The side-length of the Second Pyramid is defined as (1½ × 440 - 250) or 410 cubits, 
+while the east-west spacing from the Great Pyramid is found to be (625 - 410) or 215 cubits: 
+With reference to this modular scheme, however, the builders evidently subtracted one cubit 
+from the dimension of 625 cubits, and added one cubit to the dimension of 1100 cubits, 
+making the side-length of the Second Pyramid equal to 411 cubits, while the east-west 
+spacing from the Great Pyramid became (624 - 411) or 213 cubits (see Table III). These 
+adjustments suggest that further factors influenced the final choice of dimensions; and indeed 
+these factors are found to have anticipated the inclusion of the Third Pyramid in the 
+completed ground plan.  
+ 
+The Enclosing Rectangle of the Site Plan 
+As shown by the survey-data in Table III, the Third Pyramid extends the scheme of the Second 
+and Great Pyramids by 631 cubits towards the south and 353.5 cubits towards the west. The 
+overall dimensions of the Giza site plan are thereby defined along the two axes. Computing these 
+enclosing dimensions from the component parts, we find:  
+Overall East-West Dimension    = 440 + 624 + 353.5 = 1417.5 cubits  
+Overall North-South Dimension = 440 + 661 + 631 = 1732 cubits 
+
+The Plan of the Giza Pyramids 
+ 
+9 
+Rather surprisingly,  these dimensions  represent the square roots of the first two prime numbers, 
+two and three, multiplied by a factor of 1000. The theoretical values are: 
+ 
+                   
+1000√2 = 1414.21... ,      1000√3 = 1732.05... 
+While the north-south dimension thus expresses the value of 1000√3 exactly, the east-west 
+dimension displays a discrepancy of about 3.3 cubits with respect to the exact value of 1000√2. 
+This apparent error amouts to only about 0.2%, however, and is explained by other factors in the 
+formulation of the dimensions, as we will see. 
+The occurrence of these square root values in the dimensions of the Giza plan points to a 
+geometrical development beginning with a square of 1000 cubits, as shown in the diagram below. 
+The east-west dimension of 1000√2 cubits is first obtained as the diagonal length in this square, 
+which is marked off along the north side to give the overall dimension from east to west. A 
+rectangle measuring 1000 by 1000√2 cubits is then constructed, with a diagonal length of 1000√3 
+cubits which is marked off along the east side to give  the overall dimension of the plan from north 
+to south. 
+The validity of this geometry is confirmed by the ease with which it can be extended so as to 
+define the major division of the plan which takes place at the south side of the Second 
+Pyramid.  It is in fact only necessary to draw in the diagonal of the enclosing rectangle on a 
+plan of √2 : √3 to obtain a point of intersection with the opposing diagonal of the initial square 
+on a plan of 1 : 1.  This defines a length of diagonal equal to the dimension of 1101 cubits 
+which encloses the Second and Great Pyramids from north to south, as shown below .                             
+ 
+It will be seen that the diagonal rising from southern end of the base-line of 1000√3 cubits on a 
+plan of  √2 : √3, intersects the diagonal rising from northern end on a plan of 1:1, such as to 
+
+The Plan of the Giza Pyramids 
+ 
+10 
+divide the base-line in the ratio of √2 : √3. Consequently, the length marked off along  the 1 : 1 
+diagonal will be: 
+                       √2 
+1000 √3  ×   --------    ×  √2  =  1101.020…cubits 
+                   √2 + √3 
+Hence nearly the exact whole number of 1101 cubits which we earlier ascribed to a simple 
+modular scheme adjusted by one cubit,  is now seen to have had its origin in the most 
+fundamental geometry of the enclosing rectangle of the site plan. 
+ 
+It is also possible to construct the enclosing rectangle starting from a double square or 1:2 
+rectangle of 1000  × 2000 cubits.  While the east-west dimension of 1000√2 cubits is given 
+ once again by the diagonal in each component square of 1000 cubits,  the north-south 
+dimension is constructed with reference to the diagonal of the double square of 1000√5 
+cubits. When this dimension is applied as  the hypotenuse in a right triangle having the 
+dimension of 1000√2 cubits as base,  the height of the triangle will be 1000√3 cubits. The 
+hypotenuse, furthermore, intersects the opposing diagonal of one component square so as to 
+divide the length of the double square in the exact ratio of √2 : √3, or into parts of 899 and 
+1101 cubits. Thus the major north-south division of the site plan is defined as before. 
+ 
+
+The Plan of the Giza Pyramids 
+ 
+11 
+Needless to say, these geometrical constructions are conceptual and would have been 
+worked out by the architect on a convenient scale on a drawing board or scribing floor.  
+Only the pyramid bases and the components of spacing between them had to be marked  
+out on the ground of the Giza plateau. 
+Completion of the Site Plan 
+The evaluation of Petrie's survey-data shows that the north-south overall dimension of the 
+Giza site plan together with the division at the south side of the Second Pyramid, satisfy the 
+geometrical requirements with complete accuracy. The question therefore arises as to why 
+the east-west overall dimension diverges from the value of 1000√2 or 1414.2 cubits by 
+about three cubits. That this is not an error is initially indicated by the fact that the axial 
+component of 353.5 cubits westwards from the Second Pyramid to the west side of the 
+Third Pyramid has the value of 250√2 cubits:  
+250√2 = 353.55... cubits 
+Thus this dimension is accurately one-quarter of the ideal overall dimension on the same 
+axis. It is the length of the diagonal in the modular layout squares of 250 cubits, which define 
+the north-south spacing between the Second and Great Pyramids and the dimension of about 
+2½ × 250 or 625 cubits on the east-west axis. Adding this element of 353.5 cubits  to the 
+distances as already defined in our initial modular scheme along the east-west axis gives an 
+overall east-west dimension of (440 + 625 + 353.5) equals 1418.5 cubits, which is more than 
+4 cubits greater than the value of 1000√2 cubits. Thus the subtraction of one cubit from the 
+component of 2½ × 250 or 625 cubits may be seen as a judicious adjustment which improved 
+the accuracy of the square-root value in the overall dimension, without unduly undermining 
+the integrity of the modular scheme. This adjustment, furthermore, was balanced by the 
+addition of one cubit to the modular dimension of 2½ × 440 or 1100 cubits, to satisfy the    
+fundamental division of the overall dimension at the south side of the Second Pyramid. 
+The mathematical import of the site plan is greatly enhanced by the expression of the square 
+roots of 2, 3, 5 and 7, in each case multiplied by the module of 250 cubits.  The side-length 
+of the Second Pyramid  being 411 cubits, the axial distance westwards from the centre of the 
+Second Pyramid to west side of the Third Pyramid is:  
+411/2 + 353.5  =  559 cubits  
+          
+ 
+and     250√5  =  559.01...  
+The east-spacing between the Second Pyramid and Great Pyramid being (624 - 411) or 213 cubits,  
+the axial distance westwards from the centre of the Great Pyramid to the east side of the Second 
+Pyramd is found to be: 
+ 
+ 
+ 
+440/2 + 213  =  433 cubits 
+ 
+ 
+       and       250√3  =  433.01.. 
+
+The Plan of the Giza Pyramids 
+ 
+12 
+This is the length of diagonal in the rectangle measuring 250 × 250√2 cubits, which is contained in 
+the Giza site plan between the north-south dimension of 250 cubits and the east-west dimension of 
+353.5 cubits. It is now evident that a 1 : √3 : 2 right triangle with hypotenuse of 500 cubits and 
+adjacent sides of 250 and 433 cubits can be constructed on the spacing between the Second and 
+Great Pyramids, as shown below.  
+ 
+Finally,  the axial distance southwards from the Great Pyramid to the south side of the Second 
+Pyramid is:  
+                                                   (250 + 411) = 661 cubits  
+and    250√7 = 661.437...  
+In closely connected dimensions along the two axes of the plan, therefore, the square roots 
+of two, three, five, and seven are all accurately represented in terms of a module of 250 
+cubits.  Three  of these square-roots values are represented elsewhere in the plan with a 
+factor of 1000 cubits..Given that the site plan contains only seven independent dimensions 
+– the three pyramid bases and the four components of spacing -  the fact that seven square 
+root values are expressed in the dimensions is remarkable. 
+It will be seen that the addition of one cubit to the nominal side of the Second Pyramid of 
+410 cubits facilitated the accurate expression of 250√3 and 250√5 on the east-west axis, 
+and also resulted in a good approximation to 250√7 on the north-south axis. This last 
+
+The Plan of the Giza Pyramids 
+ 
+13 
+dimension is a natural product of the geometry already described., and can be constructed 
+as the diagonal in a rectangle measuring 250√2 by 250√5 cubits, or as the diagonal in a 
+rectangle measuring 250√3 by 500 cubits. In conclusion, the square roots of the first four 
+prime numbers are all defined in the Giza plan in terms of the module of 250 cubits., which 
+defines the north-south spacing between the Second and Great Pyramids. 
+The Scheme of the Third Pyramid 
+The Third Pyramid seems to have served primarily as a corner marker in the Giza site plan, and 
+thereby extends the scheme of the Second and Great Pyramids by 353.5 cubits towards the west 
+and 631cubits towards the south to define the enclosing rectangle of the plan.. It has dimensions of 
+its own, however, which represent a significant development of the design. It so happens that the 
+numbers 353.5 and 631 are in the almost exact ratio of 1: (1 + π/4), and can therefore be used to 
+generate the pi-proportion of the Great Pyramid within the bounding 353.5 by 631 cubit rectangle  
+                 
+
+The Plan of the Giza Pyramids 
+ 
+14 
+   
+Subtracting the short side from the long  side leaves a remainder of (631 – 353.5) or 277.5 cubits, 
+which is in the ratio of  π : 4 to the short side of 353.5 cubits and so yields  the π/4 pyramid slope:.  
+As shown in the diagram above, the side-length of the Third Pyramid is defined within the 
+rectangle of 277.5 by 353.5 cubits.by the intersection of a line drawn on a plan of 1:1 from the 
+SW corner, with a line drawn on a plan of 1:2 from the NE corner. This results in a space on 
+the east side which is twice as wide as the space on the north side, giving dimensions of 152 
+and 152/2 cubits respectively. The side-length of the Third Pyramid is thus found to be (353.5 
+– 152) = (277.5 – 76) =  201.5 cubits, in agreement with Petrie's mean survey result of 4153.6 
+inches or 201.44 cubits..  The element of 152 cubits determines the east-west spacing between 
+the Second and Third Pyramids, and is exactly one-seventh of the consecutive axial distance of 
+1064 cubits from the west side of the Second Pyramid to the east side of the Great Pyramid.. 
+These relationships form the basis for a scheme of the circle squared, in which a square with 
+a side of 500 cubits is circumscribed by a circle with radius of 250√2 or 353.5 cubits, and a 
+circumference of 2220 cubits (for pi = 3.140).  To square the circle, a second square with a 
+side of 555 cubits is centred on the first square but aligned along the diagonal, generating the 
+elements as described above. 
+ 
+ 
+ 
+ 
+
+The Plan of the Giza Pyramids 
+ 
+15 
+ 
+We must also note that the base of the Third Pyramid is equal to the side of a cube, the volume of 
+which is  that of a sphere with a diameter equal to the module of 250 cubits.  The exact side-length 
+required for this cubing of the sphere being 201.499 cubits, the result is not lacking in accuracy. 
+ 
+The Orientation of the Third Pyramid 
+The occurrence of half numbers of cubits in the planning of the Third Pyramid is associated with 
+the slight difference in the orientation of this pyramid with respect to the axes of  the site plan, 
+sufficient to shift the corners by 0.5 cubit in a clockwise direction relative to the midpoints of the 
+sides. By this means, whole tens of cubits were introduced into dimensions which would otherwise 
+have been greater or less by 0.5 cubit, and a secondary set of requirements for the dimensions 
+relating to the Third Pyramid was facilitated. 
+ 
+The north-south spacing between the Second and Third Pyramids was thus increased to 430 cubits 
+when measured to the north-east corner of the Third Pyramid, but reduced to 429 cubits when 
+measured to the north-west corner. The lesser dimension combines with the side-length of the 
+Second Pyramid to give a distance of (429 + 411) or 840 cubits, which is just three times the 
+height of the Great Pyramid.  It will also be seen that the north-west corner of the Third Pyramid is 
+(429 + 1101) or 1530 cubits southwards from the northern boundary of the plan, while the south-
+west corner is (354 + 411) equals 765 or 1530/2 cubits westwards  from the east side of the Second  
+Pyramid. There is thus a hint of the further relationships which are hidden within structure of the 
+plan.19  
+ 
+Conclusion 
+Whilst the wealth of evidence here presented leaves no doubt whatsoever that the three great Giza 
+Pyramids are the components of a single unified site plan of surprising sophistication, it must be 
+admitted that the existence of the plan is entirely unexpected by Egyptologists, and indeed makes 
+liitle sense in the context of ancient Egyptian funerary architecture.  The Egyptian kings were not 
+given to forming positional relationships between their tombs and those of their predecessors and 
+successors,  and the mathematical nature of the design at Giza can hardly be explained by any 
+known requirements of the funerary cult. 
+ 
+Whereas the Egyptologist will see this as a reason to dismiss the site plan as a strange aberration 
+that can have no relevance for their subject,  the true scientist will recognise the impossibility of 
+the mathematical relationships having arisen by chance, especially given the accuracy, simplicity 
+and coherence of the design,  and the consistency with which a particular theme – the expression 
+of square roots – was pursued by the architect.  It is possible to envisage the occasional 
+approximate occurrence of such numbers popping up in random sets of dimensions by chance, but 
+the systematic and accurate expression of the square roots of the first four prime numbers with a 
+factor of 250 cubits, duplicated in three instances with a factor of 1000 cubits, cannot possibly be 
+dismissed as coincidence. 
+ 
+                                                 
+   19 . These results point to a further geometrical development of the plan as described in The Giza Site  
+         Plan Revisited' in Göttinger Miszellen124 (1991). 
+ 
+
+The Plan of the Giza Pyramids 
+ 
+16 
+If, as the present writer believes, the existence of the site plan cannot be reconciled with the 
+funerary theory, then it is not the solid factual evidence of the dimensional relationhips that is at 
+fault, for this is the bed-rock reality of the Giza site. The evidence for the usage of these pyramids 
+as tombs by certain kings of the Fourth Dynasty, on the other hand, is secondary and superficial, 
+and could be explained by the appropriation of pre-existing monuments. The Giza layout provides 
+compelling evidence in support of the claim which is made in the Osirian Scripts,20 to the effect 
+that the three pyramids were constructed as a centre for the initiation of priest-neophytes into the 
+occult wisdom of ancient Egypt, some thousands of years before the founding of the historical 
+First Dynasty. 
+ 
+Needless to say, the notion that the Giza pyramids and temples could predate the Fourth Dynasty is 
+unlikely to find many supporters in orthodox circles, but is nonetheless worthy of consideration in 
+the view of the present writer.. The fact that the name of Khufu is found written on the internal 
+masonry of the Great Pyramid in no way invalidates this possibility, since it is obvious that a king 
+who wished to claim ownership of the monument would have been obliged to adopt the name of 
+the original builder as his own, in order to avoid the need to erase the name from the fabric of the 
+pyramid  – an  impossible task. 
+ 
+The historical Khufu of the Fourth Dynasty would not, however, have wanted to be remembered as 
+the appropriator of the Great Pyramid, but rather as the builder, and to this end it is conceivable 
+that he required the population of Egypt to contribute stones towards its construction. Garbled 
+references to this state of affairs may be found in the history of Herodotus, who tells us that Khufu 
+plunged into all manner of wickedness.  He closed the temples, forbade the Egyptians from 
+making offerings to the gods, and instead compelled them to labour one and all in his service.21  
+He  raised money by prostituting his own daughter, who being bent on leaving a monument which 
+would perpetuate her own memory, required each man to make her a present of a stone towards the 
+works which she contemplated.. The records concerning the delivery of stones to the site which 
+have recently been found at the port of Wadi el Jarf on the coast of the Red Sea have been assumed 
+to support the conventional view of Khufu’s activities, but could equally show how officials were 
+required to deliver stones to the Giza site and keep a detailed account of their contribution to the 
+king’s faux pyramid-building exercise.. 
+ 
+Leading Egyptologists have long recognised the difficulty of maintaining that a monument as vast 
+as the Great Pyramid could have been built in the reign of one king.. The work load in terms of 
+blocks of stone moved into position each day was simply too great. The idea that the Giza 
+Pyramids predate the Fourth Dynasty may seem preposterous to many, but is justified by the 
+records preserved by the Egyptians themselves in documents such as the Turin King List and the 
+history of Manetho. Here we find mention of an era of remote antiquity known as Zep Tepi – the 
+First Time - when Egypt was ruled by priest-initiates who founded the divine dynasties and were 
+later revered as gods or demigods. Scattered across Egypt are monuments that date back to this era 
+but are mostly deeply buried beneath the silt of the Nile, although some were restored and reused 
+by the kings of the ‘authentic’ period..Amongst these monuments, its position carefully integrated 
+with the Giza plan, the Great Sphinx still stands as the enduring guardian of the genuine mystery 
+regarding which I have endeavoured throw a glimmering light. 
+                                                 
+20 See H.C. Randall-Stevens, Atlantis to the Latter Days.  Jersey, 1966.   http://www.cdfas.plus.com/kta.htm 
+21 The History of Herodotus, Book II Chap.124-6. 

@@ -1,0 +1,2949 @@
+327
+Oceanography and Marine Biology: An Annual Review, 2013, 51, 327-374
+© Roger N. Hughes, David Hughes, and I. Philip Smith, Editors
+Taylor & Francis
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+KElTON w. mcmaHON1,2,3, lI lINg HamaDy1 & SImON R. THORROlD1
+1Biology Department, Woods Hole Oceanographic Institution, 
+MS50, Woods Hole, MA 02543, USA
+ E- mail: kmcmahon@whoi.edu (corresponding author), lhamady@whoi.edu
+2Red Sea Research Center, King Abdullah University of Science and Technology, 
+Thuwal, Kingdom of Saudi Arabia
+ E- mail: sthorrold@whoi.edu
+3Ocean Sciences Department, University of California-Santa Cruz, SantaCruz, CA 95064, USA
+animal movements and the acquisition and allocation of resources provide mechanisms for indi-
+vidual behavioural traits to propagate through population, community and ecosystem levels of 
+biological organization. Recent developments in analytical geochemistry have provided ecolo-
+gists with new opportunities to examine movements and trophic dynamics and their subsequent 
+inluence on the structure and functioning of animal communities. we refer to this approach as 
+ecogeochemistry—the application of geochemical techniques to fundamental questions in popula-
+tion and community ecology. we used  meta- analyses of published data to construct δ2H, δ13c, δ15N, 
+δ18O and Δ14c isoscapes throughout the world’s oceans. These maps reveal substantial spatial vari-
+ability in stable isotope values on regional and  ocean- basin scales. we summarize distributions of 
+dissolved metals commonly assayed in the calciied tissues of marine animals. Finally, we review 
+stable isotope analysis (SIa) of amino acids and fatty acids. These analyses overcome many of 
+the problems that prevent bulk SIa from providing suficient geographic or trophic resolution in 
+marine applications. we expect that ecologists will increasingly use ecogeochemistry approaches 
+to estimate animal movements and trace nutrient pathways in ocean food webs. These studies will, 
+in turn, help provide the scientiic underpinning for  ecosystem- based management strategies in 
+marine environments.
+Introduction
+The acquisition and allocation of resources are fundamental requirements for all animals and sig-
+niicantly inluence behaviour, population dynamics and ecosystem functioning. animal movement 
+plays a critical role in resource acquisition and the transfer of these resources among locations. 
+Trophic and movement ecology are therefore inextricably linked across a range of spatiotemporal 
+scales within and among food webs. This connection extends to the techniques used to study con-
+nections among habitats and trophic groups. Stable isotope analysis (SIa) and other geochemi-
+cal methods have been used extensively in food web studies and, more recently, to trace animal 
+movements across habitats with distinctive isotopic signatures (Hobson 1999, Boecklen et al. 2011). 
+This convergence represents a new direction for the ield of ecogeochemistry, a term irst used by 
+mizutani et al. (1991) to describe the use of SIa to infer diets of bats and subsequently expanded to 
+include a range of geochemical approaches applied to ecological studies of food web dynamics and 
+movement (mcmahon et al. 2013).
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+328
+Ecologists have embraced the use of SIa in studies of marine food webs. a recent review found 
+that nearly 60% of trophic ecology studies using SIas published between 2007 and 2009 were con-
+ducted in marine or estuarine environments (Boecklen et al. 2011). However, while stable isotopes 
+have been used in animal migration studies in terrestrial environments for several decades (Hobson 
+1999, Rubenstein & Hobson 2004), the approach has received far less attention in marine systems 
+(Fry 1981, Schell et al. 1989, Best & Schell 1996). This lack of effort may be due, at least in part, to 
+a failure to recognize the degree of geographic variation in isotope and element abundances across 
+marine environments (Hobson 1999, Rubenstein & Hobson 2004). compilations of maps showing 
+spatial variation in isotope values have identiied marine isoscapes that are clearly suficient for use 
+in movement studies over  ocean- basin scales (west et al. 2010, mcmahon et al. 2013).
+The use of ecogeochemical approaches to examine trophic dynamics and movement patterns 
+of animals offers signiicant advantages over traditional methods in marine environments. For 
+instance, the use of stable isotopes has overcome at least some of the problems associated with 
+stomach content analysis to determine diets (michener & Schell 1994). Ecogeochemistry has also 
+been employed to overcome problems associated with conventional tagging methods of the early 
+ life- history stages of marine animals (Thorrold et al. 2002, Becker et al. 2007). Finally, in some 
+instances isotope analyses of ancient calciied tissues have provided a means of investigating eco-
+logical processes over millennial timescales (limburg et al. 2011). Taken together, ecogeochemistry 
+may allow for signiicant progress in a number of important, but as yet unresolved, questions in 
+ocean ecology.
+In this review, we outline the processes controlling isotope and elemental fractionation and 
+summarize geographic gradients in isotope and elemental distributions in ocean and estuarine envi-
+ronments. we assemble global ocean isoscapes for key elements in marine ecogeochemistry, includ-
+ing seawater hydrogen (δ2HSw), dissolved inorganic carbon (DIc) (δ13cDIc), seawater radiocarbon 
+(Δ14cSw), plankton carbon (δ13cPlK), plankton nitrogen (δ15NPlK) and seawater oxygen (δ18OSw). 
+we summarize distributions of those minor and trace elements that are consistently and accurately 
+analysed in the calciied tissues of marine ish and invertebrates and used as natural geochemical 
+tags of natal origin (Thorrold et al. 1997). Finally, we highlight the potential for  compound- speciic 
+stable isotope analyses, acknowledging that more research is needed in terms of understanding the 
+processes controlling stable isotope fractionation of individual amino acids and fatty acids.
+Data sources and isoscape methods
+In this review, we have assembled isoscapes for a number of key elements in the marine environ-
+ment. The data used to generate the isoscapes were collected from  meta- analyses of published 
+isotope data. For δ2HSw and δ18OSw, all data were available on the global Oxygen-18 Database 
+(Schmidt et al. 1999) on the National aeronautics and Space administration website (http://data.
+giss.nasa.gov/ o18data/). Similarly, seawater radiocarbon (Δ14cSw) data were mined from the global 
+Data analysis Project (glODaP) (Key et al. 2004). Seawater DIc δ13cDIc data were collected 
+from glODaP (Key et al. 2004), the Open access library Pangaea (http://www.pangaea.de), and 
+extensive searches of google Scholar and web of Science. Date for both Δ14cSw and δ13cDIc were 
+predominantly more recent than the 1990s. The δ13cDIc data in the horizontal isoscape were from 
+the top 100 m of the world’s oceans. Horizontal isoscapes of plankton δ13cPlK and δ15NPlK values 
+were mined from extensive searches of google Scholar, web of Science, and several online data 
+repositories, including Pangaea. we limited the plankton isoscape search to samples described as 
+net plankton (<1 mm) collected in the euphotic zone (<150 m depth) and not preserved in formalin. 
+The plankton isoscapes comprise a range of species but consist predominantly of copepods and 
+similar zooplankton. To achieve the best spatial coverage, no attempts were made to sort data tem-
+porally. However, most data presented are more recent than the 1990s. In addition to papers cited 
+individually elsewhere in this review, data were obtained from the work of Sackett et al. (1965); 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+329
+Degens et al. (1968); wada & Hattori (1976); Fontugne & Duplessy (1978); Rau et al. (1982, 1983, 
+2003); Shadsky et al. (1982); Fry et al. (1983); Thayer et al. (1983); macko et al. (1984); mullin 
+et al. (1984); Rodelli et al. (1984); checkley & Entzeroth (1985); Peterson & Howarth (1987); wada 
+et al. (1987); Fry (1988); libes & Deuser (1988); checkley & miller (1989); Dunton et al. (1989); 
+altabet & Small (1990); Hobson & montevecchi (1991);  Sholto- Douglas et al. (1991); mackensen 
+et al. (1993, 1996); Fry & Quinones (1994); Hobson et al. (1994, 1995, 2002); Keeling & guenther 
+(1994); matsura & wada (1994); laws et al. (1995); yamamuro et al. (1995); Boon et al. (1997); 
+Sydeman et al. (1997); Bentaleb et al. (1998); France et al. (1998); millero et al. (1998); Schell et al. 
+(1998); gruber et al. (1999); Popp et al. (1999); Sigman et al. (1999); van woesik et al. (1999); wu 
+et al. (1999); calvert (2000); Hofmann et al. (2000); Kaehler et al. (2000); Koppelmann & weikert 
+(2000); Pinnegar et al. (2000); Tittlemier et al. (2000); villinski et al. (2000); waser et al. (2000); 
+Dunton (2001); lesage et al. (2001); mackensen (2001); Polunin et al. (2001); Stuck et al. (2001); 
+Devenport & Bax (2002); Hoekstra et al. (2002, 2003); Nyssen et al. (2002); Sato et al. (2002); 
+Schlitzer (2002); Smith et al. (2002); Bode et al. (2003, 2004, 2007); Das et al. (2003); Estrada et al. 
+(2003); Jennings & warr (2003); Kang et al. (2003); mcclelland et al. (2003); Quay et al. (2003); 
+Schmidt et al. (2003); corbisier et al. (2004); mahaffey et al. (2004);  abed- Navandi & Dworschak 
+(2005); Iken et al. (2005); Kiriakoulakis et al. (2005); le loc’h & Hily (2005); Quillfeldt et al. 
+(2005); Sommer et al. (2005); galimov et al. (2006); goni et al. (2006); Tamelander et al. (2006); 
+carlier et al. (2007); Holl et al. (2007); cianco et al. (2008);  Harmelin- vivien et al. (2008); lamb 
+& Swart (2008); le loc’h et al. (2008); Petursdottir et al. (2008, 2010); Fanelli et al. (2009, 2011); 
+Frederich et al. (2009); Hirch (2009); lysiak (2009); Richoux & Froneman (2009); laakmann 
+& auel (2010); miller et al. (2010); Olson et al. (2010); Pajuelo et al. (2010); Forest et al. (2011); 
+Hill & mcQuaid (2011); Kohler et al. (2011); Kolasinski et al. (2011); Kurten et al. (2011); Pomerleau 
+et al. (2011); Stowasser et al. (2012); and wyatt (2011).
+Isoscapes were generated using Ocean Data view (ODv) version 4.5.0 (Brown 1998, Schlitzer 
+2002, http://odv.awi.de/). Data are displayed as  colour- shaded maps based on contouring of the orig-
+inal data using the Data Interpolating variational analysis (DIva) gridding software. DIva soft-
+ware was designed to interpolate data spatially (Barth et al. 2010). DIva gridding takes into account 
+coastlines, subbasins and advection. calculations are highly optimized and rely on a  inite- element 
+resolution. In particular, the  inite- element method takes into account the distance between analysis 
+and data (observation constraint), the regularity of the analysis (smoothness constraint) and physical 
+laws (behaviour constraint). Information about the DIva gridding software used by ODv can be 
+found at http://modb.oce.ulg.ac.be/ mediawiki/ index.php/ DIva. Details of the algorithms employed 
+by DIva gridding can be found at http://modb.oce.ulg.ac.be/ mediawiki/ index.php/ DIva_method.
+Systematics
+To be successfully applied in the ield, an ecogeochemistry approach must do each of the following 
+(Hobson et al. 2010): (1) establish a baseline isoscape that characterizes distinct geochemical signa-
+tures in different habitats or food web end members; (2) constrain tissue isotope turnover rates that 
+determine the period of integration of geochemical signatures for a particular tissue; and (3) identify 
+isotope or elemental fractionation factors between consumer and diet, or between animals and the 
+ambient environment, that offset animal geochemical signatures from the baseline isotope val-
+ues. The isotopic composition of elements in the marine environment is inluenced by a variety of 
+physical, chemical and biological processes that together produce unique geographic distributions, 
+termed isoscapes (west et al. 2010). Next, we provide a brief overview of the dominant sources of 
+fractionation for elements commonly used in ecogeochemistry studies and discuss the resulting 
+geographic distributions in the marine and estuarine environments. common reference standards 
+for the elements discussed can be found in Table 1.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+330
+Hydrogen isotopes
+Hydrogen isotope fractionation
+Hydrogen has the largest mass difference between isotopes relative to mass and hence the great-
+est variability of δ values of any element on Earth.  Physical- chemical processes governing hydro-
+gen isotope fractionation in the marine environment include evaporation, precipitation, mixing 
+and exchange reactions (Friedman 1953). Evaporation from a number of sources, including clouds, 
+water bodies, soil and plant and animal respiration, forms an important basis for fractionation of 
+hydrogen isotopes in the hydrologic cycle. Fractionation of hydrogen isotopes during evaporation is 
+largely a kinetic process that depends on a number of factors and can, in turn, be quite large. vapour 
+pressures of the isotopologues of water decrease with decreasing molecular weight; therefore, the 
+heavy isotope (2H) will favour that part of the system in which it is more strongly bound, that is, 
+the liquid phase (gat 1996). The same is true for condensation; therefore, during evaporation and 
+condensation in an open system, the liquid phase of water becomes progressively enriched in 2H, 
+while the vapour phase becomes progressively depleted. This process is known as Rayleigh distil-
+lation (gat 1996). Rayleigh distillation has important implications for latitudinal gradients in ocean 
+δ2H values of seawater (δ2HSw) as described in the next section. Hydrogen isotope fractionation 
+factors for phase transitions of water are so large that even in  high- temperature systems like hydro-
+thermal vents, signiicant variation in δ2HSw can be seen (Horita & wesolowski 1994). Further 
+fractionation of hydrogen isotopes can take place at hydrothermal vents and  deep- water cold seeps 
+during oxidation of H2 and cH4 to H2O and cO2. The pressure (depth) at which these reactions take 
+place can also have an impact on hydrogen isotope fractionation (Horita 1999).
+Hydrogen isotopes can also be fractionated by biological processes, including bacterially medi-
+ated production of hydrogen gas and methane, both of which tend to be depleted in 2H (Krichevsky 
+et al. 1961). Hydrogen isotope fractionation during photosynthesis typically results in organic mat-
+ter that is relatively depleted in 2H; however, the individual steps involved in fractionation are still 
+unclear (white 1989). It is important to note that at low temperatures water hydrogen will exchange 
+quickly and reversibly with labile organic hydrogen bound in organic nitrogen, sulphur and oxygen 
+compounds (werstiuk & Ju 1989). water at neutral pH and low temperature in the absence of a 
+catalyst, however, does not readily exchange with most  carbon- bound hydrogen (Sternberg 1988), 
+particularly hydrocarbons and lipids. Therefore, it is important to choose appropriate tissues that 
+Table 1 common isotope ratios, their percentage abundances, reference standards, substance 
+types, and δ values
+Isotope 
+ratio
+abundance 
+(%)
+Standard
+Type
+value
+2H/1H
+0.01/99.98
+SmOw (Standard mean Ocean water)
+water
+δD (SmOw) = 0.00‰
+2H/1H
+0.01/99.98
+SlaP (Standard light antarctic Precipitation)
+water
+δD (SmOw) = –428.00‰
+13c/12c
+1.10/98.90
+PDB (PeeDee Belemnite)
+calcite
+δ13c (PDB) = 0.00‰
+13c/12c
+1.10/98.90
+NBS-19 (National Bureau of Standards-19)
+calcite
+δ13c (PDB) =1.95‰
+14c/12c
+<0.01/98.90
+NBS HOx1 (National Bureau of Standards 
+Oxalic acid I)
+Oxalic acid
+15N/14N
+0.36/99.64
+atmospheric aIR
+air
+δ15N (aIR) = 0.00‰
+18O/16O
+0.20/99.76
+SmOw (Standard mean Ocean water)
+water
+δ18O (SmOw) = 0.00‰
+18O/16O
+0.20/99.76
+SlaP (Standard light antarctic Precipitation)
+water
+δ18O (SmOw) = –55.50‰
+18O/16O
+0.20/99.76
+PDB (PeeDee Belemnite)
+calcite
+δ18O (SmOw) = 0.27‰
+18O/16O
+0.20/99.76
+NBS-19 (National Bureau of Standards-19)
+calcite
+δ18O (SmOw) = 28.64‰
+34S/32S
+4.21/95.02
+cDT (canyon Diablo Troilite)
+Iron sulphide
+δ18O (SmOw) = 0.00‰
+Note: For a complete set of standards, see coplen et al. (2002).
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+331
+contain  non- exchangeable hydrogen or correct for exchange with suitable standards when attempt-
+ing to examine animal migration with stable hydrogen isotopes (Kelly et al. 2009).
+Hydrogen isotope geographic variability
+Surface δ2HSw values range from approximately –60‰ in the arctic Ocean to approximately 12‰ 
+in parts of the mediterranean Sea (Figure 1). Rayleigh distillation is a fundamental process control-
+ling latitudinal gradients in δ2HSw. as water vapour travels polewards and cools, some of the vapour 
+condenses out as enriched precipitation, leaving the remaining vapour further depleted relative to 
+its source. The water vapour becomes more depleted as the fraction of vapour remaining becomes 
+smaller, until it is inally deposited as highly 2 H- depleted snow at the poles. This depletion can be 
+modelled as follows:
+ 
+2H/1Hv = 2H/1Hvo f (α–1),
+where f is the fraction of vapour remaining, α is the equilibrium fractionation factor for the 
+ water- vapour phase transition, and 2H/1Hv and 2H/1Hvo are the hydrogen isotope ratios of the cur-
+rent and initial water vapour fractions, respectively. This process results in a gradient of δ2HSw 
+values that are more negative with increasing latitude. δ2HSw values that are more negative also 
+occur in regions of river  run- off from large drainage basins. Riverine and groundwater sources typi-
+cally have δ2H values that relect the average isotope composition of precipitation that fell relatively 
+recently into watersheds or recharge sites for that area (Kendall & coplen 2001). These freshwater 
+sources introduce unique δ2H signatures into coastal areas that are consistently lower than δ2HSw 
+values. The mouths of large rivers like the amazon can introduce anomalously low δ2H values that 
+penetrate hundreds of kilometres into the atlantic Ocean. Similarly, deuterium can be a valuable 
+tracer of subsurface groundwater sources (Sonntag et al. 1983), resulting in unique nearshore δ2HSw 
+signatures that could be used to track animal migration within and among nearshore habitats. more 
+positive δ2HSw values are typically observed in highly evaporative sites, such as the subtropical 
+gyres, the mediterranean Sea and the arabian Sea. vertical proiles of δ2HSw generally tend to show 
+less variation than the horizontal surface variation and covary with salinity.
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–60
+–50
+–40
+–30
+–20
+–10
+0
+10
+δ12HSW ()
+Figure 1 (See also colour igure in the insert) Horizontal isoscape of published seawater δ2HSw values in 
+the surface waters (top 100 m) of the world’s oceans (n = 360 data points). Data were collected from the global 
+Seawater Oxygen-18 database (Schmidt et al. 1999). Isoscapes were generated in Ocean Data view (Schlitzer 
+2011). Black dots indicate the sample locations.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+332
+It is interesting to note two exceptions to the patterns described. In the Paciic Ocean, the 
+california current exhibits δ2HSw values that are more negative than would be predicted based on 
+latitude due to advection of 2 H- depleted subpolar water towards the equator along the eastern Paciic 
+Ocean. conversely, the  north- eastern North atlantic exhibits enriched δ2HSw values for its latitude 
+due to polewards advection of 2 H- enriched  low- latitude water via the gulf Stream.
+Carbon isotopes
+Carbon-13 (13C)
+13C fractionation carbon isotopes are fractionated during several reactions as they move through 
+the environment and into food webs. The irst of these fractionation processes is caused by equili-
+bration of cO2 between the atmosphere and the surface ocean DIc pool (Boutton 1991). The dis-
+solution of cO2 in seawater occurs through the following reactions:
+ 
+CO
+CO
+H O
+H CO
+H
+HCO
+H
+CO
+2(atm)
+2(aq)
+2
+2
+2
+⇌
+⇌
+⇌
+⇌
++
++
++
++
+−
++
+3
+3
+2
+2−
+although the equilibration of cO2 alone is relatively fast (approximately 1 year), exchange 
+between atmospheric cO2 and DIc that includes all the inorganic carbon species is a slower pro-
+cess, on the order of about 10 years (Broecker & Peng 1974). at a typical surface seawater pH of 
+8.2, seawater DIc has 91% bicarbonate ion, 8% carbonate ion, and 1% dissolved cO2. There is also 
+signiicant  temperature- dependent fractionation of carbon isotopes among the various dissolved 
+carbon species (Zeebe &  wolf- gladrow 2001). The δ13c value of cO2(atm) is approximately –8‰ 
+(Keeling et al. 2005). at 25°c, carbon isotope fractionation between cO2(atm) and cO2(aq) is 1.3‰, 
+and fractionation between cO2(aq) and bicarbonate ions is –9‰ (mook 1986, Zhang et al. 1995). 
+Finally, fractionation between bicarbonate and carbonate ions was reported by mook (1986) to be 
+0.4‰, although the value is not particularly well constrained (Zeebe &  wolf- gladrow 2001).
+Photosynthetic marine organisms take up the lighter carbon isotope (12c) at a faster rate, 
+with a δ13c fractionation value of approximately –19‰ between δ13cDIc and ixed organic carbon 
+( lynch- Stieglitz et al. 1995). Internal biological parameters of primary producers, such as bio-
+synthesis rate, enzymatic activity and cell lipid content, can signiicantly inluence their δ13cPlK 
+values (Fry & wainright 1991, Hinga et al. 1994). The most prominent example of this differen-
+tial fractionation during photosynthesis can be seen in the δ13c values of c3 and c4 plants. Plants 
+using the c4 photosynthetic pathway typically have δ13c values that are more positive, ranging from 
+–8‰ to –12‰, than c3 plants (-22‰ to –28‰) (see review by Farquhar et al. 1989). This difference 
+is due to c4 plants using a different primary carboxylating enzyme, phosphenolpyruvate (PEP) car-
+boxylase, and a different species of inorganic carbon than c3 plants that use  ribulose- bisphosphate 
+ carboxylase- oxygenase (Rubisco). During photosynthesis, phytoplankton take up DIc, and after 
+moderate kinetic fractionation, phytoplankton obtains a δ13c value between –16‰ and –24‰ 
+(Peterson & Fry 1987).
+13C geographic variability Temperature is a key physical parameter that inluences δ13c variabil-
+ity of cO2 globally. The dissolved cO2 concentration of the surface mixed layer [cO2]aq is inversely 
+related to  sea- surface temperature (SST) (weiss 1974), and cold waters with higher [cO2]aq tend to 
+have lower δ13c values than warm waters. This process establishes a strong latitudinal gradient in 
+surface ocean δ13c values of cO2 and DIc (Figure 2). Introduction of 13 c- depleted atmospheric cO2 
+in regions of the ocean with prominent cO2 invasion, such as the North atlantic, results in relatively 
+low surface water δ13cDIc  values. conversely, outgassing of cO2 in equatorial upwelling zones gives 
+surface waters more positive δ13c values ( lynch- Stieglitz et al. 1995). Organic material is reminer-
+alized as it sinks; therefore, water masses at depth are low in δ13cDIc value relative to surface waters, 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+333
+with values typically approaching 0‰ (Figure 3). Upwelling events can also be a signiicant source 
+of anomalously low surface δ13cDIc values (Kroopnick 1985).
+The δ13c value of primary producers (δ13cPlK) is strongly inluenced by the δ13c value of the 
+local DIc pool; thus, spatial variability in δ13cPlK is primarily driven by the same physical param-
+eters (temperature and [cO2]aq) that inluence δ13cDIc values (Figure 4). For example, goericke & 
+Fry (1994) demonstrated that phytoplankton δ13c values generally decreased with increasing lati-
+tude as the δ13c of particulate organic carbon (POc) weakly tracked with temperature on a global 
+scale. However, as mentioned, biological processes can also inluence phytoplankton δ13cPlK values 
+and thus decouple these patterns in some situations (Fry & wainright 1991, Hinga et al. 1994, 
+Kelly 2000).
+Nearshore and benthic systems are typically more 13c-enriched than oceanic systems due to 
+higher nutrient concentrations near shore causing greater overall productivity (France 1995). In 
+addition, tighter terrestrial and  benthic- pelagic coupling in nearshore systems can increase inputs 
+from 13 c- enriched benthic macrophytes and c4 marsh plants (France 1995). In contrast, pelagic 
+waters are 13c-depleted owing to lower nutrient availability, lower phytoplankton growth rates and 
+overall productivity and reduced contributions from benthic macrophytes. as a result, there are 
+often steep gradients in δ13cbase values from nearshore to offshore and benthic to pelagic habitats. 
+This gradient can be particularly pronounced in regions of strong upwelling or seasonal coastal 
+phytoplankton blooms (Pancost et al. 1997).
+There can also be signiicant seasonal variability in δ13c values at the base of marine food webs 
+(δ13cbase) in many ocean ecosystems (gearing et al. 1984, cifuentes et al. 1988, goering et al. 1990, 
+Ostrom et al. 1997). There are a number of factors that can contribute to seasonal variability in 
+δ13cbase, including seasonal changes in water mass properties and luctuations in terrestrial  run- off, 
+temperature and associated [cO2]aq, phytoplankton productivity and growth rate and primary pro-
+ducer species composition. In general, seasonal variability is larger at high latitudes, with large 
+variations in temperature and productivity, compared to  low- latitude, tropical systems. cifuentes 
+et al. (1988) showed that the pattern of δ13c in suspended particulate matter varied by nearly 9‰ 
+on seasonal timescales in the Delaware Estuary. goering et al. (1990) found a similar pattern with 
+more than a 4‰ difference in net phytoplankton δ13cPlK values between april and may alone 
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–1
+0
+1
+2
+3
+4
+δ13CDIC ()
+Figure 2 (See also colour igure in the insert) Horizontal isoscape of published seawater dissolved inor-
+ganic carbon (DIc) δ13cDIc values in the surface waters (top 100 m) of the world’s oceans (n = 5501 data 
+points). Data were collected from the glODaP database (Key et al. 2004). Isoscapes were generated in Ocean 
+Data view (Schlitzer 2011). Black dots indicate the sample locations.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+334
+0
+1000
+2000
+3000
+4000
+5000
+60°N
+40°N
+20°N
+0°
+(A)
+(B)
+(C)
+20°S
+40°S
+40°N
+20°N
+0°
+20°S
+60°S
+40°S
+0°
+20°S
+60°S
+40°S
+δ13CDIC ()
+–2
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+–1
+0
+1
+2
+Figure 3 (See also colour igure in the insert) vertical isoscapes of published seawater dissolved inorganic 
+carbon (DIc) δ13cDIc values from (a) atlantic Ocean (n = 659 data points); (B) Indian Ocean (n = 809 data 
+points); and (c) Paciic Ocean (n = 1353 data points). Data were collected from an extensive search on web 
+of Knowledge and the glODaP database (Key et al. 2004). Isoscapes were generated in Ocean Data view 
+(Schlitzer 2011). Black dots indicate the sample locations.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+335
+during the seasonal spring bloom in coastal alaska. These seasonal luctuations in δ13c can be 
+passed on to higher trophic levels as well, particularly for primary consumers with fast turnover 
+rates (gearing et al. 1984, Simenstad & wissmar 1985, goering et al. 1990, Riera & Richard 1997). 
+The transfer of such variability to consumers at the upper trophic level tends to diminish with 
+increasing trophic level as a result of time averaging due to slower tissue turnover rates and feeding 
+on multiple food sources, potentially across multiple food webs for highly mobile species (goering 
+et al. 1990, O’Reilly et al. 2002). For instance, in the goering et al. (1990) study, zooplankton had a 
+similar, although smaller, seasonal variability (δ13cPlK about 3‰) to net phytoplankton.
+Carbon-14 (14C)
+14C fractionation carbon has a naturally occurring, radiogenic isotope, 14c (radiocarbon), that 
+may be a useful tracer of habitat use in the marine environment. Radiocarbon is created by cosmic 
+ray bombardment of nitrogen in the atmosphere. In living organisms, radiocarbon exists at levels 
+in isotopic equilibrium with their surroundings; when an organism dies, the 14c begins to decay at 
+a predictable and measurable rate. This makes radiocarbon analysis useful for dating organic mat-
+ter. In modern times, several anthropogenic perturbations have altered natural radiocarbon levels. 
+Fossil fuel emissions introduced old, ‘dead’ radiocarbon into the atmosphere and led to a decrease 
+of about 20‰ in atmospheric Δ14c values from 1890 to 1950 (Suess 1955, levin & Hesshaimer 
+2000). In addition, atmospheric testing of atomic bombs in the 1950s and early 1960s resulted in 
+a rapid and  well- documented increase in radiocarbon in the atmosphere, leading to disequilibrium 
+with the world’s oceans and biosphere (Druffel & linick 1978). The initial rise of bomb radiocarbon 
+in surface ocean waters from prebomb levels (approximately –50‰ in the Paciic Ocean and –65‰ 
+to –45‰ in the atlantic Ocean) occurred in 1959 ± 1 year, and 14c levels rose relatively rapidly to 
+peak Δ14c values between 1967 and 1970 (approximately 210‰ in the Paciic Ocean and 270‰ in 
+the atlantic Ocean), with a subsequent slow but steady declining trend since then (Ostlund et al. 
+1974, Stuiver et al. 1981, Nydal 1998). This bomb radiocarbon chronology is almost synchronous 
+around the world in biogenic carbonates, such as coral skeletons, bivalve shells and ish otoliths 
+(Druffel & linick 1978, Kalish 1993, weidman & Jones 1993), thus serving as a dated marker in 
+calciied structures exhibiting periodic growth bands (Figure 5).
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–35
+–25
+–30
+–20
+–15
+–10
+–5
+0
+δ13CPLK ()
+Figure 4 (See also colour igure in the insert) Horizontal isoscape of published surface plankton δ13cPlK 
+values in the surface waters (top 200 m) of the world’s oceans (n = 1434 data points). Data were collected from 
+an extensive search on web of Knowledge and several online data repositories. Isoscapes were generated in 
+Ocean Data view (Schlitzer 2011). Black dots indicate the sample locations.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+336
+14C geographic variability The distribution of 14cDIc in the ocean is largely determined by  air- sea 
+exchange of cO2 and ocean circulation (Siegenthaler 1989). Due to initial asymmetrical atmo-
+spheric input, the Δ14cSw maximum values peaked 1–2 years earlier in the Northern Hemisphere 
+compared to the Southern Hemisphere (linick 1978).  Deep- water masses that are isolated from the 
+atmosphere and transported to depth via thermohaline circulation have Δ14cSw values that become 
+more negative with increasing residence time in the ocean (Broecker et al. 1985, Jain et al. 1995) 
+(Figure 6). For instance, the relatively young deep waters of the atlantic Ocean have Δ14cSw values 
+on the order of –140‰, while the Δ14cSw values of older deep North Paciic waters are approxi-
+mately –250‰ (Siegenthaler 1989, but see Druffel & williams 1990).
+Seawater Δ14c values also can vary on regional scales, both horizontally and vertically. 
+Subtropical gyres that entrain water at the surface and possess a strong thermocline with limited 
+vertical mixing typically have high  sea- surface Δ14cSw values. conversely, subpolar gyres and areas 
+of divergence and upwelling bring older, more negative Δ14cSw waters to mix at the surface. In 
+the Paciic, maximal Δ14c values occur in midlatitudes around 30° north and south; at the peak, 
+these regions registered 210‰ or 260‰ above prebomb levels, whereas equatorial waters reached 
+50‰ or 110‰ above prebomb levels (linick 1978). These Δ14cSw surface patterns translate down 
+through the mixed layer, although values drop off quickly below that and remain relatively constant 
+below about 1000 m in all areas (Key et al. 2004). The vertical Δ14cSw gradients observed in the 
+North Paciic and North atlantic may potentially be used as a depth tracer in the context of animal 
+movements if the analysed tissue is primarily derived from DIc (Pearcy & Stuiver 1983, Rau et al. 
+1986). Upwelling can cause signiicant variability in  sea- surface Δ14cSw values on regional and 
+seasonal scales (Figure 5). For instance, strong upwelling around the galapagos Islands brings old 
+200
+150
+100
+50
+0
+∆14C ()
+∆14C ()
+–50
+–100
+–150
+1930
+1950
+1970
+1970–40
+0
+40
+80
+120
+160
+1960
+Year
+1990
+2010
+Figure 5 (See also colour igure in the insert) Radiocarbon (Δ14c) chronologies from marine corals in the 
+world’s oceans from 1930 to 2010. Blue circles: Porites sp., French Frigate Shoals, Paciic Ocean (Druffel 
+1987). Blue squares: Pavona clavus, galapagos Islands, Paciic Ocean (Druffel 1981). Blue diamonds: Porites 
+lutea, Palmyra atoll, Paciic Ocean ( Druffel- Rodriguez et al. 2012). Red circles: Porites lutea, Puerto Rico, 
+atlantic Ocean (Kilbourne et al. 2007). yellow circles: Porites sp., mentawai Islands, Indian Ocean (grumet 
+et al. 2004). Inset: seasonal variability in Porites lutea Δ14c values from the South makassar Strait, Indonesia, 
+between 1960 and 1970 (Fallon & guilderson 2008).
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+337
+0
+1000
+2000
+3000
+4000
+5000
+60°N
+40°N
+20°N
+0°
+(A)
+(B)
+(C)
+20°S
+40°S
+40°N
+20°N
+0°
+20°S
+40°S
+20°N
+0°
+20°S
+60°S
+40°S
+∆14CSW ()
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+–300
+–200
+–100
+0
+100
+Figure 6 (See also colour igure in the insert) vertical isoscapes of published seawater Δ14c values from 
+(a) atlantic Ocean (n = 645 data points); (B) Indian Ocean (n = 1026 data points); and (c) Paciic Ocean 
+(n = 1878 data points). Data were collected from the glODaP database (Key et al. 2004). Isoscapes were 
+generated in Ocean Data view (Schlitzer 2011). Black dots indicate the sample locations.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+338
+‘dead’ carbon up from depth that signiicantly reduces regional surface Δ14c values (Druffel 1981). 
+Similarly, the South makassar Strait in Indonesia exhibits signiicant seasonal variability, in the 
+range of 10‰ to 20‰ seasonally, associated with upwelling that overlays the interannual trend of 
+increasing Δ14c value with time after the initial bomb spike (Fallon & guilderson 2008).
+Nitrogen isotopes
+Nitrogen isotope fractionation
+although only a small fraction of the global nitrogen reservoir is contained in living matter, organic 
+nitrogen is of tremendous importance for nitrogen isotope distributions because almost all nitrogen 
+isotope fractionation results from metabolically related processes (Hübner 1986). Fractionation asso-
+ciated with nitrogen ixation is typically small, with the average isotope effect between atmospheric 
+N2 and ixed nitrogen near 0‰ (Hoering & Ford 1960, Fogel & cifuentes 1993). mineralization of 
+organic matter to ammonium also has a relatively small fractionation factor (0‰ ± 1‰), but con-
+current nitriication of ammonium to nitrate, particularly in vent and seep environments with high 
+concentrations of ammonium, can result in large fractionations (–18‰ to –42‰) (Hoch et al. 1992, 
+Fogel & cifuentes 1993). assimilation of NH4
++, NO2
+–, and NO3
+– by microorganisms can cause 
+signiicant and often highly variable fractionation (–27‰ to 0‰), regulated by nitrogen availability 
+and reaction rates (Fogel & cifuentes 1993). Denitriication produces N2 gas, which if lost to the 
+atmosphere by diffusional processes can produce large isotope effects owing to classic Rayleigh 
+fractionation (as discussed previously). Denitriication produces N2 gas that can be upwards of 40‰ 
+lower in δ15N relative to dissolved nitrate, leaving the remaining nitrate relatively 15N-enriched 
+(cline & Kaplan 1975).
+Nitrogen isotope geographic variability
+The δ15N of nitrogenous species in seawater is determined by the balance of nitrogen sources and 
+sinks, as well as fractionation resulting from biologically mediated processes. Sources of nitrogen 
+to the marine environment include river  run- off, atmospheric deposition, and N2 ixation by cyano-
+bacteria, while the major sinks are burial in sediments and denitriication. The atlantic and Paciic 
+Oceans both show  large- scale, albeit opposite, geographic relationships between δ15N of plankton 
+(δ15NPlK) and latitude (Figure 7). a  meta- analysis of published zooplankton δ15NPlK values from 
+the upper ocean of the North atlantic shows a pattern of enrichment with increasing latitude. The 
+lowest δ15NPlK values are found in the oligotrophic gyres, particularly the Sargasso Sea, where 
+diazotrophic cyanobacteria ix N2 (0‰) into organic nitrogen (montoya et al. 2002). δ15NPlK values 
+increase with increasing latitude as NO3
+– (5‰) becomes the major ixed nitrogen source for marine 
+phytoplankton. In the Paciic Ocean, however, the δ15 NPlK- latitude correlation is reversed, with 
+the highest δ15NPlK values recorded in the eastern tropical and central gyre (Saino & Hattori 1987). 
+This is because (1) the Paciic is generally iron limited and thus lacks signiicant N2 ixation in the 
+surface ocean and (2)  year- round stratiication and large oxygen minimum zones result in signiicant 
+amounts of denitriication and thus nitrate 15N enrichment (Saino & Hattori 1987). For example, 
+the δ15N of dissolved nitrate in antarctic Intermediate water can be upwards of 12.5‰ lower than 
+that of active denitriication zones in the North Paciic Ocean (cline & Kaplan 1975). Particulate 
+organic matter decomposition and respiration, resulting in faster losses in 14N, can create a gradient 
+of increased δ15N with depth in the ocean (Saino & Hattori 1980). This is particularly evident over 
+areas of high productivity, where large diatoms at the base of the euphotic zone may substantially 
+affect vertical δ15N gradients (Kalansky et al. 2011).
+There can also be signiicant variability in δ15N values on smaller spatial scales. anthropogenic 
+sources of nitrogen, including fertilizers, sewage and agricultural animal waste, and atmo-
+spheric deposition via fossil fuel burning, are all important point sources that can have a signiicant 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+339
+impact on coastal δ15NPOm (Heaton 1986). For instance, sewage discharge into coastal estuaries 
+has provided enriched δ15N isotopic point sources due to isotope fractionation during treatment, 
+which is relected in the δ15N values of resident organisms (Hansson et al. 1997, Dierking et al. 
+2012). Similarly, excess nutrients in wastewater associated with diffuse source anthropogenic activ-
+ities, such as urban  run- off and lawn/ ield fertilization, have led to eutrophication in coastal bays 
+(mcclelland et al. 1997). This can result in an increase in primary production and subsequent deni-
+triication, both of which also provide an enriched δ15N isotopic signal that is relected in the tissue 
+δ15N values of local ishes and invertebrates (grifin & valiela 2001).
+Plankton δ15NPlK values can also vary temporally, particularly on seasonal timescales, due 
+to changes in primary productivity associated with shifts in nutrient sources and concentrations, 
+microbial nitrogen cycling and phytoplankton species growth rates and composition (cifuentes 
+et al. 1988, goering et al. 1990, Ostrom et al. 1997, vizzini & mazzola 2003). Seasonal changes 
+in δ15N at the base of food webs (δ15Nbase) can be quite large. cifuentes et al. (1988) found that the 
+δ15N value of suspended particulate matter in the Delaware Estuary in winter alone ranged from 
++5.5‰ to +12.2‰. The authors observed δ15N values as low as +2.3‰ in early spring, and just 
+3 weeks later, a δ15N maximum of +18.7‰ was located in the central portion of the estuary. This 
+large seasonal variability was associated with seasonal shifts in available nitrogen sources, as NH4
++ 
+utilization far exceeded NO3
+– in the winter, and with increases in productivity and decreases in 
+nutrient availability during the spring bloom. large shifts in baseline stable isotope values will have 
+a cascading effect on upper trophic levels. as a result, seasonal variation must be considered when 
+constructing and using isoscapes to address questions of connectivity and trophic dynamics in the 
+marine environment.
+Oxygen isotopes
+Oxygen isotope fractionation
+Fractionation of oxygen isotopes is temperature dependent (Urey 1947, gat 1996), and δ18O anal-
+yses of marine carbonates have routinely been used as a proxy for temperature in both palaeo- 
+and modern applications (aharon 1991, Fairbanks et al. 1997, Thorrold et al. 1997). However, this 
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–2.5
+0
+5
+2.5
+7.5
+10
+12.5
+15
+δ15NPLK ()
+Figure 7 (See also colour igure in the insert) Horizontal isoscape of published surface plankton δ15NPlK 
+values in the surface waters (top 200 m) of the world’s oceans (n = 1088 data points). Data were collected from 
+an extensive search on web of Knowledge and several online data repositories. Isoscapes were generated in 
+Ocean Data view (Schlitzer 2011). Black dots indicate the sample locations.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+340
+ temperature- dependent fractionation effect is small (~0.2‰°c–1) relative to the processes of evapo-
+ration and precipitation that control ocean  basin- scale variation in seawater δ18O values (δ18Osw). 
+Rayleigh distillation plays an important role in determining the fractionation of oxygen isotopes in 
+the hydrologic cycle (gat 1996). These processes are largely the same as those regulating hydrogen 
+isotopes, which can be seen in the meteoric water line (mwl):
+ 
+δ2H = 8*δ18O + d,
+where d is the ‘deuterium excess’ (d = 10‰ for the global mwl; Dansgaard 1964). as a result, δ18O 
+values of seawater exhibit geographic variation in the world’s oceans that typically covary with 
+deuterium and salinity.
+many calciied tissues, including otoliths (Kalish 1991a, Thorrold et al. 1997), bones (Barrick 
+et al. 1992), teeth (Kolodny et al. 1983), and shells (mook & vogel 1968) are precipitated in oxygen 
+isotope equilibrium with ambient water. Some biogenic carbonates, however, exhibit kinetic effects 
+that result in δ18O values out of equilibrium with ambient water (mcconnaughey 1989a,b).
+Oxygen isotope geographic variability
+Oxygen isotope values of ocean water on regional,  short- term spatiotemporal scales can relect a 
+mass balance between evaporation E, precipitation P, advection A, mixing M, and river  run- off R 
+(Figure 8), which can be modelled as (Benway & mix 2004)
+ 
+δ
+δ
+δ
+δ
+δ
+δ
+18O
+F
+F
+F
+F
+F
+SW
+p
+p
+E
+E
+A
+A
+M
+M
+R
+=
+∗
+(
+)−
+∗
+(
+) +
+∗
+(
+) +
+∗
+(
+) +
+∗
+R
+p
+E
+A
+M
+R
+F
+F
+F
+F
+F
+(
+)
+
+
+(
+)−(
+)+(
+)+(
+)+(
+)
+
+
+,
+where F is the fraction, and δ is the isotopic value of each component contributing to the bal-
+ance. δ18OSw values that are more positive are observed in highly evaporative subtropical gyres and 
+ low- latitude shallow seas, including the mediterranean Sea (maximum δ18OSw 1.7‰; Rohling & 
+Rijk 1999) and the Red Sea (maximum δ18OSw about 1.6‰; ganssen & Kroon 1991). The δ18OSw 
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–20
+–15
+–10
+–5
+0
+5
+δ18OSW ()
+Figure 8 (See also colour igure in the insert) Horizontal isoscape of published seawater δ18OSw values in 
+the surface waters (top 100 m) of the world’s oceans (n = 12,344 data points). Data were collected from the 
+global Seawater Oxygen-18 database (Schmidt et al. 1999). Isoscapes were generated in Ocean Data view 
+(Schlitzer 2011). Black dots indicate the sample locations.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+341
+values that are most negative are found at high latitudes (nearly –20‰ in the arctic Ocean) and 
+regions of extensive freshwater input. Freshwater discharge lowers δ18OSw values of coastal ocean 
+waters and, in the case of large rivers like the amazon and the Orinoco in the tropics and the 
+macKenzie and Ob in the arctic, can produce anomalously low δ18OSw values that penetrate hun-
+dreds of kilometres into the ocean (e.g., cooper et al. 2005).
+There are several notable exceptions to the general pattern of decreasing δ18OSw values with 
+latitude. advection of 18 O- depleted subpolar water towards the equator via the california current 
+results in anomalously low δ18OSw values along the eastern boundary of the North Paciic Ocean. 
+conversely, advection of 18 O- enriched  low- latitude water via the gulf Stream causes the western 
+boundary of the North atlantic to have relatively high δ18OSw values for its latitude. vertical proiles 
+of δ18O trend towards 0‰ with depth and typically show less variation than the horizontal isoscapes 
+(Schmidt et al. 1999).
+Sulphur isotopes
+Sulphur isotope fractionation
+major sources of sulphur in the marine environment include hydrothermal processes and riverine 
+input. Removal of sulphur in the marine environment is mostly through evaporite deposits, pyrite 
+or organic compound burial and formation of carbonate compounds (Bottrell & Newton 2006). 
+Sulphate is the most common and biologically available species of sulphur in the open ocean. The 
+fractionation of sulphate between minerals and dissolved sulphate is approximately zero; therefore, 
+neither the creation nor the dissolution of evaporites has a signiicant effect on sulphate δ34S values. 
+Bacterial sulphate reduction, which takes place in sediments and other anoxic environments, is the 
+major source of biological fractionation of sulphur in the marine environment (Bottrell & Newton 
+2006), resulting in a 30‰ to 70‰ isotope effect (Peterson & Fry 1987). Bacterial sulphate reduction 
+is a kinetic process that produces sulphides and organic matter that are depleted in 34S relative to 
+the sulphate being reduced. Rainwater sulphates are also potential sources of sulphur for intertidal 
+plants (Fry et al. 1982). The equilibrium between oxidized and reduced sulphur species is typically 
+only found at very high temperatures, characteristic of hydrothermal vent systems (Krouse et al. 1988).
+The δ34S values of phytoplankton, upland plants and marsh grasses are often quite distinct 
+because of their use of different sources of inorganic sulphur (Peterson et al. 1985). marine phyto-
+plankton and seaweeds utilize marine sulphate (21‰; Rees et al. 1978) and fractionate it little 
+during uptake and assimilation into organic sulphur compounds. Upland plants in aerobic soils 
+also fractionate sulphate little during uptake and assimilation, but they obtain sulphate from pre-
+cipitation with a lower δ34S value (2‰ to 8‰). marsh plants and other primary producers living in 
+anoxic conditions often use sulphides with much lower δ34S values for at least some of their sulphur 
+requirements, resulting in organic matter that is equally depleted in 34S. The δ34S signal established 
+by primary producers is passed on to higher trophic levels in the food web because the essential 
+ sulphur- bearing compounds are typically incorporated into consumer tissues with little to no tro-
+phic fractionation (Peterson et al. 1986, Florin et al. 2011, but see Tanz & Schmidt 2010).
+Sulphur isotope geographic variability
+Sulphur isotope distributions in the marine environment vary with distribution of sulphides and 
+sulphates, quality of growing conditions (aerobic versus anaerobic), atmospheric deposition from 
+natural sources and point sources from pollution. The residence time of sulphate in seawater is 
+2 × 107 years; thus, sulphate is well mixed in the marine environment, maintaining a relatively 
+constant δ34SSw value of 21‰ throughout the open ocean (Rees et al. 1978). In general, benthic 
+and nearshore habitats, including estuaries and marshes, are typically more anoxic than pelagic, 
+offshore ecosystems and thus experience elevated levels of sulphate reduction with correspondingly 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+342
+higher δ34SSw sulphate values. There can be times when ocean sulphate values do change signii-
+cantly. For example, during periods of intense weathering, particularly of shales, ocean sulphate 
+δ34S can decrease signiicantly. conversely, anoxic zones, such as parts of the Black Sea and regions 
+of high primary productivity, may experience increased ocean sulphate δ34SSw values due to ele-
+vated bacterial sulphate reduction (Neretin et al. 2003). On geological timescales, the isotope com-
+position of seawater sulphate varies from 10‰ to 33‰ as a result of changes in the magnitude of 
+sulphur luxes into and out of the marine environment as well as changes in the isotope fractionation 
+between sulphate and buried sulphide (Peterson & Fry 1987). The δ34S value of terrestrial sulphur is 
+highly variable and dependent on rock type and  climate- dependent weathering patterns (Krouse & 
+grinenko 1991). The δ34S value of river water sulphate (global mean 7‰) varies regionally accord-
+ing to bedrock lithology, anthropogenic inputs and atmospheric deposition from natural sources 
+(Thode et al. 1961). as a result, terrestrial  run- off, rivers and groundwater inputs can be major 
+sources of coastal δ34S variability. Sulphur isotopes are thus most useful in coastal and estuarine 
+environments, where highly variable freshwater inputs mix with relatively constant marine values 
+to create steep gradients in sulphate δ34S (Peterson & Fry 1987, Fry 2002).
+ Human- induced perturbations to the natural sulphur cycle have markedly increased since indus-
+trialization, and the majority of sulphur emitted into the atmosphere is now likely of anthropogenic 
+origin (Peterson & Fry 1987). anthropogenic sources of sulphur, most notably from fossil fuel 
+burning, can overwhelm natural variability on small scales. These sources can produce unique point 
+sources to track movement and residence patterns in the marine environment. In addition, eutrophi-
+cation as a result of sewage inputs to coastal habitats can promote anoxic conditions, which support 
+sulphate reduction and the generation of  low- δ34S sulphides.
+Minor and trace elements in calciied tissues
+The chemical composition of oceanic minerals has been used to determine environmental condi-
+tions in  palaeo- oceans for decades (Kastner 1999). more recently, ocean ecogeochemistry applica-
+tions have focused on inferring movement patterns of ish and invertebrates from the elemental 
+chemistry of aragonitic otoliths, shells and statoliths (e.g., campana et al. 1999, Zacherl et al. 2003a, 
+arkhipkin et al. 2004, Becker et al. 2005, Elsdon et al. 2008, walther & limburg 2012). while a 
+number of elements are found in biogenic aragonite, most researchers to date have focused on some 
+combination of six elements that both substitute for calcium in the aragonite matrix (and there-
+fore are more likely to record ambient dissolved concentrations) and are suficiently abundant and 
+free from isobaric interferences to allow for quantiication using inductively coupled plasma mass 
+spectrometry (Thorrold & Swearer 2009). These elements are characterized by  conservative- type 
+(lithium, magnesium, strontium),  nutrient- type (barium) and  scavenged- type (manganese, lead) dis-
+tributions in the oceans and are most usefully reported as ratios to calcium in both ambient waters 
+and in the calciied tissues.
+Minor and trace element fractionation
+minor and trace element composition of calciied tissues are correlated with ambient dissolved 
+concentrations in at least some instances. For instance, concentrations of strontium and barium 
+in otoliths (Bath et al. 2000, Elsdon & gillanders 2004, Dorval et al. 2007) and gastropod pro-
+toconchs (Zacherl et al. 2003b) appear to relect environmental parameters and serve as valuable 
+tracers of juvenile movements and larval dispersal, respectively. However, strontium, barium and 
+indeed almost all metals, with the notable exception of manganese (Elsdon & gillanders 2003), 
+are found at signiicantly lower concentrations in calciied tissues than in the ambient environment 
+(campana & Thorrold 2001). This fractionation is primarily controlled by biological processes 
+that occur during ion transport from seawater to the internal luid from which the calciied tissue 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+343
+precipitates (e.g., melancon et al. 2009). Ion exchange across intestinal or gill membranes, ionic 
+exchange between blood plasma and endolymph and the partition coeficients of ions at the otolith 
+growth surface all likely play some role in regulating the composition of the precipitating luid 
+(Kalish 1991b).
+Temperature typically has a positive inluence on Sr:ca in  low- strontium aragonite in ish oto-
+liths and mollusc protoconchs (Bath et al. 2000, Elsdon & gillanders 2002, Zacherl et al. 2003b) 
+and a negative effect on Sr:ca in  high- strontium aragonite, including coral skeletons and mollusc 
+statoliths (Beck et al. 1992, Zacherl et al. 2003b, cohen & Thorrold 2007). The effects of tem-
+perature on barium, manganese and magnesium are more variable and less conclusive (Elsdon & 
+gillanders 2002, Zacherl et al. 2003b, martin & Thorrold 2005); a recent study found that the li:ca 
+ratio was positively correlated with temperature in the otolith of the latish Solea solea (Tanner 
+et al. 2013).
+Minor and trace element geographic variability
+The long residence times of conservative elements leads to generally uniform distributions through-
+out the world’s oceans. For instance, lithium has a residence time of 1.5 million years and a global 
+li:ca ratio of about 2.5 mmol mol–1 (Huh et al. 1998). Dissolved lithium values in river waters are 
+considerably more variable and generally lower than in seawater, ranging from 30 nM to 11.7 μM, 
+with concomitant li:ca ratios ranging from 77.8 μmol mol–1 to 15.7 mmol mol–1 (Huh et al. 1998). 
+a signiicant correlation between otolith li:ca and salinity suggests that lithium may be a useful 
+tracer of movement between marine and freshwater habitats (Hicks et al. 2010), although the range 
+of potential values in river waters means that freshwater end members would need to be character-
+ized irst. magnesium is also conservative in seawater with a mean mg:ca value of 5.14 mol mol–1 
+(Bruland & lohan 2004). Riverine water ratios are almost invariably lower than that of seawater. 
+with a global average value for freshwater of 0.45 mol mol–1, mg:ca ratios are potentially a useful 
+tracer of salinity (Surge & lohmann 2002). Finally, the global seawater Sr:ca ratio is approximately 
+8.5 mmol mol–1 (de villiers 1999) and is relatively invariant throughout the oceans. Dissolved stron-
+tium values in freshwater are largely controlled by surrounding bedrock geological composition, 
+both rock type and weathering eficiency, and are often nearly an order of magnitude lower than 
+seawater values (Bricker & Jones 1995, limburg 1995, capo et al. 1998). Freshwater values show 
+signiicant geographic and temporal variability, with Sr:ca ratios ranging from 0.27 to 19.18 mmol 
+mol–1 (Brown & Severin 2009). Strontium isotope values in ocean waters are relatively invariant 
+with 87Sr:86Sr = 0.70918 (ando et al. 2010), while luvial 87Sr:86Sr ratios typically vary from about 
+0.704 in basaltic drainages to at least 0.75 in older, highly radiogenic granites ( Barnett- Johnson et al. 
+2010, muhlfeld et al. 2012). Biological fractionation of strontium isotopes is minimal; therefore, 
+87Sr:86Sr ratios represent an excellent tracer of movements between freshwater and ocean environ-
+ments (mcmahon et al. 2013).
+Barium follows a  nutrient- type distribution in seawater, with typical surface ocean values of 
+0.01 to 0.02 μM, increasing to 0.03 and 0.09 μM at a depth of 3000 m in the North atlantic and 
+North Paciic, respectively (Bruland & lohan 2004). Barium concentrations in riverine and coastal 
+areas are relatively high compared to slope and oceanic waters (Shen & Stanford 1990), varying by 
+nearly an order of magnitude globally around a worldwide riverine average of 0.10 μM (gaillardet 
+et al. 2003). Upwelling of cold,  nutrient- rich deep water can be a signiicant secondary source of 
+relatively high barium concentrations to the ocean surface waters (lea et al. 1989).
+Both manganese and lead are scavenged elements characterized by strong interactions with 
+particles that lead to very short oceanic residence times of less than 1000 years (Donat & Bruland 
+1995). atmospheric dust is a major source of manganese and lead in oceanic environments. For 
+example, peak concentrations of dissolved manganese in North atlantic Ocean surface waters occur 
+at 20° north, which coincides with the zone of maximum dust deposition from the Sahara Desert 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+344
+(Bergquist & Boyle 2006). However, in estuarine settings, manganese and lead luxes from porewa-
+ters often overwhelm atmospheric and luvial inputs ( Rivera- Duarte & Flegal 1994, warnken et al. 
+2001). The vertical distributions of dissolved manganese in both the Paciic and the atlantic Ocean 
+are characterized by a surface maximum driven by atmospheric deposition and photoreduction of 
+manganese oxides (Sunda & Huntsman 1988), a subsurface minimum and a second maximum coin-
+cident with the oxygen minimum layer and presumably generated by redox dissolution (landing & 
+Bruland 1987, Boye et al. 2012). most of the dissolved lead in the oceans comes from anthropogenic 
+sources, in particular from the use of leaded gasoline in the United States and Europe (Boyle 2001). 
+The introduction of leaded gasoline in the 1920s led to a marked increase in dissolved lead levels 
+in surface waters of the North atlantic and, to a lesser extent, the North Paciic that peaked in the 
+early 1970s. This lead spike provided a dated marker that was recorded in the skeletons of corals in 
+Bermuda (Shen & Boyle 1987), sclerosponges in the Bahamas (Swart et al. 2002), and bivalve shells 
+in the North atlantic ( Krause- Nehring et al. 2012).
+Previous studies have found little variation in manganese, strontium and barium concentrations 
+from estuarine waters on monthly to seasonal timescales. However, water chemistry in dynamic 
+environments with large tidal ranges may vary over shorter daily or tidal scales (Dorval & Jones 
+2005, Elsdon & gillanders 2006). For example, Elsdon & gillanders (2006) found signiicant dif-
+ferences in manganese, strontium and barium concentrations between water samples collected on 
+different days within three small (<10 km) tidal estuaries that accounted for up to 64% of the total 
+variation on scales of days, weeks, months and seasons.
+Biological tissues
+Ecogeochemistry rests fundamentally on the assumption that the composition of a tissue will relect 
+the isotopic or elemental composition of the source from which an element is obtained and some 
+degree of fractionation (Tieszen et al. 1983, gannes et al. 1997). In the previous section, we dis-
+cussed the processes that create geographic variability in stable isotope and trace element values 
+and the resulting isoscapes. In this section, we address the issues of constraining  tissue- speciic iso-
+tope turnover rates and discrimination factors that control the offset between the baseline isoscape 
+and the consumer isotope or element values.
+Element turnover rates
+Isotope turnover rate plays an important role in determining the temporal scales over which a tissue 
+records an isotopic signature of residence or diet (Dalerum & angerbjörn 2005). Isotope turnover 
+rates can vary from hours to years depending on a number of factors, including tissue type, the 
+metabolic turnover or growth rate, and the taxa studied (Boecklen et al. 2011). analysis of faeces 
+or gut contents provides  short- term information about an organism’s diet, ranging from hours for 
+zooplankton to a few days for large mammals. more metabolically active tissues, including liver 
+and blood, typically have faster turnover rates (weeks) than less metabolically active tissues, such 
+as muscle (months) or bone (years) (Tieszen et al. 1983, Buchheister & latour 2009,  malpica- cruz 
+et al. 2011). Similarly, the isotope composition of whole tissues represents an integration of the 
+isotopic values of the tissue’s constituents (e.g., proteins, lipids, carbohydrates), each with character-
+istic turnover rates that may differ from the bulk tissue turnover rate.
+Tissues that are metabolically inert after formation, including hair, baleen, claws and otoliths, 
+preserve a permanent record of source isotope composition (Rubenstein & Hobson 2004). calciied, 
+accretionary tissues with density or optical bands corresponding to daily, seasonal or annual 
+patterns, including otoliths, bivalve shells, teeth, claws, scales, vertebrae and baleen, may also pro-
+vide a chronological record of lifetime animal diet and movement (Richardson 1988, Schell et al. 
+1989, campana & Thorrold 2001, campana et al. 2002). Otoliths are particularly valuable tissues 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+345
+for retrospective studies of diet and movement because they grow continuously through succes-
+sive addition of daily and annual aragonitic growth bands on a proteinaceous matrix, and they are 
+metabolically inert postdeposition (Degens et al. 1969, campana & Neilson 1985, campana 1999). 
+Otoliths therefore preserve a chronological record of a ish’s metabolic activity and the physical 
+and chemical characteristics of the water in which the ish resided during the time of deposition 
+(Thorrold et al. 1997). Researchers have similarly used the elemental composition of other calciied 
+tissues, including bivalve (Becker et al. 2007) and gastropod shells (Zacherl et al. 2003a), elasmo-
+branch vertebrae (Hale et al. 2006, Tillett et al. 2011), and squid statoliths (arkhipkin et al. 2004), 
+to determine movement patterns during speciic  life- history stages of a number of marine species.
+Element turnover rate also varies by taxon. a literature review by Boecklen et al. (2011) found 
+signiicant variation in  tissue- speciic carbon turnover rates among taxa. For example, the isotopic 
+ half- life (time for a tissue isotope value to change halfway from initial to its new equilibrium value) 
+of muscle in mammals (1 to 3 months) was considerably longer than that for ish (2 to 8 weeks) and 
+birds (1 to 3 weeks). One mechanism generating differences in isotope turnover rate among taxa 
+can be seen in relative contributions of metabolic turnover rate and growth rate to isotope turnover 
+rate in teleost ishes and elasmobranchs. Isotope turnover rates tend to be strongly correlated with 
+growth rate and accretion of biomass in teleost ishes (Herzka 2005, logan et al. 2006). Fish that 
+are growing quickly (often during early  life- history stages) tend to reach isotopic equilibrium with 
+their diet much faster than older,  slower- growing ish (Herzka 2005). conversely, in elasmobranchs 
+isotopic turnover rate appears to be closely linked to metabolic turnover rate (logan & lutcavage 
+2010,  malpica- cruz et al. 2011).
+Trophic discrimination factors
+we deine trophic discrimination between diet and consumer to include kinetic fractionation associ-
+ated with enzymatic reactions during metabolism as well as differences in stable isotope values due 
+to differences in tissue composition. as with isotope turnover rate, trophic discrimination can vary 
+widely among tissue types (gannes et al. 1997, vander Zanden & Rasmussen 2001, mccutchan 
+et al. 2003, Olive et al. 2003). In this section, we focus primarily on bulk trophic discrimination 
+of carbon (Δ13c) and nitrogen (Δ15N) between diet and consumer as they are the primary elements 
+used to assess trophic dynamics in ecogeochemistry studies. However, it is important to note that 
+other elements undergo varying degrees of trophic discrimination. For example, sulphur isotopes 
+exhibit little or no trophic discrimination; thus, δ34S values of consumers relect the baseline signa-
+tures (Peterson et al. 1986). There are mixed results regarding the degree of trophic discrimination 
+(Δ2H) in  non- exchangable hydrogen. Some studies report signiicant differences between diet and 
+consumer δ2H values, suggesting some degree of trophic fractionation (macko et al. 1983, Birchall 
+et al. 2005). However, other studies found that trophic fractionation was negligible and suggested 
+that some  non- exchangeable hydrogen in consumer tissue may come from ingestion or diffusion 
+from ambient water (Solomon et al. 2009).
+marine carbon is typically thought to be conservatively fractionated (Δ13c = 0‰ to 1‰) as it 
+continues to move through food webs (DeNiro & Epstein 1978). This small trophic discrimination 
+is the basis for using δ13c to track diet sources and carbon low through food webs as well as migra-
+tion among isotopically distinct habitats (see reviews by Hobson 1999, Kelly 2000, Rubenstein 
+& Hobson 2004). However, there can be signiicant variability in Δ13c, from –3‰ to 5‰, among 
+tissues and taxa owing to differential digestion or fractionation during assimilation and metabolic 
+processing (vander Zanden & Rasmussen 2001, Post 2002, mccutchan et al. 2003). Trophic dis-
+crimination is typically larger for animals with higher rates of respiration relative to growth, such 
+as birds and mammals, compared to ish and invertebrates. In addition, herbivores that must convert 
+plant biomass into animal biomass often have higher bulk Δ13c values than carnivores and omni-
+vores (Elsdon et al. 2010). The form of excreted waste may also affect trophic discrimination, as 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+346
+urea and uric acid contain carbon, while ammonia does not (however, this concept has received 
+greater attention for its effects on Δ15N, discussed separately below). analysing whole tissues often 
+results in larger  diet- to- consumer Δ13c values compared to muscle due to the inclusion of lipids dur-
+ing  whole- body analysis. For example,  malpica- cruz et al. (2011) found signiicant differences in 
+ tissue- speciic Δ13c values for  laboratory- reared leopard sharks (Triakis semifasciata). liver, which 
+had the highest lipid content, showed the lowest Δ13c values, ins and cartilage had the highest Δ13c 
+values, and muscle and blood were intermediate. This variability can pose a signiicant confound-
+ing variable when comparing δ13c values from large consumers, typically analysed as muscle, and 
+small consumers, which are often analysed whole.
+The isotope value of consumer tissue may not always follow bulk diet isotope values, causing 
+further complications for the interpretation of bulk stable isotope data in an ecogeochemistry con-
+text. much of the variability among  tissue- speciic trophic discrimination factors is attributed to 
+differences in tissue composition and lipid content ( malpica- cruz et al. 2011). The carbon skeletons 
+of different dietary components (proteins, lipids, and carbohydrates), which are often isotopically 
+distinct from each other, can be routed to different tissue constituents in a process termed isotopic 
+routing (Schwarcz 1991). Several studies have emphasized the problems that isotopic routing poses 
+to the interpretation of bulk stable isotope data in diet reconstructions (Parkington 1991, Schwarcz 
+& Schoeninger 1991, ambrose & Norr 1993, Elsdon et al. 2010, mcmahon et al. 2010). Studies have 
+shown that changes in amino acid and lipid composition among tissues or ontogenetically within 
+tissues can obscure changes in δ13c associated with diet or location shifts (watabe et al. 1982, 
+murayama 2000, Hüssy et al. 2004). To control for tissue composition differences, it is often desir-
+able to analyse the same tissue type across all samples. This is not always possible, particularly for 
+large food web reconstructions that may require analysing a wide range of tissues.
+another common, although often debated, practice used to control for tissue composition differ-
+ences is to normalize tissue lipid content, through either chemical extraction or mathematical cor-
+rection (Post et al. 2007, logan et al. 2008, Boecklen et al. 2011). while the change in δ13c values 
+with lipid removal is expected, chemical extraction often affects nitrogen isotope values as well 
+(Sotiropoulos et al. 2004, logan et al. 2008). given that most lipids do not contain nitrogen, these 
+indings indicate that we do not fully understand the changes in tissue composition that occur during 
+chemical lipid extraction. Several mathematical models have been developed to correct  non- lipid 
+extracted tissue isotope values for lipid contribution a posteriori (Post et al. 2007, logan et al. 
+2008). most models use elemental  carbon- to- nitrogen ratios (c:N) of bulk tissue as a proxy for 
+lipid content and a  protein- lipid δ13c discrimination factor (Sweeting et al. 2006, Post et al. 2007). 
+However, these parameters are not well constrained and may vary among species or higher taxa, 
+resulting in a large range in the predictive power of the approach (0.25 < R2 < 0.96) (Post et al. 2007, 
+logan et al. 2008, Tarroux et al. 2010).
+Nitrogen isotopes typically exhibit a 3‰ to 4‰ trophic discrimination (Δ15N) between diet and 
+consumer (DeNiro & Epstein 1981, minagawa & wada 1984). This enrichment stems from a combi-
+nation of fractionation during assimilation and protein synthesis as well as the preferential excretion 
+of light isotopes as waste during metabolism (see review by Kelly 2000). as with carbon, there can 
+be signiicant variability in trophic discrimination around the commonly accepted mean. Estimates 
+of Δ15N range from –1‰ to 9‰ as a function of dietary protein content, consumer species, tissue 
+type, physiological stress and biochemical form of nitrogenous waste (see reviews by minagawa & 
+wada 1984, michener & Schell 1994, vander Zanden & Rasmussen 2001, mccutchan et al. 2003, 
+vanderklift & Ponsard 2003). For instance, animals feeding on  high- protein diets often exhibit 
+signiicantly higher Δ15N values compared to those feeding on  low- protein diets (vander Zanden & 
+Rasmussen 2001). Thus, diet quality and composition can have a signiicant impact on Δ15N values 
+within and among taxa. vanderklift & Ponsard (2003) reviewed nitrogen trophic discrimination in 
+animals with a variety of forms of nitrogen excretion (e.g., ammonia, urea, uric acid). They found 
+that animals excreting urea typically exhibited signiicantly larger mean trophic discrimination 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+347
+factors (Δ15N = 3‰) than  ammonia- excreting animals (2‰). many ureoletic elasmobranchs show 
+relatively low Δ15N values of 1‰ to 2‰ (Hüssy et al. 2010,  malpica- cruz et al. 2011), although this 
+pattern is not ubiquitous (logan & lutcavage 2010). These examples illustrate the complex contri-
+butions of the bulk trophic discrimination of nitrogen isotopes.
+Nitrogen isotopes are commonly used to calculate the trophic position of consumers in the 
+marine environment. The simplest model for calculating trophic position TP using bulk SIa is 
+as follows:
+ 
+TP bulk  = λ + (δ15Ncon – δ15Nbase)/Δ15N,
+where δ15Ncon is the nitrogen isotope value of the consumer, δ15Nbase is the nitrogen isotope value 
+of the baseline consumer, λ is the trophic position of the baseline consumer, and Δ15N is the tro-
+phic discrimination between diet and consumer. Typically, δ15Ncon is measured directly, and Δ15N 
+is assumed to be between 3‰ and 4‰, despite the large range discussed previously. choosing a 
+suitable δ15Nbase is one of the most challenging, and thus limiting, factors in trophic estimation using 
+bulk SIa. There can be signiicant temporal variability in δ15N base associated with the typically 
+much faster turnover rates and thus shorter integration times of basal food web components relative 
+to  longer- lived consumers in the upper trophic level (Hannides et al. 2009). In marine environments, 
+the microalgae that support marine food webs typically have δ15N values that change spatially and 
+seasonally due to incomplete utilization of nitrogenous nutrients (altabet & Francois 2001, lourey 
+et al. 2003) and differential utilization of nitrogen sources (nitrate, ammonium, N2) in space and 
+time (Dugdale & goering 1967, Dore et al. 2002). additional complications arise when organisms 
+feed in multiple food webs with different δ15Nbase sources. as was the case for bulk δ13c interpreta-
+tions, differences in tissue composition and metabolic processing can make interpreting bulk δ15N 
+values challenging. For instance, Schmidt et al. (2004) found that variability in bulk δ15N values 
+between euphausiid sexes and tissues (digestive glands and abdominal muscle) were driven by dif-
+ferences in the relative proportions of amino acids (up to 5 mol%) and their δ15N variability (up to 
+11‰), as well as differences in tissue metabolism, primarily protein synthesis and degradation for 
+energy supply. The authors showed that, despite the offset in bulk δ15N values between female and 
+male euphausiids (1.3‰), both sexes were in fact feeding at the same trophic level, and the tissue 
+composition and metabolism differences actually confound  trophic- level interpretations of bulk 
+δ15N values.
+One of the biggest challenges of interpreting bulk tissue stable isotope values is the confounding 
+effect of changes in trophic position with variations in isotope values at the base of the food web 
+(δ13cbase and δ15Nbase; Post 2002). It can be dificult to determine whether changes in a consumer’s 
+stable isotope value are due to changes in its diet or trophic position, changes in the baseline food 
+web stable isotope value, or both. This can be particularly problematic when studying the diet and 
+movement of highly migratory marine organisms that may change diet and trophic position as well 
+as habitats throughout ontogeny (graham et al. 2010, mcmahon et al. 2013). The factors described 
+can make interpretations of bulk tissue SIa challenging for studies of diet and migration. as a 
+result, there have been calls for more studies to examine the biochemical and physiological basis 
+of stable isotope ratios in ecology (gannes et al. 1997, gannes et al. 1998, Karasov & martínez del 
+Rio 2007).
+ Compound- speciic stable isotope analysis
+Thanks in large part to advances in mass spectrometry, including gas chromatograph/ combustion/ 
+isotope ratio  monitoring- mass spectrometry (gc/ c/ irm- mS) (merritt et al. 1994,  meier- augenstein 
+1999, Sessions 2006) and more recently the Finnigan lc Isolink (mccullagh et al. 2006) and 
+moving wire interface (Krummen et al. 2004, Sessions et al. 2005), it is now possible to obtain 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+348
+precise and accurate stable isotope measurements from individual biological compounds, including 
+amino acids and fatty acids.  compound- speciic SIa has the potential to increase the speciicity 
+of ecogeochemistry studies signiicantly and avoid many of the confounding variables that make 
+it challenging to interpret bulk stable isotope values. Speciically, the metabolic and physiological 
+processes that affect the isotopic values of individual compounds are better constrained and often 
+better understood than the numerous variables affecting bulk tissue stable isotope values. while 
+fractionation between bulk compounds is typically in the range of 1‰ to 5‰, fractionation between 
+individual amino acids can be greater than 20‰ (macko et al. 1987, Keil & Fogel 2001, mcmahon 
+et al. 2010). while the use of  compound- speciic SIa in the marine environment is still relatively 
+new, the technique has been applied to a variety of tissues, including blood, muscle, bone, and 
+otoliths, to assess changes in diet and habitat use (Hare et al. 1991, Popp et al. 2007, lorrain et al. 
+2009, mcmahon et al. 2011a,b). In the following sections, we discuss the processes that result in 
+fractionation of individual compounds (amino acids and fatty acids). we also highlight several key 
+advantages of  compound- speciic SIa for ecogeochemistry studies, as well as current limitations 
+and the direction of the ield.
+Amino acids
+Carbon
+amino acids have conventionally been classiied into two categories with regard to carbon metabo-
+lism, essential (indispensable) and  non- essential (dispensable), relating to their synthesis by various 
+organisms (Table 2). Borman et al. (1946) termed as indispensable those amino acids that cannot 
+be synthesized by an organism from materials normally available to the cells at a speed adequate 
+with the demands for normal growth. However, this deinition emphasizes that there will be some 
+variability in how amino acids are parsed into each category depending on the metabolic capabili-
+ties and demands of the organism. There are nine amino acids that are classiied as truly essen-
+tial, meaning that while plants and bacteria can synthesize them de novo, animals have lost the 
+Table 2 classiication of dietary amino acids according to their 
+dietary requirements by animals
+carbon
+Essential
+ Non- essential
+Nitrogen
+Source
+lysine (primary amine)
+glycine*
+Phenylalanine (aromatic ring)
+Serine
+Threonine (secondary alcohol)
+Tyrosine*
+methionine (secondary thiol)
+Trophic
+Isoleucine (branched aliphatic side chain)
+alanine
+leucine (branched aliphatic side chain)
+aspartic acid
+valine (branched aliphatic side chain)
+glutamic acid
+Proline*
+Unknown
+Histidine (imidazole ring)
+arginine*
+Tryptophan (indole ring)
+asparagine
+Taurine*
+cystine*
+Source: modiied from Karasov & martinez del Rio (2007).
+Note: amino acids are divided into essential,  non- essential and conditionally essential 
+(designated with *) for carbon isotopes and source, trophic and unknown for 
+nitrogen isotopes. The structures that are likely to render certain amino acids 
+indispensable are in parentheses next to the essential amino acids (Reeds 2000).
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+349
+enzymatic pathways to synthesize these amino acids and thus must acquire them directly from diet. 
+another seven amino acids are considered conditionally essential because their rate of synthesis is 
+limited for certain species or conditions. Typically, the synthesis of these amino acids is limited by 
+the availability of a precursor to donate carbon or accessory groups, such as sulphur. In some cases, 
+synthesis is limited to certain tissues (e.g., proline and arginine in the intestines; wakabayashi 
+et al. 1994) or by physiological demands (e.g., arginine as a precursor for ornithine used to detoxify 
+ammonia in some carnivores; morris 1985).  Non- essential amino acids can be synthesized by all 
+species in suficient quantities to maintain normal growth.
+modest bulk tissue Δ13c values often relect  little- to- no trophic discrimination for all essential 
+amino acids and relatively large trophic discrimination factors for many  non- essential amino acids 
+(Hare et al. 1991, Howland et al. 2003, Jim et al. 2006, mcmahon et al. 2010) (Figure 9a). as a 
+result, essential amino acid Δ13c values between diet and animal consumers are typically near 0‰. 
+consumer essential amino acid δ13c values therefore represent the isotopic signature of primary 
+producers at the base of the food web (δ13cbase) without the confounding variable of trophic dis-
+crimination. The inherent metabolic diversity within and among prokaryotes and plants generates 
+distinct patterns of essential amino acid δ13c values and proiles that can be used to identify the 
+origin of amino acids even when there is considerable variability in bulk δ13c (abraham & Hesse 
+2003, Scott et al. 2006). Unlike bulk SIa, which only relies on differences in δ13c value among end 
+members,  compound- speciic SIa also makes use of differences in amino acid proiles, which can 
+arise from different biosynthetic pathways used by various groups or from different isotope effects 
+during the biosynthetic process. For example, plants and fungi have unique pathways for lysine 
+and leucine biosynthesis, leading to isotopically distinct carbon isotope signatures compared to 
+bacteria (Hagelstein et al. 1997, Hudson et al. 2005). larsen et al. (2009) showed that the isotopic 
+difference between isoleucine and leucine was much larger for plants and fungi (6‰ to 12‰) than 
+bacteria (–3‰ to 2‰), making them particularly valuable in distinguishing plant and fungal carbon 
+from bacterially derived carbon. In contrast, the pathways for synthesis of alanine, valine, leu-
+cine and isoleucine in the pyruvate family are similar across fungi, bacteria and plants (Hagelstein 
+et al. 1997), and it is the  taxon- speciic isotope effects associated with pyruvate dehydrogenase that 
+cause differential enrichment of pyruvate available for biosynthesis (Blair et al. 1985). amino acids 
+in the pyruvate family can be useful for distinguishing the biosynthetic origin of amino acids in 
+plants from fungi and bacteria (larsen et al. 2009). given the power of essential amino acid δ13c 
+proiles to discriminate among key primary producers and the fact that those isotopic signatures 
+are transferred to consumers at the upper trophic level with little to no trophic discrimination, 
+ compound- speciic SIa provides a promising tool for identifying δ13cbase values to track animal 
+movement through isotopically distinct food webs and to trace carbon low pathways in marine 
+food webs.
+mcmahon et al. (2011a,b) explored the potential for otolith amino acid geochemistry in snapper 
+(family lutjanidae) to identify diet and residency patterns in juvenile nursery habitats. The technique 
+relies on natural geographic variations in δ13c at the base of food webs among mangrove habitats, 
+coral reefs and seagrass beds that are permanently recorded by otolith amino acids. mcmahon et al. 
+(2011b) found that while bulk inorganic otolith δ13c and δ18O values differed signiicantly between 
+snapper from  seagrass- dominated Red Sea coastal wetlands and the  mangrove- dominated sites on 
+the Paciic coast of Panama, it failed to distinguish nursery residence on local scales. Essential 
+amino acid δ13c values in otoliths, on the other hand, varied as a function of habitat type and pro-
+vided a better tracer of residence in different juvenile nursery habitats than conventional bulk otolith 
+SIa alone. By targeting individual amino acids, mcmahon et al. (2011b) avoided many of the con-
+founding variables inherent in bulk otolith SIa, such as DIc masking dietary signatures. This study 
+presented robust tracers of juvenile nursery residence that are crucial for reconstructing ontogenetic 
+migration patterns of ishes among coastal wetlands and coral reefs. mcmahon et al. (2012) used 
+a  compound- speciic ecogeochemistry approach to identify essential coral reef ish habitats and 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+350
+10
+(A)
+(B)
+(C)
+∆13C ()
+6
+2
+–2
+–6
+–10
+15
+∆15N ()
+10
+5
+0
+–5
+–10
+10
+∆15N ()
+6
+2
+–2
+–6
+Alanine
+Aspartic Acid
+Glutamic Acid
+Glycine
+Isoleucine
+Leucine
+Phenylalanine
+Proline
+Serine
+Treonine
+Valine
+Figure 9 (See also colour igure in the insert) a compilation of individual amino acid fractionation fac-
+tors between diet and consumer, including (a) Δ13c from controlled feeding experiments, (B) Δ15N from 
+controlled feeding experiments, and (c) Δ15N from natural ield samples. Data sources as follows: squares, 
+mcmahon et al. (2010); triangles, Fantle et al. (1999); X, Jim et al. (2006); circles, Hare et al. (1991); stars, 
+Howland et al. (2003); inverted triangles, mcclelland & montoya (2002); crosses, chikaraishi et al. (2007); 
+diamonds, chikaraishi et al. (2009). Blue symbols: terrestrial vertebrates. Red symbols: aquatic vertebrates. 
+green symbols: aquatic invertebrates. multiple symbols of the same shape and colour represent animals fed 
+different diets.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+351
+connectivity within a tropical Red Sea seascape. The authors characterized unique δ13c signatures 
+from ive potential juvenile nursery habitats by analysing ive essential amino acid δ13c values from 
+a commercially and ecologically important snapper species, Lutjanus ehrenbergii. The authors then 
+quantiied the relative contribution of coastal wetland and reef habitats to L. ehrenbergii popula-
+tions on coastal, shelf, and oceanic coral reefs by classifying the juvenile core of adult ish otoliths 
+to one of the ive potential nursery habitat signatures using the multivariate amino acid δ13c data. 
+The results provided the irst direct measurements of the juvenile snappers’ remarkable migrations 
+of over 30 km between nurseries and reefs. This study found that seascape coniguration played a 
+critical but  heretofore- unrecognized role in determining connectivity among habitats.
+The correlation between consumer essential amino acid δ13c value and the carbon isotope value 
+at the base of the food web is not always predictable, particularly for consumers with an extensive 
+microbial gut community. Newsome et al. (2011) conducted a controlled feeding experiment on Nile 
+tilapia (Oreochromis niloticus) reared on diets in which the percentage protein and δ13c value of 
+macronutrients (protein, lipids and carbohydrates) varied signiicantly. The authors found that when 
+tilapia were fed  high- protein diets, the δ13c values of their essential amino acids closely resembled 
+those of their diet, as expected. However, in the  low- protein diet treatment, tilapia essential amino 
+acid δ13c values were signiicantly higher than their corresponding dietary amino acids. This pattern 
+indicated in vivo synthesis of essential amino acids from the bulk carbohydrate pool by microbes 
+in the gut. The microbial contribution of essential macronutrients (vitamins and essential amino 
+acids) to the host’s nutrition has been well studied in ruminants (Kung & Rode 1996, Karasov & 
+carey 2008). It is becoming clear that  non- ruminant consumers may also rely on microbial gut con-
+tributions under certain conditions. more research into the role of the gut microbial community in 
+consumer amino acid metabolism is warranted, particularly for species such as sea turtles, dugongs 
+and herbivorous ishes that are known to have extensive gut microbe communities (e.g., mountfort 
+et al. 2002, andre et al. 2005).
+ Non- essential amino acid Δ13c values often exhibit signiicant deviations from Δ13c = 0‰ and 
+much greater variability among amino acids, diet types and species than essential amino acids 
+(Hare et al. 1991, Howland et al. 2003, Jim et al. 2006, mcmahon et al. 2010) (Figure 9a). This 
+variability relects the inluence of the varied metabolic processes that shape the isotopic values 
+of  non- essential amino acids during metabolic processing. Patterns in  non- essential amino acid 
+Δ13c values are less clear than those for essential amino acids but show evidence of both de novo 
+biosynthesis from bulk dietary carbon pools as well as direct isotopic routing from dietary protein. 
+The relative contributions of isotopic routing versus biosynthesis of  non- essential amino acids has 
+been attributed to variability in protein content and amino acid composition of the diet as well as 
+differential utilization of dietary constituents contributing to the bulk carbon pool (O’Brien et al. 
+2003, Jim et al. 2006, mcmahon et al. 2010, Newsome et al. 2011).
+Isotopic routing of individual amino acids from diet to consumer is an important contributor to 
+the divergence of consumer bulk stable isotope values from those of its whole diet. If signiicant iso-
+topic routing of dietary amino acids into consumer protein occurs, then consumer tissue δ13c values 
+will signiicantly underrepresent the  non- protein macronutrient content of the diet. Isotopic routing 
+of  non- essential amino acids is predicted to occur when consumers feed on  high- protein diets, as 
+this is far more energetically eficient than de novo biosynthesis. Jim et al. (2006) hypothesized that 
+a threshold percentage of protein (5% to 12%) exists in the diet, with bone collagen δ13c values rep-
+resenting those contributed by dietary protein. Several previous studies have estimated a routing of 
+50% to 65% of dietary amino acids to bone collagen when the diet supplied an excess of each amino 
+acid (ambrose & Norr 1993, ambrose et al. 1997). much of this work was conducted on terrestrial 
+vertebrates, and several studies have found important deviations from these patterns in aquatic ver-
+tebrates. In a controlled feeding experiment rearing common mummichogs (Fundulus heteroclitus) 
+on four isotopically distinct diets, mcmahon et al. (2010) found a high degree of biosynthesis of 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+352
+ non- essential amino acids, despite being fed  high- protein diets. The authors suggested that since 
+ish use a signiicant portion of dietary protein for energetic purposes (Dosdat et al. 1996), it is 
+possible that they exhibit a lower degree of dietary routing than terrestrial vertebrates. Newsome 
+et al. (2011) found a similar trend for Nile tilapia (Oreochromis niloticus) in the controlled feeding 
+experiment discussed above. The authors showed that even when fed  high- protein diets,  non- protein 
+dietary sources (carbohydrates and lipids) contributed a signiicant amount of carbon to the biosyn-
+thesis of  non- essential amino acids in the proteinaceous tissues.
+variability in  non- essential amino acid Δ13c values also relects differences in utilization of the 
+bulk carbon pool from diet (O’Brien et al. 2003, Jim et al. 2006, mcmahon et al. 2010, Newsome 
+et al. 2011). For example, catabolizing lipids as a signiicant energy source provides a very 
+13 c- depleted carbon pool from which  non- essential amino acids can be biosynthesized. mcmahon 
+et al. (2010) showed that the impact of a  lipid- rich diet on the  non- essential amino acid δ13c values 
+of ish appears to be greatest near the source of carbon entering glycolysis and becomes diluted 
+or altered as carbon lows through the tricarboxylic acid (Tca) cycle. conversely, amino acids 
+such as alanine that are synthesized from pyruvate become enriched in ish that are synthesizing 
+large quantities of lipids ( gaye- Siessegger et al. 2011). This is because the pyruvate dehydrogenase 
+complex heavily fractionates pyruvate when it splits acetyl coenzyme a (coa) and cO2 as a precur-
+sor for lipid synthesis, thus leaving the remaining pyruvate enriched. aspartate and glutamate are 
+biosynthesized from oxaloacetate and  α- ketoglutarate, respectively, which in turn are generated by 
+a variety of precursors in the Krebs cycle. multiple cycling of metabolic intermediates through the 
+Krebs cycle likely causes large fractionation during metabolic processing. as a result, Newsome 
+et al. (2011) suggested that the δ13c analysis of aspartate and glutamate may be particularly valu-
+able for reconstructing bulk diet. SIa of  non- essential amino acids may provide better resolution 
+of metabolic processing and carbon utilization than conventional bulk SIa. However, additional 
+controlled feeding experiments to examine the underlying mechanisms behind  non- essential amino 
+acid fractionation are warranted. These studies are necessary to determine how much information 
+on diet and metabolic processing we can glean from  non- essential amino acid stable isotope values.
+Nitrogen
+as for carbon, amino acids have recently been classiied into two categories, source and trophic 
+(Popp et al. 2007), relating to the degree of δ15N fractionation between diet and consumer dur-
+ing nitrogen metabolism. It is important to note that while source and essential amino acids all 
+show  little- to- no trophic fractionation between diet and consumer, they are not necessarily the same 
+suite of amino acids, as is the case for trophic and  non- essential amino acids displaying large tro-
+phic discrimination factors (Table 2). The dominant  metabolic- processing routes of source amino 
+acids do not signiicantly fractionate nitrogen because those reactions do not form or break bonds 
+of nitrogen atoms. For example, there are no  nitrogen- associated reactions in the conversion of 
+methionine to  S- adenosylmethionine or phenylalanine to tyrosine. as a result, δ15N values of source 
+amino acids in consumers relect δ15Nbase without the confounding variable of trophic discrimina-
+tion (mcclelland & montoya 2002, chikaraishi et al. 2007, Popp et al. 2007) (Figures 9B, 9c). 
+Sherwood et al. (2011) examined historical nutrient regime shifts in the western North atlantic 
+Ocean using source amino acid δ15N variability in  deep- sea gorgonian corals. The authors were able 
+to interpret coral amino acid nitrogen isotope values as a proxy for nitrate source and suggested that 
+nutrient variability in this region was correlated with recent climate change events.
+Trophic amino acids, on the other hand, undergo signiicant fractionation during nitrogen 
+metabolism (Figures 9B, 9c). The removal and translocation of the amine functional group during 
+deamination and transamination are the dominant metabolic processes in the formation of new 
+amino acids via corresponding keto acids. These metabolic processes likely cause nitrogen isotope 
+discrimination between the metabolized and remaining amino acids for many trophic amino acids, 
+including alanine, valine, leucine, isoleucine, and glutamic acid (macko et al. 1986). variations 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+353
+in the magnitude of trophic amino acid fractionation between diet and consumer should relect 
+the isotope effect and relative lux of the deamination/ transamination process for each amino acid 
+(gaebler et al. 1966). amino acids such as arginine, lysine and histidine that contain multiple nitro-
+gen atoms typically have more variable isotopic compositions due to their dependence on multiple 
+nitrogen reservoirs and enzymatic inhibition reactions (macko et al. 1987). glutamic acid plays a 
+key role in both the synthesis of several other amino acids (lehninger 1975) and the excretion of 
+ammonia in many marine taxa (claybrook 1983). Nitrogen is transferred from glutamate via trans-
+amination to valine, isoleucine, leucine, tyrosine, phenylalanine and aspartic acid, leaving gluta-
+mate isotopically heavier. Thus, it is not surprising that glutamic acid exhibits a large Δ15N between 
+diet and consumer.
+ compound- speciic SIa provides an opportunity for more reined estimates of trophic posi-
+tion that avoid many of the confounding variables of bulk SIa, particularly variable Δ15N values 
+and uncertainty in δ15Nbase.  compound- speciic SIa makes use of the differences in fractionation 
+of trophic and source amino acid to provide an internally indexed indicator of trophic position 
+that normalizes for differences in δ15Nbase. The general equation for  trophic- level estimation with 
+ compound- speciic SIa is as follows:
+ 
+ TPTa- Sa = 1 + (δ15NTa – δ15NSa + β)/Δ15NTa,
+where δ15NTa and δ15NSa represent the nitrogen isotope values of the consumer trophic and source 
+amino acids, respectively; β represents the difference in δ15N between the trophic and source amino 
+acids of primary producers (e.g., –3‰ to –4‰ for aquatic cyanobacteria and algae, +8.4‰ for ter-
+restrial c3 plants, and –0.4‰ for terrestrial c4 plants; mcclelland & montoya 2002, chikaraishi 
+et al. 2010); and Δ15NTa represents the trophic discrimination factor for the trophic amino acid. 
+Phenylalanine consistently shows  little- to- no fractionation across multiple marine and terrestrial 
+taxa in feeding experiments and natural samples, making it an ideal source amino acid. glutamic 
+acid is typically the chosen trophic amino acid for trophic position calculations, although the mag-
+nitude of Δ15N can vary among taxa.
+mcclelland & montoya (2002) and chikaraishi et al. (2007) suggested that large 15N enrichment 
+in trophic amino acids (e.g., glutamic acid Δ15N = about 7‰) between diet and consumer provides a 
+greater capacity for deining trophic level than moderate changes in bulk material (Δ15N = about 
+3.4‰). In addition, minimal fractionation of source amino acids (e.g., phenylalanine Δ15N = 0‰) 
+provides information on δ15Nbase, as discussed previously. Hence, a single analysis of amino acid 
+δ15N values from a consumer tissue provides concurrent information about trophic fractionation 
+and δ15Nbase that is not possible using bulk SIa. However, it is important to note that, as was the 
+case with bulk trophic position estimates, there are several important assumptions involved with 
+the  compound- speciic trophic position equation. In particular, variability in β and Δ15NTa are not 
+well constrained as yet. additional controlled experiments to determine the variability in these 
+two parameters is necessary to fully realize the potential of the  compound- speciic trophic posi-
+tion equation.
+One of the biggest challenges of interpreting bulk tissue stable isotope values is the con-
+founding effect of changes in trophic position with variations in δ13cbase and δ15Nbase (Post 2002). 
+ compound- speciic SIa provides an effective tool to tease apart these confounding variables. For 
+instance, Dale et al. (2011) used a  compound- speciic ecogeochemistry approach, coupled with con-
+ventional stomach content analysis and bulk SIa, to examine the foraging ecology and habitat use 
+of brown stingrays (Dasyatis lata) in Kane’ohe Bay, Hawaii. The authors found a counterintuitive 
+trend of decreasing bulk δ15N values as a function of size, with juvenile stingrays having signii-
+cantly higher δ15N values than adults. The authors posed two competing hypotheses to explain this 
+trend: (1) Stingrays of all sizes were feeding in isotopically similar habitats but decreased in trophic 
+position as they moved out of the bay as adults; or (2) the adult stingrays feeding outside the bay 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+354
+were feeding in a system with a distinct δ15Nbase value. Using the amino acid trophic position equa-
+tion discussed previously, the authors showed that trophic position increased with size despite the 
+decrease in bulk δ15N value and conirmed a foraging habitat shift between the bay and deeper water 
+coincident with the onset of sexual maturity.
+lorrain et al. (2009) used  compound- speciic SIa to examine trophic dynamics of penguins 
+in the Indian and Southern Oceans. conventional bulk stable isotope values suggested that king 
+(Aptenodytes patagonicus) and adélie (Pygoscelis adeliae) penguins occupied the highest trophic 
+level, southern rockhopper penguins (Eudyptes chrysocome chrysocome) occupied the lowest tro-
+phic level, and northern rockhopper penguins (E. chrysocome moseleyi) were intermediate. The 
+amino acid δ15N data, however, indicated that king penguins had a higher trophic level compared 
+to the other species than was predicted from bulk SIa. Furthermore, northern rockhoppers had a 
+higher trophic level than the adélie penguins. However, trophic position alone could not explain the 
+patterns in bulk δ15N values of penguins in this study. Signiicant differences were found in δ15N 
+values of a source amino acid (phenylalanine) among penguin species, suggesting that northern and 
+southern rockhopper penguins were not foraging in the same oceanic regions, and that the differ-
+ences in their bulk δ15N values were due, in part, to δ15Nbase differences.
+Other elements
+The majority of  compound- speciic research in ecogeochemistry has been directed at carbon and 
+nitrogen. However, recent work on δ2H of amino acids suggests that  compound- speciic deuterium 
+analysis may be a valuable new avenue for studies of movement and foraging. Fogel et al. (2010) 
+used bacterial cultures grown on  deuterium- labelled water and growth media to show that δ2H of 
+essential amino acids corresponded to the δ2H of diet, but the δ2H of  non- essential amino acids 
+relected that of the supplied water (Fogel et al. 2010). The large geographic variation in hydrogen 
+isoscapes suggests that δ2H analysis of amino acids may provide a valuable new tracer for studies 
+of movement and foraging ecology.
+Fatty acids
+Fatty acids represent the main constituent of the majority of lipids found in all organisms. Unlike 
+proteins that are broken down during digestion, fatty acids of carbon chain length 14 or more are 
+not degraded once they are released from dietary lipid molecules during digestion. Once fatty acids 
+have been incorporated into consumer tissue, they are either used for energy or reesteriied and 
+stored in adipose tissue, often as triacylglycerols. Thus, fatty acids are generally deposited into 
+adipose tissue in predictable patterns with little modiication, providing an integrated record of 
+diet (Iverson et al. 2004). marine organisms have a diverse suite of  long- chain, polyunsaturated 
+fatty acids that originate from various microorganisms, phytoplankton, and higher plants (ackman 
+1980). a number of studies have shown that speciic fatty acid patterns are passed from diet to con-
+sumer for a variety of taxa, from zooplankton and benthic macrofauna to pinnipeds and cetaceans 
+(see Iverson et al. 2004, Budge et al. 2006 and references therein). given that the pattern of fatty 
+acids found in some plants and in many ish and invertebrates can be used to identify individual spe-
+cies accurately (Iverson et al. 1997, Budge et al. 2002), fatty acid proiles have become a powerful 
+tool for quantitative assessment of predator diets (Iverson et al. 2004).
+much of the previous research using fatty acid signatures to examine spatial or temporal varia-
+tions in diet and trophic ecology has been qualitative examination of changes in consumer fatty acid 
+signatures alone (e.g., Iverson et al. 1997, mcmahon et al. 2006). However, Iverson et al. (2004) 
+developed a quantitative statistical model to estimate the contributions of prey species to the diets 
+of predators using fatty acid signatures. This method computes the most likely combination of diet 
+fatty acid signatures that matches the consumer, after accounting for consumer fatty acid metabo-
+lism (Budge et al. 2012). To be successful, this method requires that the fatty acid compositions of 
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+355
+all important diet sources must be known, and there must be suficient  within- species sampling 
+to assess variability in fatty acid signatures with ecological and demographic factors (e.g., Budge 
+et al. 2002).
+ compound- speciic SIa of fatty acids has the advantage of providing both fatty acid proiles 
+and isotopic information for dietary studies (e.g., Uhle et al. 1997, mcleod & wing 2007, Budge 
+et al. 2008). Stable carbon isotope analysis of fatty acids shows similar patterns to those discussed 
+for amino acids, with some fatty acids showing signiicant  diet- to- consumer discrimination and 
+others showing  little- to- no isotopic change. while the δ13c value of pooled fatty acids is similar 
+to that of the bulk carbon pool, individual storage fatty acids in consumers differ from dietary 
+fatty acid due to chain elongation and dehydrogenation as well as metabolic turnover processes 
+(Stott et al. 1997, Hammer et al. 1998). The kinetic isotope effect resulting from metabolic process-
+ing of  non- essential fatty acids may hold valuable information about carbon utilization, similar to 
+ non- essential amino acids (Uhle et al. 1997). conversely, essential fatty acids, such as omega fatty 
+acids (e.g., linoleic acid 18:2n-6), are directly incorporated from diet into consumer tissue (Stott 
+et al. 1997). Isotopic routing of essential fatty acids provides a record of the isotopic signature of the 
+dietary source preserved in consumer tissues, much like essential amino acids.
+Budge et al. (2008) found that ice algae and phytoplankton, the two dominant forms of primary 
+production fuelling arctic food webs, had distinct differences in fatty acid proiles and unique δ13c 
+signatures of two individual fatty acids, 16:4n-1 (-24.0‰ ± 2.4‰ and –30.7‰ ± 0.8‰, respectively) 
+and 20:5n-3 (-18.3‰ ± 2.0‰ and –26.9‰ ± 0.7‰, respectively). The authors used these differences 
+in base of the food web end members to track carbon low pathways to consumers at the upper 
+trophic level, including ish, seabirds, pinnipeds and cetaceans. They found that although ice algae 
+were only available to consumers for a short period of time (april– may), ice  algae- derived carbon 
+contributed up to 24% of the carbon passed on to upper trophic levels.
+cholesterol has also been shown to be an indicator of  short- term,  whole- diet δ13c values in 
+several controlled feeding experiments on terrestrial vertebrates (Stott et al. 1997, Howland et al. 
+2003, Jim et al. 2004). Howland et al. (2003) found that pig bone cholesterol δ13c values were 3.4‰ 
+depleted relative to whole diet, owing to a kinetic isotope effect resulting from oxidation of pyru-
+vate to  acetyl- coa by the enzyme pyruvate dehydrogenase. This offset indicates that even though 
+cholesterol was present in the diet, the bone cholesterol was biosynthesized from a bulk carbon pool 
+rather than isotopically routed directly from the diet.
+Conclusions and future directions
+Ecogeochemistry relies, in large part, on isoscapes that integrate chemical, physical and biologi-
+cal processes that ultimately determine the isotope composition of marine animals. To enhance 
+the use of isoscapes, we need continued efforts to collect and analyse isotope data throughout the 
+world’s oceans. marine systems are inherently dynamic, and the generation of temporally explicit 
+isoscapes will greatly enhance the accuracy and scope of ecogeochemistry studies. This is par-
+ticularly important in light of the growing effects of climate change and ocean acidiication on the 
+biological, chemical and physical processes in our oceans (Bowen 2010). For example, the effects 
+of temperature on productivity and the frequency and distribution of hypoxic events will potentially 
+shift baseline isoscapes and change patterns of variability across spatial and temporal scales. In 
+addition, we need increased modelling efforts that address the complex ecosystem processes driv-
+ing geographic variability in isotope distributions. This requires new  process- based research to help 
+explain the underlying mechanisms driving spatiotemporal variability in isotopes (Schmittner et al. 
+2008, Somes et al. 2010).
+Enhanced knowledge of isotopic routing, tissue turnover rates and fractionation factors is nec-
+essary to fully realize the potential of ecogeochemistry. we are conident that  compound- speciic 
+SIa will improve the resolution of studies investigating trophic dynamics and movements. However, 
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+356
+we clearly need additional controlled feeding experiments to understand the mechanisms that con-
+trol  non- essential and trophic amino acid stable isotope values. Improving instrument sensitivity 
+is likely to reduce sample size requirements and increase temporal resolution from analyses of 
+accretionary tissues. gains in instrument sensitivity will be particularly helpful when applied to the 
+analysis of individual compounds. Finally, we need improved networking to enhance the dissemina-
+tion and exchange of data among ecogeochemists. This will require increased collaboration among 
+geochemists, ecologists, geostatisticians and software developers, as well as the establishment of 
+easily accessible public databases.
+Acknowledgements
+we were supported by funding from the National Science Foundation (Division of Ocean Sciences, 
+0825148 to S.R.T.), award No. USa 00002 and KSa 00011 from the King abdullah University of 
+Science and Technology (to S.R.T.) and a National Science Foundation graduate Research Fellowship 
+(to l.H.). we thank all of the researchers who contributed published data to the  meta- analyses used 
+to generate our isoscapes, N. lysiak and g. lawson at woods Hole Oceanographic Institution for 
+providing unpublished zooplankton samples for the organic isoscapes, and B. Fry for constructive 
+comments on the manuscript.
+References
+ abed- Navandi, D. & Dworschak, P.c. 2005. Food sources of tropical thalassinidean shrimps: a  stable- isotope 
+study. Marine Ecology Progress Series 291, 159–168.
+abraham, w.R. & Hesse, c. 2003. Isotope fractionation in the biosynthesis of cell components by different 
+fungi: a basis for environmental carbon lux studies. Microbial Ecology 46,121–128.
+ackman, R.g. 1980. Fish lipids, part 1. In Advances in Fish Science and Technology, J.J. connell (ed.). Oxford, 
+UK: Fishing News Books, 86–103.
+aharon, P. 1991. Recorders of reef environment histories. Coral Reefs 10, 71–90.
+altabet, m.a. & Francois, R. 2001. Nitrogen isotope biogeochemistry of the antarctic Polar Frontal Zone at 
+170°w.  Deep- Sea Research II 48, 4247–4273.
+altabet, m.a. & Small, l.F. 1990. Nitrogen isotopic ratios in fecal pellets produced by marine zooplankton. 
+Geochimica et Cosmochimica Acta 54, 155–163.
+ambrose, S.H., Butler, B.m., Hanson, D.B.,  Hunter- anderson, R.l. & Krueger, H.w. 1997. Stable isotopic 
+analysis of human diet in the marianas archipelago, western Paciic. American Journal of Physical 
+Anthropology 104, 343–361.
+ambrose, S.H. & Norr, l. 1993. carbon isotopic evidence for routing of dietary protein to bone collagen, and 
+whole diet to bone apatite carbonate: puriied diet growth experiments. In Molecular Archaeology of 
+Prehistoric Human Bone, J. lambert & g. grupe (eds). Berlin:  Springer- verlag, 1–37.
+ando, a., Nakano, T., Kawahata, H., yokoyama, y. & Khim, B.-K. 2010. Testing seawater Sr isotopic vari-
+ability on a glacial– interglacial timescale: an application of latest  high- precision thermal ionization mass 
+spectrometry. Geochemical Journal 44, 347–357.
+andre, J., gyuris, E. & lawler, I.R. 2005. comparison of the diets of sympatric dugongs and green turtles on 
+the Orman Reefs, Torres Strait, australia. Wildlife Research 32, 53–62.
+arkhipkin, a., campana, S.E., Fitzgerald, J. & Thorrold, S.R. 2004. Spatial and temporal variation in ele-
+mental signatures of statoliths from the Patagonian longin squid (Loligo gahi). Canadian Journal of 
+Fisheries and Aquatic Sciences 61, 1212–1224.
+ Barnett- Johnson, R., Teel, D.J. & castillas, E. 2010. genetic and otolith isotopic markers identify salmon 
+populations in the columbia River at broad and ine geographic scales. Environmental Biology of Fishes 
+89, 533–546.
+Barrick, R.E., Fischer, a.g., Kolodny, y., luz, B. & Bohaska, D. 1992. cetacean bone oxygen isotopes as prox-
+ies for miocene ocean composition and glaciation. Palaios 7, 521–531.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+357
+Barth, a., alvera, a., Troupin, c., Ouberdous, m. & Beckers, J.m. 2010. a web interface for griding arbi-
+trarily distributed in situ data based on  Data- Interpolating variational analysis (DIva). Advances in 
+Geosciences 28, 29–37.
+Bath, g.E., Thorrold, S.R., Jones, c.m., campana, S.E., mclaren, J.w. & lam, J.w.H. 2000. Strontium and 
+barium uptake in aragonitic otoliths of marine ish. Geochimica et Cosmochimica Acta 64, 1705–1714.
+Beck, J.w., Edwards, R.l., Ito, m., Taylor, F.w., Rougerie, F., Joannot, P. & Henin, c. 1992.  Sea- surface tem-
+perature from coral skeletal strontium/calcium ratios. Science 257, 644–647.
+Becker, B.J., Fodrie, F.J., macmillan, P.a. & levin, l.a. 2005. Spatial and temporal variation in trace ele-
+ment ingerprints of mytilid mussel shells: a precursor to invertebrate larval tracking. Limnology and 
+Oceanography 50, 48–61.
+Becker, B.J., levin, l.a., Frodie, J. & mcmillan, P.a. 2007. complex larval connectivity patterns among 
+marine invertebrate populations. Proceedings of the National Academy of Sciences USA 104, 3267–3272.
+Bentaleb, I., Fontugne, m.,  Descolas- gros, c., girardin, c., mariotti, a., Pierre, c., Brunet, c. & Poisson, a. 
+1998. carbon isotope fractionation by plankton in the Southern Indian Ocean: relationship between δ13c 
+of particulate organic carbon and dissolved carbon dioxide. Journal of Marine Systems 17, 39–58.
+Benway, H.m. & mix, a. 2004. Oxygen isotopes,  upper- ocean salinity, and precipitation in the eastern tropical 
+Paciic. Earth and Planetary Science Letters 224, 493–507.
+Bergquist, B.a. & Boyle, E.a. 2006. Dissolved iron in the tropical and subtropical atlantic Ocean. Global 
+Biogeochemical Cycles 20, gB1015, doi:10.1029/2005gB002505.
+Best, P.B. & Schell, D.m. 1996. Stable isotopes in southern right whale (Eubalaena australis) baleen as indica-
+tors of seasonal movements, feeding and growth. Marine Biology 124, 483–494.
+Birchall, J., O’connell, T.c., Heaton, T.H.E. & Hedges, R.E.m. 2005. Hydrogen isotope ratios in animal body 
+protein relect trophic level. Journal of Animal Ecology 74, 877–881.
+Blair, N., leu, a., munoz, E., Olsen, J., Kwong, E. & Desmarais, D. 1985. carbon isotopic fractionation in 
+heterotrophic  microbial- metabolism. Applied and Environmental Microbiology 50, 996–1001.
+Bode, a.m.,  alvarez- Ossorio, m.T., carrera, P. & lorenzo, J. 2004. Reconstruction of trophic pathways 
+between plankton and the North Iberian sardine (Sardina pilchardus) using stable isotopes. Scientia 
+Marina 68, 165–178.
+Bode, a.,  alvarez- Ossorio, m.T., cunha, m.E., garrido, S., Peleteiro, P.B., valdes, l. & varela, m. 2007. 
+Stable nitrogen isotope studies of the pelagic food web on the atlantic shelf of the Iberian Peninsula. 
+Progress in Oceanography 74, 115–131.
+Bode, a., cerrera, P. & lens, S. 2003. The pelagic foodweb in the upwelling ecosystem of galicia (Nw Spain) 
+during spring: natural abundance of stable carbon and nitrogen isotopes. ICES Journal of Marine Science 
+60, 11–22.
+Boecklen, w.J., yarnes, c.T., cook, B.a. & James, a.c. 2011. On the use of stable isotopes in trophic ecology. 
+Annual Review of Marine Science 42, 411–440.
+Boon, P.I., Bird, F.l. & Bunn, S.E. 1997. Diet of the intertidal callianassid shrimps Biffarius arenosus and 
+Trypea australiensis (Decapoda: Thalassinidea) in western Port (southern australia), determined with 
+multiple  stable- isotope analyses. Marine and Freshwater Research 48, 503–511.
+Borman, a., wood, T.R., Black, H.c., anderson, E.g., Oesterling, m.J., womack, m. & Rose, wc. 1946. The 
+role of arginine in growth with some observations on the effects of argininic acid. Journal of Biological 
+Chemistry 166, 585–594.
+Bottrell, S.H. & Newton, R.J. 2006. Reconstruction of changes in global sulfur cycling from marine sulfate 
+isotopes. Earth Science Reviews 75, 59–83.
+Boutton, T.w. 1991. Stable carbon isotope ratios of natural materials: II. atmospheric, terrestrial, marine and 
+freshwater environments. In Carbon Isotope Techniques, D.c. coleman & B. Fry (eds). San Diego, ca: 
+academic Press, 173–186.
+Bowen, g.J. 2010. Isoscapes: spatial pattern in isotopic biogeochemistry. Annual Review of Earth and Planetary 
+Science 38, 161–187.
+Boye, m., wake, B.D., lopez garcia, P., Bown, J., Baker, a.R., achterberg, E.P. 2012. Distributions of dis-
+solved trace metals (cd, cu, mn, Pb ag) in the southeast atlantic and the Southern Ocean. Biogeosciences 
+Discussions 9, 3579–3613.
+Boyle, E.a. 2001. anthropogenic trace elements in the ocean. In Encyclopedia of Ocean Sciences, J.H. Steel & 
+K.K. Turekian (eds). london: academic Press, 162–169.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+358
+Bricker, O.P. & Jones, B.F. 1995. main factors affecting the composition of natural waters. In Trace Elements 
+in Natural Waters, B. Salbu & E. Steinnes (eds). Boca Raton, Fl: cRc Press, 1–20.
+Broecker, w.S. & Peng, T.H. 1974. gas exchange rates between air and sea. Tellus 26, 21–35.
+Broecker, w.S., Peng, T.H., Ostlund, g. & Stuiver, m. 1985. The distribution of bomb radiocarbon in the ocean. 
+Journal of Geophysical Research 90, 6953–6970.
+Brown, m. 1998. Ocean data view 4.0. Oceanography 11, 19–21.
+Brown, R.J. & Severin, K.P. 2009. Otolith chemistry analyses indicate that water Sr:ca is the primary factor 
+inluencing otolith Sr:ca for freshwater and diadromous ish but not for marine ish. Canadian Journal 
+of Fisheries and Aquatic Sciences 66,1790–1808.
+Bruland, K.w. & lohan, m.c. (2004). The control of trace metals in seawater. In Treatise on Geochemistry, 
+H.D. Holland & K.K. Turekian (eds). amsterdam: Elsevier, 23–47.
+Buchheister, a. & latour, R.J. 2009. Turnover and fractionation of carbon and nitrogen stable isotopes in 
+tissues of a migratory coastal predator, summer lounder (Paralichthys dentatus). Canadian Journal of 
+Fisheries and Aquatic Sciences 67, 445–461.
+Budge, S.m., Iverson, S.J., Bowen, w.D. & ackman, R.g. 2002. among- and  within- species variation in fatty 
+acid signatures of marine ish and invertebrates on the Scotian Shelf, georges Bank and southern gulf of 
+St. lawrence. Canadian Journal of Fisheries and Aquatic Sciences 59, 886–898.
+Budge, S.m., Iverson, S.J. & Koopman, H.N. 2006. Studying trophic ecology in marine ecosystems using fatty 
+acids: a primer on analysis and interpretation. Marine Mammal Science 22, 759–801.
+Budge, S.m., Penney, S.N. & lall, S.P. 2012. Estimating diets of atlantic salmon (Salmo trutta) using fatty 
+acid signature analyses; validation with controlled feeding studies. Canadian Journal of Fisheries and 
+Aquatic Sciences 69, 1033–1046.
+Budge, S.m., wooller, m.J., Springer, a.m., Iverson, S.J., mcRoy, c.P. & Divoky, g.J. 2008. Tracing carbon 
+low in an arctic marine food web using fatty  acid- stable isotope analysis. Oecologia 157, 117–229.
+calvert, S.E. 2000. Stable isotope data from sediment traps and net tows in the atlantic and Northeast 
+Paciic Oceans. JgOFS canada Data Sets 1989–1998. vancouver, British columbia, canada: marine 
+Environmental Data Service, Department of Fisheries and Oceans.
+campana, S.E. 1999. chemistry and composition of ish otoliths: pathways, mechanisms and applications. 
+Marine Ecology Progress Series 188, 263–297.
+campana, S.E., chouinard, g.a., Hanson, J.m. & Frechet, a. 1999. mixing and migration of overwintering 
+atlantic cod (Gadus morhua) stocks near the mouth of the gulf of St. lawrence. Canadian Journal of 
+Fisheries and Aquatic Sciences 56, 1873–1881.
+campana, S.E., Natanson, l.J. & myklevoll, S. 2002. Bomb dating and age determination of large pelagic 
+sharks. Canadian Journal of Fisheries and Aquatic Sciences 59, 450–455.
+campana, S.E. & Neilson, J.D. 1985. microstructure of ish otoliths. Canadian Journal of Fisheries and 
+Aquatic Sciences 42, 1014–1032.
+campana, S.E. & Thorrold, S.R. 2001. Otoliths, increments, and elements: keys to a comprehensive under-
+standing of ish populations? Canadian Journal of Fisheries and Aquatic Sciences 58, 30–38.
+capo, R.c., Stewart, B.w. & chadwick, O.a. 1998. Strontium isotopes as tracers of ecosystem processes: 
+theory and methods. Geoderma 82, 197–225.
+carlier, a., Riera, P., amouroux, J.m., Bodiou, J.y., Escoubeyrou, K., Desmalades, m., caparros, J. & gremare, 
+a. 2007. a seasonal survey of the food web in the lapalme lagoon (northwestern mediterranean) assessed 
+by carbon and nitrogen stable isotope analysis. Estuarine, Coastal and Shelf Science 73, 299–315.
+checkley, c.m. & Entzeroth, l.c. 1985. Elemental and isotopic fractionation of carbon and nitrogen by marine, 
+planktonic copepods and implications to the marine nitrogen cycle. Journal of Plankton Research 7, 
+553–568.
+checkley, D.m. & miller, c.a. 1989. Nitrogen isotope fractionation by oceanic zooplankton.  Deep- Sea 
+Research 36, 1449–1456.
+chikaraishi, y., Kashiyama, y., Ogawa, N.O., Kitazato, H. & Ohkouchi, N. 2007. metabolic control of nitrogen 
+isotope composition of amino acids in macroalgae and gastropods: implications for aquatic food web 
+studies. Marine Ecology Progress Series 342, 85–90.
+chikaraishi, y., Ogawa, N.O., Kashiyama, y., Takano, y., Suga, H., Tomitani, a., miyashita, H., Kitazato, H. & 
+Ohkouchi, N. 2009. Determination of aquatic  food- web structure based on  compound- speciic nitrogen 
+isotopic composition of amino acids. Limnology and Oceanography: Methods 7, 740–750.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+359
+chikaraishi, y., Ogawa, N.O. & Ohkouchi, N. 2010. Further evaluation of the trophic level estimation based on 
+nitrogen isotopic composition of amino acids. In Earth, Life, and Isotopes, N. Ohokouchi, I. Tayasu & 
+K. Koba (eds). Kyoto: Kyoto University Press, 37–51.
+cianco, J.E., Pascual, m.a., Botto, g., Frere, E. & Iribarne, O. 2008. Trophic relationships of exotic anad-
+romous salmonids in the southern Patagonian Shelf as inferred from stable isotopes. Limnology and 
+Oceanography 53, 788–798.
+cifuentes, l.a., Sharp, J.H. & Fogel, m.l. 1988. Stable carbon and nitrogen isotope biogeochemistry in the 
+Delaware Estuary. Limnology and Oceanography 33, 1102–1115.
+claybrook, D.l. 1983. Nitrogen metabolism. In The Biology of Crustacea, Vol. 5. Internal Anatomy and 
+Physiological Regulation, l.H. mantel (ed.). New york: academic Press, 163–213.
+cline, J.D. & Kaplan, I.R. 1975. Isotopic fractionation of dissolved nitrate during denitriication in the eastern 
+tropical North Paciic Ocean. Marine Chemistry 3, 271–299.
+cohen, a.l. & Thorrold, S.R. 2007. Recovery of temperature records from  slow- growing corals by ine scale 
+sampling of skeletons. Geophysical Research Letters 34, l17706, doi:10.1029/2007gl030967.
+cooper, l.w., Benner, R., mcclelland, J.w., Peterson, B.J., Holmes, R.m., Raymond, P.a., Hansell, D.a., 
+Brebmeier, J.m. & codispoti, l.a. 2005. linkages among runoff, dissolved organic carbon, and the 
+stable oxygen isotope composition of seawater and other water mass indicators in the arctic Ocean. 
+Journal of Geophysical Research 110, g02013, doi:10.1029/2005Jg000031.
+coplen, T.B., Hopple, J.a., Bohlke, J.K., Peiser, H.S., Rieder, S.E., Krouse, H.R., Rosman, K.J.R., Ding, T., 
+vocke, R.D.J., Revesz, K.m., lamberty, a., Taylor, P. & DeBievre, P. 2002. complication of minimum 
+and maximum isotope ratios of selected elements in naturally occurring terrestrial materials and reagents. 
+United States geological Survey, Reston, virginia.
+corbisier, T., Petti, m.v., Skowronski, R.P. & Brito, T.S. 2004. Trophic relationships in the nearshore zone 
+of martel Inlet (King george Island, antarctic): δ13c  stable- isotope analysis. Polar Biology 27, 75–82.
+Dale, J.J., wallsgrove, N.J., Popp, B.N. & Holland, K.N. 2011. Nursery habitat use and foraging ecology of 
+the brown stingray Dasyatis lata from stomach contents, bulk and amino acid stable isotopes. Marine 
+Ecology Progress Series 433, 221–236.
+Dalerum, F. & angerbjörn, a. 2005. Resolving temporal variation in vertebrate diets using naturally occurring 
+stable isotopes. Oecologia 144, 647–658.
+Dansgaard, w. 1964. Stable isotopes in precipitation. Tellus 16, 436–468.
+Das, K., lepoint, g., yann, l. & Bouquegneau, J.m. 2003. marine mammals from the southern North Sea: 
+feeding ecology from δ13c and δ15N measurements. Marine Ecology Progress Series 263, 287–298.
+Degens, E.T., Behrendt, m., goddhardt, B. & Reppmann, E. 1968. metabolic fractionation of carbon isotopes 
+in marine plankton II. Data on samples collected off the coast of Peru and Ecuador.  Deep- Sea Research 
+15, 11–20.
+Degens, E.T., Deuser, w.g. & Haedrich, R.l. 1969. molecular structure and composition of ish otoliths. 
+Marine Biology 2, 105–113.
+DeNiro, m.J. & Epstein, S. 1978. Inluence of diet on distribution of carbon isotopes in animals. Geochimica 
+et Cosmochimica Acta 42, 495–506.
+DeNiro, m.J. & Epstein, S. 1981. Inluence of diet on the distribution of nitrogen isotopes in animals. 
+Geochimica et Cosmochimica Acta 45, 341–351.
+Devenport, S.R. & Bax, N.J. 2002. a trophic study of a marine ecosystem off southeastern australia using 
+stable isotopes of carbon and nitrogen. Canadian Journal of Fisheries and Aquatic Sciences 59, 514–530.
+de villiers, S. 1999. Seawater strontium and Sr/ca variability in the atlantic and Paciic oceans. Earth and 
+Planetary Science Letters 171, 623–634.
+Dierking, J., morat, F., letourneur, y. & Harmelin- vivien, m. 2012. Fingerprints of lagoonal life: migration of 
+the marine latish Solea solea assessed by stable isotopes and otolith microchemistry. Estuarine, Coastal 
+and Shelf Science 104–105, 23–32.
+Donat, J.R. & Bruland, K.w. 1995. Trace elements in the oceans. In Trace Elements in Natural Waters, B. Salbu 
+& E. Steinnes (eds). Boca Raton, Florida: cRc Press, 247–281.
+Dore, J.E., Brum, J.R., Tupas, l.m. & Karl, D.m. 2002. Seasonal and interannual variability in sources of nitro-
+gen supporting export in the oligotrophic subtropical North Paciic Ocean. Limnology and Oceanography 
+47, 1595–1607.
+Dorval, E. & Jones, c.m. 2005. chemistry of surface waters: distinguishing  ine- scale differences in sea grass 
+habitats of chesapeake Bay. Limnology and Oceanography 50, 1073–1083.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+360
+Dorval, E., Jones, c.m., Hannigan, R. & van montfrans, J. 2007. Relating otolith chemistry to surface water 
+chemistry in a coastal plain estuary. Canadian Journal of Fisheries and Aquatic Sciences 64, 1–14.
+Dosdat, a., Servais, F., metailler, R., Huelvan, c. & Desbruyeres, E. 1996. comparison of nitrogenous losses 
+in ive teleost ish species. Aquaculture 141, 107–127.
+Druffel, E.m. & linick T.w. 1978. Radiocarbon in annual coral rings of Florida. Geophysical Research Letters 
+5, 913–916.
+Druffel, E.m. & williams, P.m. 1990. Identiication of a deep marine source of particulate organic carbon using 
+bomb 14c. Nature 347, 172–174.
+Druffel, E.R.m. 1981. Radiocarbon in annual coral rings from the eastern tropical Paciic Ocean. Geophysical 
+Research Letters 8, 59–62.
+Druffel, E.R.m. 1987. Bomb radiocarbon in the Paciic: annual and seasonal timescale variations. Journal of 
+Marine Research 45, 667–698.
+ Druffel- Rodriguez, K.c., vetter, D., grifin, S., Druffel, E.R.m., Dunbar, R.B., mucciarone, D.a., Ziolkowski, 
+l.a. &  Sanchez- cabeza, J.a. 2012. Radiocarbon and stable isotopes in Palmyra corals during the past 
+century. Geochimica et Cosmochimica Acta 82, 154–162.
+Dugdale, R.c. & goering, J.J. 1967. Uptake of new and regenerated forms of nitrogen in primary productivity. 
+Limnology and Oceanography 12, 196–206.
+Dunton, K.H. 2001. δ15N and δ13c measurements of antarctic peninsula fauna: trophic relationships and assim-
+ilation of benthic seaweeds. American Zoologist 41, 99–112.
+Dunton, K.H., Saupe, S.m., golikov, a.N., Schell, D.m. & Schonberg, S.v. 1989. Trophic relationships and 
+isotopic gradients among arctic and subarctic marine fauna. Marine Ecology Progress Series 56, 89–97.
+Elsdon, T.S., ayvazian, S., mcmahon, K.w. & Thorrold, S.R. 2010. Experimental evaluation of stable isotope 
+fractionation in ish muscle and otoliths. Marine Ecology Progress Series 408, 195–205.
+Elsdon, T.S. & gillanders, B.m. 2002. Interactive effects of temperature and salinity on otolith chemistry: 
+challenges for determining environmental histories of ish. Canadian Journal of Fisheries and Aquatic 
+Sciences 59, 1796–1808.
+Elsdon, T.S. & gillanders, B.m. 2003. Relationship between water and otolith elemental concentrations in 
+juvenile black bream Acanthopagrus butcheri. Marine Ecology Progress Series 260, 263–272.
+Elsdon, T.S. & gillanders, B.m. 2004. Fish otolith chemistry inluenced by exposure to multiple environmental 
+variables. Journal of Experimental Marine Biology and Ecology 313, 269–284.
+Elsdon, T.S. & gillanders, B.m. 2006. Temporal variability of elemental concentrations in coastal and estuarine 
+waters. Estuarine, Coastal and Shelf Science 66, 147–156.
+Elsdon, T.S., wells, B.K., campana, S.E., gillanders, B.m., Jones, c.m., limburg, K.E., Secor, D.H., Thorrold, 
+S.R. & walther, B.D. 2008. Otolith chemistry to describe movements and  life- history parameters of 
+ishes: hypotheses, assumptions, limitations and inferences. Oceanography and Marine Biology: an 
+Annual Review 46, 297–330.
+Estrada, J.a., Rice, a.N., lutcavage, m.E. & Skomal, g.B. 2003. Predicting trophic position in sharks of the 
+ north- west atlantic Ocean using stable isotope analysis. Journal of the Marine Biological Association of 
+the UK 83, 1347–1350.
+Fairbanks, R.g., Evans, m.N., Rubenstone, J.l., mortlock, R.a., Broad, K., moore, m.D. & charles, c.D. 
+1997. Evaluating climate indices and their geochemical proxies measured in corals. Coral Reefs 16, 
+S93–S100.
+Fallon, S.J. & guilderson, T.P. 2008. Surface water processes in the Indonesian throughlow as documented by 
+a  high- resolution coral Δ14c record. Journal of Geophysical Research 113, c09001.
+Fanelli, E., cartes, J.E. & Papiol, v. 2011. Food web structure of  deep- sea macrozooplankton and micronekton 
+off the catalan slope: insight from stable isotopes. Journal of Marine Systems 87, 79–89.
+Fanelli, E., cartes, J.E., Rumolo, P. & Sprovieri, m. 2009.  Food- web structure and trophodynamics of 
+ meopelagic- suprabenthic bathyal macrofauna of the algerian Basin based on stable isotopes of carbon 
+and nitrogen.  Deep- Sea Research I 56, 1504–1520.
+Fantle, m.S., Dittel, a.I., Schwalm, S.m., Epifanio, c.E. & Fogel, m.l. 1999. a food web analysis of the juve-
+nile blue crab, Callinectes sapidus, using stable isotopes in whole animals and individual amino acids. 
+Oecologia 120, 416–426.
+Farquhar, g.D., Ehleringer, J.R. & Hubick, K.T. 1989. carbon isotope discrimination and photosynthesis. 
+Annual Review of Plant Physiology and Plant Molecular Biology 40, 503–537.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+361
+Florin, S.T., Felicetti, l.a. & Robbins, c.T. 2011. The biological basis for understanding and predicting 
+ dietary- induced variations in nitrogen and sulphur isotope ratio discrimination. Functional Ecology 25, 
+519–526.
+Fogel, m.l. & cifuentes, l.a. 1993. Isotopic fractionation during primary production. In Organic Geochemistry, 
+m.H. Engel & S.a. macko (eds). New york: Plenum Press, 73–98.
+Fogel, m.l., grifin, P. & Newsome, S.D. 2010. Hydrogen isotopes in amino acids trace food and water. 
+Presented at the 7th International conference on applications of Stable Isotope Techniques to Ecological 
+Studies, august 2010, Fairbanks, alaska.
+Fontugne, m. & Duplessy, J.c. 1978. carbon isotope ratio of marine plankton related to surface water masses. 
+Earth and Planetary Science Letters 41, 365–371.
+Forest, a., galindo, v., Darnis, g., lalande, c., Pineault, S., Tremblay, J.E. & Fortier, l. 2011. carbon biomass, 
+elemental ratios (c:N) and stable isotopic composition (δ13c, δ15N) of dominant calanoid copepods dur-
+ing the  winter- to- summer transition in the amundsen gulf (arctic Ocean). Journal of Plankton Research 
+33, 161–178.
+France, R., loret, J., mathews, R. & Springer, J. 1998. longitudinal variation in zooplankton δ13c through the 
+Northwest Passage: inference for incorporation of  sea- ice POm into pelagic foodwebs. Polar Biology 
+20, 335–341.
+France, R.l. 1995. carbon-13 enrichment in benthic compared to planktonic algae: foodweb implications. 
+Marine Ecology Progress Series 124, 307–312.
+Frederich, B., Fabri, g., lepoint, g., vandewalle, P. & Parmentier, E. 2009. Trophic niches of thirteen damsel-
+ishes (Pomacentridae) at the grand Recif of Toliara, madagascar. Ichthyological Research 56, 10–17.
+Friedman, I. 1953. Deuterium content of natural waters and other substances. Geochimica et Cosmochimica 
+Acta 4, 89–103.
+Fry, B. 1981. Natural stable carbon isotope tag traces Texas shrimp migrations. Fisheries Bulletin 79, 337–345.
+Fry, B. 1988. Food web structure on georges Bank from stable c, N, and S isotopic compositions. Limnology 
+and Oceanography 33, 1182–1190.
+Fry, B. 2002. conservative mixing of stable isotopes across estuarine salinity gradients: a conceptual frame-
+work for monitoring watershed inluences on downstream isheries production. Estuaries 25, 264–271.
+Fry, B. & Quinones, R.B. 1994. Biomass spectra and stable isotope indicators of trophic level in zooplankton 
+of the northwest atlantic. Marine Ecology Progress Series 112, 201–204.
+Fry, B., Scalan, R.S. & Parker, P.l. 1983. 13c/12c ratios in marine food webs of the Torres Strait, Queensland. 
+Australian Journal of Marine and Freshwater Research 34, 707–715.
+Fry, B., Scalan, R.S., winters, J.K. & Parker, P.l. 1982. Sulphur uptake by salt grasses, mangroves and sea-
+grasses in anaerobic sediments. Geochimica et Cosmochimica Acta 46, 1121–1124.
+Fry, B. & wainright, S.c. 1991. Diatom sources of 13 c- rich carbon in marine food webs. Marine Ecology 
+Progress Series 76, 149–157.
+gaebler, O.H., vitti, T.g. & vukmirovich, R. 1966. Isotope effects on metabolism of 14N and 15N from unla-
+beled dietary proteins. Canadian Journal of Biochemistry 44, 1249–1257.
+gaillardet, J., viers, J. & Dupré, B. 2003. Trace elements in river waters. In Treatise on Geochemistry, 
+D.H. Heinrich & K.T. Karl (eds). Oxford, UK: Pergamon, 225–272.
+galimov, E.m., Kodina, l.a., Stepanets, O.v. & Korobeinik, g.S. 2006. composition of phytoplankton and 
+carbon isotopic composition of plankton and dissolved bicarbonate ions from the subsurface water 
+layer along the yenisei River– Kara Sea meridional proile (70–77° N). Geochemistry International 44, 
+1053–1104.
+gannes, l.Z., martínez del Rio, c. & Koch, P. 1998. Natural abundance variations in stable isotopes and 
+their potential uses in animal physiological ecology. Comparative Biochemistry and Physiology 119A, 
+725–737.
+gannes, l.Z., O’Brien, D.m. & martínez del Rio, c. 1997. Stable isotopes in animal ecology: assumptions, 
+caveats, and a call for more laboratory experiments. Ecology 78, 1271–1276.
+ganssen, g. & Kroon, D. 1991. Evidence for Red Sea surface circulation from oxygen isotopes of modern 
+surface waters and planktonic foraminiferal tests. Paleoceanography 6, 73–82.
+gat, J.R. 1996. Oxygen and hydrogen isotopes in the hydrologic cycle. Annual Review of Earth and Planetary 
+Science 24, 225–262.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+362
+ gaye- Siessegger, J., mccullagh, J.S.O. & Focken, U. 2011. The effect of dietary amino acid abundance and 
+isotopic composition on the growth rate, metabolism and tissue δ13c of rainbow trout. British Journal of 
+Nutrition 105, 1764–1771.
+gearing, J.N., Hearing, P.J., Rudnick, D.T., Requejo, a.g. & Hutchins, m.J. 1984. Isotopic variability of organic 
+carbon in a  phytoplankton- based, temperate estuary. Geochimica et Cosmochimica Acta 48, 1089–1098.
+goericke, R. & Fry, B. 1994. variations of marine plankton d13c with latitude, temperature, and dissolved cO2 
+in the world Ocean. Global Biogeochemical Cycles 8, 85–90.
+goering, J., alexander, v. & Haubenstock, N. 1990. Seasonal variability of stable carbon and nitrogen isotope 
+ratios of organisms in a North Paciic bay. Estuarine, Coastal and Shelf Science 30, 239–260.
+goni, m.a., monacci, N., gisewhite, R., Ogston, a., crockett, J. & Nittrouer, c. 2006. Distribution and sources 
+of particular organic matter in the water column and sediments of the Fly River Delta, gulf of Papua 
+(Papua New guinea). Estuarine, Coastal and Shelf Science 69, 225–245.
+graham, B.S., Koch, P.l., Newsome, S.D., mcmahon, K.w. & aurioles, D. 2010. Using isoscapes to trace the 
+movements and foraging behavior of top predators in oceanic ecosystems. In Isoscapes: Understanding 
+Movement, Pattern and Process on Earth Through Isotope Mapping, J. west et al. (eds). New york: 
+ Springer- verlag, 299–318.
+grifin, m.P.a. & valiela, I. 2001. δ15N isotope studies of life history and trophic position of Fundulus hetero-
+clitus and Menidia menidia. Marine Ecology Progress Series 214, 299–305.
+gruber, N., Keeling, c.D., Bacastow, R.B., guenther, P.R., lueker, T.J., wahlen, m., meijer, H.a.J., mook, 
+w.g. & Stocker, T.F. 1999. Spatiotemporal patterns of carbon-13 in the global surface oceans and the 
+oceanic suess effect. Global Biogeochemical Cycles 13, 307–335.
+grumet, N.S., abram, N.J., Beck, J.w., Dunbar, R.B., gagan, m.K., guilderson, T.P., Hantoro, w.S. & 
+Suwargadi, B.w. 2004. coral radiocarbon records of Indian Ocean water mass mixing and  wind- induced 
+upwelling along the coast of Sumatra, Indonesia. Journal of Geophysical Research 109, c05003.
+Hagelstein, P., Sieve, B., Klein, m., Jans, H. & Schultz, g. 1997. leucine synthesis in chloroplasts: leucine/
+isoleucine aminotransferase and valine aminotransferase are different enzymes in spinach chloroplasts. 
+Journal of Plant Physiology 150, 23–30.
+Hale, l.F., Dudgeon, J.v., mason, a.Z. & lowe, c.g. 2006. Elemental signatures in the vertebral cartilage of 
+the round stingray, Urobatis halleri, from Seal Beach, california. Environmental Biology of Fishes 77, 
+317–325.
+Hammer, B.T., Fogel, m.l. & Hoering, T.c. 1998. Stable carbon isotope ratios of fatty acids in seagrass and 
+redhead ducks. Chemical Geology 152, 29–41.
+Hannides, c.c.S., Popp, B.N., landry, m.R. & graham, B.S. 2009. Quantiication of zooplankton trophic posi-
+tion in the North Paciic Subtropical gyre using stable nitrogen isotopes. Limnology and Oceanography 
+54, 50–61.
+Hansson, S., Hobbie, J.E., Elmgren, R., larsson, U., Fry, B. & Johansson, S. 1997. The stable nitrogen isotope 
+ratio as a marker of  food- web interactions and ish migration. Ecology 78, 2249–2257.
+Hare, P.E., Fogel, m.l., Stafford, T.w., mitchell, a.D. & Hoering, T.c. 1991. The isotopic composition of 
+carbon and nitrogen in individual amino acids isolated from modern and fossil proteins. Journal of 
+Archaeological Science 18, 277–292.
+ Harmelin- vivien, m., loizeau, v., mellon, c., Beker, B., arlhac, D., Bodiguel, X., Ferraton, F., Hermand, R., 
+Philippon, X. &  Salen- Picard, c. 2008. comparison of c and N stable isotope ratios between surface par-
+ticulate organic matter and microphytoplankton in the gulf of lions (Nw mediterranean). Continental 
+Shelf Research 28, 1911–1919.
+Heaton, T.H.E. 1986. Isotopic studies of nitrogen pollution in the hydrosphere and atmosphere: a review. 
+Chemical Geology 59, 87–102.
+Herzka, S.Z. 2005. assessing connectivity of estuarine ishes based on stable isotope ratio analysis. Estuarine, 
+Coastal and Shelf Science 64, 58–69.
+Hicks, a.S., closs, g.P. & Swearer, S.E. 2010. Otolith microchemistry of two amphidromous galaxiids across 
+an experimental salinity gradient: a  multi- element approach for tracking diadromous migrations. Journal 
+of Experimental Marine Biology and Ecology 394, 86–97.
+Hill, J.m. & mcQuaid, c.D. 2011. Stable isotope methods: the effect of gut contents on isotopic ratios of zoo-
+plankton. Estuarine, Coastal and Shelf Science 92, 480–485.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+363
+Hinga, K.R., arthur, m.a., Pilson, m.E. & whitaker, D. 1994. carbon isotope fractionation by marine phyto-
+plankton in culture: the effects of cO2 concentration, pH, temperature and species. Global Biogeochemical 
+Cycles 8, 91–102.
+Hirch, S. 2009. Trophic interactions at seamounts. PhD thesis, Departments Biologie der Fakultät für 
+mathematik, Informatik & Naturwissenschaften der Universität Hamburg, University of Hamburg, 
+germany.
+Hobson, K.a. 1999. Tracing origins and migration of wildlife using stable isotopes: a review. Oecologia 120, 
+314–326.
+Hobson, K.a., ambrose, w.g. & Renaud, P.E. 1995. Sources of primary production,  benthic- pelagic coupling, 
+and trophic relationships within the Northeast water Polynya: insights from δ13c and δ15N analysis. 
+Marine Ecology Progress Series 128, 1–10.
+Hobson, K.a.,  Barnett- Johnson, R. & cerling, T. 2010. Using isoscapes to track animal migration. In Isoscapes: 
+Understanding Movement, Pattern and Process on Earth Through Isotope Mapping, J. west et al. (eds). 
+New york:  Springer- verlag, 273–298.
+Hobson, K.a., Fisk, a., Karnovsky, N., Holst, m., gagnon, J.m. & Fortier, m. 2002. a stable isotope (δ13c, 
+δ15N) model for the North water food web: implications for evaluating trophodynamics and the low of 
+energy and contaminants.  Deep- Sea Research II 49, 5131–5150.
+Hobson, K.a. & montevecchi, w.a. 1991. Stable isotopic determination of the trophic relationships of great 
+auks. Oecologia 87, 528–531.
+Hobson, K.a., Piatt, J.F. & Pitocchelli, J. 1994. Using stable isotopes to determine seabird trophic relation-
+ships. Journal of Animal Ecology 63, 786–798.
+Hoch, m.P., Fogel, m.l. & Kirchman, D.l. 1992. Isotope fractionation associated with ammonium uptake by 
+a marine bacterium. Limnology and Oceanography 37, 1447–1459.
+Hoekstra, P.F., Dehn, l.a., george, J.c., Solomon, K.R., muir, D.c.g. & O’Hara, T.m. 2002. Trophic ecology 
+of bowhead whales (Balaena mysticetus) compared with that of other arctic marine biota as interpreted 
+from carbon-, nitrogen, and  sulfur- isotope signatures. Canadian Journal of Zoology 80, 223–231.
+Hoekstra, P.F., O’Hara, T.m., Fisk, a.T., Borga, K., Solomon, K.R. & muir, D.c.g. 2003. Trophic transfer 
+of persistent organochlorine contaminants (Ocs) within an arctic marine food web from the southern 
+ Beaufort- chukchi Seas. Environmental Pollution 124, 509–522.
+Hoering, T.c. & Ford, H.T. 1960. The isotope effect in the ixation of nitrogen by Azotobacter. Journal of the 
+American Chemical Society 82, 376–378.
+Hofmann, m.,  wolf- gladrow, D.a., Takahashi, T., Sutherland, S.c., Six, K.D. &  maier- Reimer, E. 2000. Stable 
+carbon isotope distribution of particulate organic matter in the ocean: a model study. Marine Chemistry 
+72, 131–150.
+Holl, c.m., villareal, T.a., Payyne, c.D., clayton, T.D., Hart, c. & montoya, J.P. 2007. Trichodesmium in the 
+western gulf of mexico: 15N2-ixation and natural abundance stable isotope evidence. Limnology and 
+Oceanography 52, 2249–2259.
+Horita, J. 1999. abiogenic methane formation and isotopic fractionation under hydrothermal conditions. 
+Science 285, 1055–1057.
+Horita, J. & wesolowski, D.J. 1994.  liquid- vapor fraction of oxygen and hydrogen isotopes of water from the 
+freezing to the critical temperature. Geochimica et Cosmochimica Acta 58, 3425–3437.
+Howland, m.R., corr, l.T., young, S.m.m., Jones, v., Jim, S., van der merwe, N.J., mitchell, a.D. & Evershed, 
+R.P. 2003. Expression of the dietary isotope signal in the  compound- speciic δ13c values of pig bone 
+lipids and amino acids. International Journal of Osteoarchaeology 13, 54–65.
+Hübner, H. 1986. Isotope effects of nitrogen in the soil and biosphere. Handbook of Environmental Isotope 
+Geochemistry 2, 361–425.
+Hudson, a.O., Bless, c., macedo, P., chatterjee, S.P., Singh, B.K., gilvarg, c. & leustek, T. 2005. Biosynthesis 
+of lysine in plants: evidence for a variant of the known bacterial pathways. Biochimica et Biophysica Acta 
+1721, 27–36.
+Huh, y., chan, l.-H., Zhang, l. & Edmond, J.m. 1998. lithium and its isotopes in major world rivers: implica-
+tions for weathering and the oceanic budget. Geochimica et Cosmochimica Acta 62, 2039–2051.
+Hüssy, N.E., macNeil, m.a. & Fisk, a.T. 2010. The requirement for accurate  diet- tissue discrimination factors 
+for interpreting stable isotopes in sharks. Hydrobiologia 654, 1–5.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+364
+Hüssy, K., mosegaard, H. & Jessen, F. 2004. Effect of age and temperature on amino acid composition and the 
+content of different protein types of juvenile atlantic cod (Gadus morhua) otoliths. Canadian Journal of 
+Fisheries and Aquatic Sciences 61, 1012–1020.
+Iken, K., Bluhm, B.a. & gradinger, R. 2005. Food web structure in the high arctic canada Basin: evidence 
+from δ13c and δ15N analysis. Polar Biology 28, 238–249.
+Iverson, S.J., Field, c., Don Bowen, w. & Blanchard, w. 2004. Quantitative fatty acid signature analysis: a new 
+method of estimating predator diets. Ecological Monographs 74, 211–235.
+Iverson, S.J., Frost, K.J. & lowry, l.l. 1997. Fatty acid signatures reveal ine scale structure of foraging distri-
+bution of harbor seals and their prey in Prince william Sound, alaska. Marine Ecology Progress Series 
+151, 255–271.
+Jain, a.K., Kheshgi, H.S., Hoffert, m.I. & wuebbles, D.J. 1995. Distribution of radiocarbon as a test of global 
+carbon cycle models. Global Biogeochemical Cycles 9, 153–166.
+Jennings, S. & warr, K.J. 2003. Environmental correlates of  large- scale spatial variation in the δ15N of marine 
+animals. Marine Biology 142, 1131–1140.
+Jim, S., ambrose, S.H. & Evershed, R.P. 2004. Stable carbon isotopic evidence for differences in the dietary 
+origin of bone cholesterol, collagen and apatite: implications for their use in palaeodietary reconstruc-
+tion. Geochimica et Cosmochimica Acta 68, 61–72.
+Jim, S., Jones, v., ambrose, S.H. & Evershed, R.P. 2006. Quantifying dietary macronutrient sources of carbon 
+for bone collagen biosynthesis using natural abundance stable carbon isotope analysis. British Journal 
+of Nutrition 95, 1055–1062.
+Kaehler, S., Pakhomov, E.a. & mcQuaid, c.D. 2000. Trophic structure of the marine food web at the Prince 
+Edward Islands (Southern Ocean) determined by δ13c and δ15N analysis. Marine Ecology Progress 
+Series 208, 13–20.
+Kalansky, J.F., Robinson, R.S. & Popp, B.N. 2011. Insights into nitrogen cycling in the western gulf of 
+california from nitrogen isotopic composition of  diatom- bound organic matter. Geochemistry Geophysics 
+Geosystems 12, Q06015, doi:10.1029/2010gc003437.
+Kalish, J.m. 1991a. Oxygen and carbon stable isotopes in the otoliths of wild and  laboratory- reared australian 
+salmon (Arripis trutta). Marine Biology 110, 37–47.
+Kalish, J.m. 1991b. Determinants of otolith chemistry: seasonal variation in the composition of blood plasma, 
+endolymph and otoliths of bearded rock cod Pseudophycis barbatus. Marine Ecology Progress Series 
+74, 137–159.
+Kalish, J.m. 1993. Pre- and  post- bomb radiocarbon in ish otoliths. Earth and Planetary Science Letters 114, 
+549–554.
+Kang, c.K., Kim, J.B., lee, K.S., Kim, J.B., lee, P.y. & Hong, J.S. 2003. Trophic importance of benthic micro-
+algae to macrozoobenthos in coastal bay systems in Korea: dual stable c and N isotope analyses. Marine 
+Ecology Progress Series 259, 79–92.
+Karasov, w.H. & carey, H.v. 2008. metabolic teamwork between gut microbes and hosts. Microbe 4, 323–328.
+Karasov, w.H. & martínez del Rio, c. 2007. Physiological Ecology. Princeton, NJ: Princeton University Press.
+Kastner, m. 1999. Oceanic minerals: their origin, nature of their environment, and signiicance. Proceedings of 
+the National Academy of Sciences USA 96, 3380–3387.
+Keeling, c.D. & guenther, P. 1994. Shore based carbon analysis: duplicate carbon measurements made by the 
+carbon Dioxide Research group during the 1983–1988 cruises, Scripps Institution of Oceanography, 
+University of california, San Diego. Online. http://cdiac.esd.ornl.gov/ftp/oceans/ keeling.data/. carbon 
+Dioxide Information analysis center, Oak Ridge National laboratory, U.S. Department of Energy, Oak 
+Ridge, Tennessee. doi:10.3334/cDIac/otg.KEElINg_DaTa.
+Keeling, c.D., Piper, S.c., Bacastow, R.B., wahlen, m., whorf, T.P., Heimann, m. & meijer, H.a. 
+2005. atmospheric cO2 and 13cO2 exchange with the terrestrial biosphere and oceans from 1978 to 
+2000: observations and carbon cycle implications. In A History of Atmospheric CO2 and Its Effects 
+on Plants, Animals, and Ecosystems, J.R. Ehleringer, T.E. cerling & m.D. Dearing (eds). New york: 
+ Springer- verlag, 83–113.
+Keil, R.g. & Fogel, m.l. 2001. Reworking of amino acid in marine sediments: stable carbon isotopic composi-
+tion of amino acids in sediments along the washington coast. Limnology and Oceanography 46, 14–23.
+Kelly, J.F. 2000. Stable isotopes of carbon and nitrogen in the study of avian and mammalian trophic ecology. 
+Canadian Journal of Zoology 78, 1–27.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+365
+Kelly, J.F., Bridge, B.S., Fudickar, a.m. & wassenaar, l.I. 2009. a test of comparative equilibration for 
+determining  non- exchangeable stable hydrogen isotope values in complex organic materials. Rapid 
+Communications in Mass Spectrometry 23, 2316–2320.
+Kendall, c. & coplen, T.B. 2001. Distribution of oxygen-18 and deuterium in river waters across the United 
+States. Hydrological Processes 15, 1363–1393.
+Key, R.m., Kozyr, a., Sabine, c.l., lee, K., wanninkhof, R., Bullister, J.l., Freely, R.a., millero, F.J., mordy, 
+c. & Peng, T.-H. 2004. a global ocean carbon climatology: results from global Data analysis Project 
+(glODaP). Global Biogeochemical Cycles, 18, gB4031.
+Kilbourne, K.H., Quinn, T.m., guilderson, T.P., webb, R.S. & Taylor, F.w. 2007. Decadal to  interannual- scale 
+source water variations in the caribbean Sea recorded by Puerto Rican coral radiocarbon. Climate 
+Dynamics 29, 51–62.
+Kiriakoulakis, K., Fisher, E., wolff, g.a., Freiwald, a., grehan, a. & Roberts, J.m. 2005. lipids and nitro-
+gen isotopes of two  deep- water corals from the  North- East atlantic: initial results and implications 
+for their nutrition. In  Cold- Water Corals and Ecosystems, a. Freiwald & J.m. Roberts (eds). Berlin: 
+ Springer- verlag, 715–729.
+Kohler, S.a., connan, m., Hill, J.m., mablouke, c., Bonnevie, B., ludynia, K., Kemper, J., Huisamen, J., 
+Underhill, l.g., cherel, y., mcQuaid, c.D. & Jaquemet, S. 2011. geographic variation in the trophic 
+ecology of an avian rocky shore predator, the african black oystercatcher, along the southern african 
+coastline. Marine Ecology Progress Series 435, 235–249.
+Kolasinski, J., Rogers, K., cuet, P., Barry, B. & Prouin, P. 2011. Sources of particulate organic matter at 
+the ecosystem scale: a stable isotope and trace element study in a tropical coral reef. Marine Ecology 
+Progress Series 443, 77–93.
+Kolodny, y., luz, B. & Navon, O. 1983. Oxygen isotope variations in phosphate of biogenic apatites, I. Fish 
+bone  apatite- rechecking the rules of the game. Earth and Planetary Science Letters 64, 398–404.
+Koppelmann, R. & weikert, H. 2000. Transfer of organic matter in the deep arabian Sea zooplankton com-
+munity: insights from δ15N analysis.  Deep- Sea Research II 47, 2653–2672.
+ Krause- Nehring, J., Brey, T. & Thorrold, S.R. 2012. centennial records of lead contamination in northern 
+atlantic bivalves (Arctica islandica). Marine Pollution Bulletin 64, 233–240.
+Krichevsky, m.I., Friedman, I., Newell, m.F. & Sisler, F.D. 1961. Deuterium fractionation during molecular 
+hydrogen formation in a marine pseudomonad. Journal of Biological Chemistry 236, 2520–2525.
+Kroopnick, P.m. 1985. The distribution of 13c of ΣcO2 in the world oceans.  Deep- Sea Research 32, 57–84.
+Krouse, H.R. & grinenko, v.a. 1991. Stable Isotopes: Natural and Anthropogenic Sulphur in the Environment. 
+New york: wiley.
+Krouse, H.R., viau, c.a., Eliuk, l.S., Ueda, a. & Halas, S. 1988. chemical and isotopic evidence of thermo-
+chemical sulfate reduction by light hydrocarbon gases in deep carbonate reservoirs. Nature 333, 415–419.
+Krummen, m., Hilkert, a.w., Juchelka, D., Duhr, a., Schluter, H.J. & Pesch, R. 2004. a new concept for 
+isotope ratio monitoring liquid chromatography/mass spectrometry. Rapid Communications in Mass 
+Spectrometry 18, 2260–2266.
+Kung, l. & Rode, l.m. 1996. amino acid metabolism in ruminants. Animal Feed Science and Technology 59, 
+167–172.
+Kurten, B., Painting, S.J., Struck, U., Polunin, N.v.c. & middelburg, J.J. 2011. Tracking seasonal changes in 
+North Sea zooplankton dynamics using stable isotopes. Biogeochemistry doi:10.1007/s10533-011-9630-y.
+laakmann, S. & auel, H. 2010. longitudinal and vertical trends in stable isotope signatures (δ13c and δ15N) of 
+omnivorous and carnivorous copepods across the South atlantic Ocean. Marine Biology 157, 463–471.
+lamb, K. & Swart, P.K. 2008. The carbon and nitrogen isotopic values of particulate organic material from the 
+Florida Keys: a temporal and spatial study. Coral Reefs 27, 351–362.
+landing, w.m. & Bruland, K.w. 1987. The contrasting biogeochemistry of iron and manganese in the Paciic 
+Ocean. Geochimica et Cosmochimica Acta 51, 29–43.
+larsen, T., Taylor, D.l., leigh, m.B. & O’Brien, D.m. 2009. Stable isotope ingerprinting: a novel method for 
+identifying plant, fungal, or bacterial origins of amino acids. Ecology 90, 3526–3535.
+laws, E.a., Popp, B.N., Bidigare, R.R., Kennicutt, m.c. & macko, S.a. 1995. Dependence of phytoplank-
+ton carbon isotopic composition on growth rate and [cO2]aq: theoretical and experimental results. 
+Geochemica et Cosmochimica Acta 59, 1131–1138.
+lea, D.w., Shen, g.T. & Boyle, E.a. 1989. coralline barium records temporal variability in equatorial Paciic 
+upwelling. Nature 340, 373–376.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+366
+lehninger, a.H. 1975. Biochemistry. New york: worth, 2nd edition.
+le loc’h, F. & Hily, c. 2005. Stable carbon and nitrogen isotope analysis of Nephrops norvegicus/Merluccius 
+merluccius ishing grounds in the Bay of Biscay (Northeast atlantic). Canadian Journal of Fisheries and 
+Aquatic Sciences 62, 123–132.
+le loc’h, F., Hily, c. & grall, J. 2008. Benthic community and food web structure on the continental shelf of 
+the Bay of Biscay (north eastern atlantic) revealed by stable isotope analysis. Journal of Marine Systems 
+72, 17–34.
+lesage, v., Hammill, m.O. & Kovacs, K.m. 2001.  Diet- tissue fractionation of stable carbon and nitrogen iso-
+topes in phocid seals. Marine Mammal Science 18, 182–193.
+levin, I. & Hesshaimer,v. 2000. Radiocarbon—a unique tracer of global carbon cycle dynamics. Radiocarbon 
+42, 69–80.
+libes, S.m. & Deuser, w.g. 1988. The isotope geochemistry of particulate nitrogen in the Peru Upwelling area 
+and gulf of maine.  Deep- Sea Research 35, 517–533.
+limburg, K.E. 1995. Otolith strontium traces environmental history of subyearling american shad Alosa sapi-
+dissima. Marine Ecology Progress Series 119, 25–35.
+limburg, K.E., Olson, c., walther, y., Dale, D., Slomp, c.P. & Hoie, H. 2011. Tracking Baltic hypoxia and 
+cod migration over millennia with natural tags. Proceedings of the National Academy of Sciences USA 
+108, E177–E182.
+linick, T.w. 1978. la Jolla measurements of radiocarbon in the oceans. Radiocarbon 20, 333–359.
+logan, J.m., Haas, H., Deegan, l. & gaines, E. 2006. Turnover rates of nitrogen stable isotopes in the salt 
+marsh mummichog, Fundulus heteroclitus, following a laboratory diet switch. Oecologia 147, 391–395.
+logan, J.m., Jardine, T.D., miller, T.J., Bunn, S.E., cunjak, R.a. & lutcavage, m.E. 2008. lipid corrections in 
+carbon and nitrogen stable isotope analysis: comparison of chemical extraction and modeling methods. 
+Journal of Animal Ecology 77, 838–846.
+logan, J.m. & lutcavage, m.E. 2010. Stable isotope dynamics in elasmobranch ishes. Hydrobiologia 644, 
+231–244.
+lorrain, a., graham, B., menard, F., Popp, B., Bouillon, S., van Breugel, P. & cherel, y. 2009. Nitrogen and 
+carbon isotope values of individual amino acids: a tool to study foraging ecology of penguins in the 
+Southern Ocean. Marine Ecology Progress Series 391, 293–306.
+lourey, m.J., Trull, T.w. & Sigman, D.m. 2003. Sensitivity of δ15N of nitrate, surface suspended and deep 
+sinking particulate nitrogen to seasonal nitrate depletion in the Southern Ocean. Global Biogeochemical 
+Cycles 17, g1081, doi:10.1029/2002gB001973.
+ lynch- Stieglitz, J., Stocker, T.F., Broecker, w.S. & Fairbanks, R.g. 1995. The inluence of  air- sea exchange on 
+the isotopic composition of oceanic carbon: observations and modeling. Global Biogeochemical Cycles 
+9, 653–665.
+lysiak, N.S. 2009. Investigating the migration and foraging ecology of North Atlantic right whales with stable 
+isotope geochemistry of baleen and zooplankton. PhD thesis, Biology Department, Boston University.
+mackensen, a. 2001. Oxygen and carbon stable isotope tracers of weddell Sea water masses: new data and 
+some paleoceanographic implications.  Deep- Sea Research I 48, 1401–1422.
+mackensen, a., Hubberten, H.-w., Bickert, T., Fischer, g. & Fütterer D.K. 1993. The δ13c in benthic forami-
+niferal tests of Fontbotia wuellerstori (Schwager) relative to the δ13c of dissolved inorganic carbon in 
+Southern Ocean Deep water: implications for glacial ocean circulation models. Paleoceanography 8, 
+587–610.
+mackensen, a., Hubberten, H.-w., Scheele, N. & Schlitzer, R. 1996. Decoupling of δ13cΣcO2 and phosphate in 
+recent weddell Sea deep and bottom water: implications for glacial Southern Ocean paleoceanography. 
+Paleoceanography 11, 203–215.
+macko, S.a., Entzeroth, l. & Parker, P.l. 1984. Regional differences in nitrogen and carbon isotopes on the 
+continental shelf of the gulf of mexico. Naturwissenschaften 71, 374–375.
+macko, S.a., Estep, m.l.F., Engel, m.H. & Hare, P.E. 1986. Kinetic fractionation of stable nitrogen isotopes 
+during amino acid transamination. Geochimica et Cosmochimica Acta 50, 2143–2146.
+macko, S.a., Estep, m.l.F., Hare, P.E. & Hoering, T.c. 1987. Isotopic fractionation of nitrogen and carbon in 
+the synthesis of amino acids by microorganisms. Chemical Geology 65, 79–92.
+macko, S.a., Estep, m.l.F. & lee, w.y. 1983. Stable hydrogen isotope analysis of food webs on laboratory 
+and ield populations of marine amphipods. Journal of Experimental Marine Biology and Ecology 72, 
+243–249.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+367
+mahaffey, c., williams, R.g. & wolff, g.a. 2004. Physical supply of nitrogen to phytoplankton in the atlantic 
+Ocean. Global Biogeochemical Cycles 18, gB1034 doi:10.1029/2003gB002129.
+ malpica- cruz, l., Herzka, S.Z.,  Sosa- Nishizaki, O. & Pablo laso, J. 2011.  Tissue- speciic isotope trophic 
+discrimination factors and turnover rates in a marine elasmobranch: empirical and modeling results. 
+Canadian Journal of Fisheries and Aquatic Sciences 69, 551–564.
+martin, g.B. & Thorrold, S.R. 2005. Temperature and salinity effect on magnesium, manganese, and bar-
+ium incorporation in otoliths of larval and early juvenile spot Leiostomus xanthurus. Marine Ecology 
+Progress Series 293, 223–232.
+matsura, y. & wada, E. 1994. carbon and nitrogen isotope ratios in marine organic matters of the coastal eco-
+system in Ubatuba, southern Brazil. Ciencia e Cultura 46, 141–146.
+mcclelland, J.w., Holl, c.m. & montoya J.P. 2003. Relating low δ15N values of zooplankton to N2-ixation in 
+the tropical North atlantic: insights provided by stable isotope ratios of amino acids.  Deep- Sea Research I 
+50, 849–861.
+mcclelland, J.w. & montoya, J.P. 2002. Trophic relationships and the nitrogen isotopic composition of amino 
+acids in plankton. Ecology 83, 2173–2180.
+mcclelland, J.w., valiela, I. & michener, R.H. 1997. Nitrogen stable isotope signatures in estuarine food webs: 
+a record of increasing urbanization in coastal watersheds. Limnology and Oceanography 42, 930–937.
+mcconnaughey, T. 1989a. 13c and 18O isotopic disequilibrium in biological carbonates: I. patterns. Geochimica 
+et Cosmochimica Acta 53, 151–162.
+mcconnaughey, T. 1989b. 13c and 18O isotopic disequilibrium in biological carbonates: II. in vitro simulation 
+of kinetic isotope effects. Geochimica et Cosmochimica Acta 53, 163–171.
+mccullagh, J.S.O., Juchelka, D. & Hedges, R.E.m. 2006. analysis of amino acid 13c abundance from 
+human and faunal bone collagen using liquid chromatography/isotope ratio mass spectrometry. Rapid 
+Communications in Mass Spectrometry 20, 2761–2768.
+mccutchan, J.H., Jr., lewis, w.m., Jr., Kendall, c. & mcgrath, c.c. 2003. variation in trophic shift for stable 
+isotope ratios of carbon, nitrogen, and sulfur. Oikos 102, 378–390.
+mcleod, R.J. & wing, S.R. 2007. Hagish in the New Zealand fjords are supported by chemoautotrophy of 
+forest carbon. Ecology 88, 809–816.
+mcmahon, K.w., ambrose, w.g., Jr., Johnson, B.J., Sun, m.y., lopez, g.R., clough, l.m. & carroll, m.l. 
+2006. Benthic community response to ice algae and phytoplankton in Ny alesund, Svalbard. Marine 
+Ecology Progress Series 310, 1–14.
+mcmahon, K.w., Berumen, m.l., mateo, I., Elsdon, T.S. & Thorrold, S.R. 2011a. carbon isotopes in otolith 
+amino acids identify residency of juvenile snapper (Family: lutjanidae) in coastal nurseries. Coral Reefs 
+30, 1135–1145.
+mcmahon, K.w., Berumen, m.l. & Thorrold, S.R. 2012. linking habitat mosaics and connectivity in a coral 
+reef seascape. Proceedings of the National Academy of Sciences USA 109, 15372–15376.
+mcmahon, K.w., Fogel, m.l., Elsdon, T. & Thorrold, S.R. 2010. carbon isotope fractionation of amino acids 
+in ish muscle relects biosynthesis and isotopic routing from dietary protein. Journal of Animal Ecology 
+79, 1132–1141.
+mcmahon, K.w., Fogel, m.l., Johnson, B.J., Houghton, l.a. & Thorrold, S.R. 2011b. a new method to recon-
+struct ish diet and movement patterns from δ13c values in otolith amino acids. Canadian Journal of 
+Fisheries and Aquatic Sciences 68, 1330–1340.
+mcmahon, K.w., Hamady, l.l., Thorrold, S.R. 2013. a review of ecogeochemistry approaches to estimating 
+movements of marine animals. Limnology and Oceanography 58, 697–714.
+ meier- augenstein, w. 1999. applied gas chromatography coupled to isotope ratio mass spectrometry. Journal 
+of Chromatography 842, 351–371.
+melancon, S., Fryer, B.J. & markham, J.l. 2009. chemical analysis of endolymph and the growing otolith: frac-
+tionation of metals in freshwater ish species. Environmental Toxicology and Chemistry 28, 1279–1287.
+merritt, D.a., Brand, w.a. & Hayes, J.m. 1994.  Isotope- ratio- monitoring gas  chromatography- mass spectrom-
+etry: methods for isotopic calibration. Organic Geochemistry 21, 573–583.
+michener, R.H. & Schell, D.m. 1994. Stable isotope ratios as tracers in marine aquatic food webs. In Stable 
+Isotopes in Ecology and Environmental Science, K. lajtha & R.H. michener (eds). Boston: Blackwell 
+Scientiic, 138–157.
+miller, T.w., Omori, K., Hamaoka, H., Shibata, J.y. & Hidejiro, O. 2010. Tracing anthropogenic inputs to produc-
+tion in the Seto Island Sea, Japan—a stable isotope approach. Marine Pollution Bulletin 60, 1803–1809.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+368
+millero, F., lee, K. & wanninkhof, R. 1998. carbon dioxide, hydrographic, and chemical data obtained 
+during the R/v Ronald Brown in the atlantic Ocean during wOcE Section aR01(a05) (23 January– 
+24 February, 1998). Online. http://cdiac.ornl.gov/ftp/oceans/ar01woce/. carbon Dioxide Information 
+analysis center, Oak Ridge National laboratory, U.S. Department of Energy, Oak Ridge, Tennessee. 
+doi:10.3334/cDIac/otg.wOcE_a05_1998.
+minagawa, m. & wada, E. 1984. Stepwise enrichment of 15N along food chains: further evidence and the rela-
+tions between δ15N and animal age. Geochimica et Cosmochimica Acta 48, 1135–1140.
+mizutani, H., Kabaya, y. & wada, E. 1991. Nitrogen and carbon isotope compositions relate linearly in cormo-
+rant tissues and its diet. Isotopenpraxis 27, 166–168.
+montoya, J.P., carpenter, E.J. & capone, D.g. 2002. Nitrogen ixation and nitrogen isotope abundances in 
+zooplankton of the oligotrophic North atlantic. Limnology and Oceanography 47, 1617–1628.
+mook, w.g. 1986. 13c in atmospheric cO2. Netherlands Journal of Sea Research 20, 211–223.
+mook, w.g. & vogel, J.c. 1968. Isotopic equilibrium between shells and their environment. Science 159, 
+874–875.
+morris, J.g. 1985. Nutritional and metabolic responses to arginine deiciency in carnivores. Journal of Nutrition 
+115, 524–531.
+mountfort, D.O., campbell, J. & clements, K.D. 2002. Hindgut fermentation in three species of marine her-
+bivorous ish. Applied and Environmental Microbiology 68, 1374–1380.
+muhlfeld, c.c., Thorrold, S.R., mcmahon, T.E. & marotz, B. 2012. Estimating trout movements in a river 
+network using strontium isoscapes. Canadian Journal of Fisheries and Aquatic Sciences 69, 906–915.
+mullin, m.m., Rau, g.H. & Eppley, R.w. 1984. Stable nitrogen isotopes in zooplankton: some geographic and 
+temporal variations in the North Paciic. Limnology and Oceanography 29, 1267–1273.
+murayama, E. 2000. Review of the growth regulation processes of otolith daily increment formation. Fisheries 
+Research 46, 53–67.
+Neretin, l.N., Bottcher, m.E. & grinenko, v.a. 2003. Sulfur isotope geochemistry of the Black Sea water 
+column. Chemical Geology 200, 59–69.
+Newsome, S.D., Fogel, m.l., Kelly, l. & martinez del Rio, c. 2011. contribution of direct incorporation from 
+diet and microbial amino acids to protein synthesis in Nile tilapia. Functional Ecology 25, 1051–1062.
+Nydal, R. 1998. carbon-14 measurements in surface water cO2 from the atlantic, Indian and Paciic Oceans, 
+1965–1994. In Carbon Dioxide Information Analysis Center, a.l. Brenkert & T.a. Boden (eds). Oak 
+Ridge, Tennessee: Oak Ridge National laboratory, ORNl/cDIac-104, NDP-057a.
+Nyssen, F., Brey, T., lepoint, g., Bouquegneau, J.m., De Broyer, c. & Dauby, P. 2002. a stable isotope approach 
+to the eastern weddell Sea trophic web: focus on benthic amphipods. Polar Biology 25, 280–287.
+O’Brien, D.m., Boggs, c.l. & Fogel, m.l. 2003. Pollen feeding in the butterly Heliconius charitonia: isoto-
+pic evidence for essential amino acid transfer from pollen to eggs. Proceedings of the Royal Society of 
+London B 270, 2631–2636.
+Olive, P.J.w., Pinnegar, K.J., Polunin, N.v.c., Richards, g. & welch, R. 2003. Isotope  trophic- step fraction-
+ation: a dynamic equilibrium model. Journal of Animal Ecology 72, 608–617.
+Olson, R.J., Popp, B.N., graham, B.S.,  lópez- Ibarra, g.a.,  galván- magaña, F.,  lennert- cody, c.E., 
+ Bocanegra- castillo, N., wallsgrove, N.J., gier, E.,  alatorre- Ramírez, v., Ballance, l.T. & Fry, B. 2010. 
+Food web inferences of stable isotope spatial patterns in copepods and yellowin tuna in the pelagic east-
+ern Paciic Ocean. Progress in Oceanography 86, 124–138.
+O’Reilly, c.m., Hecky, R.E., cohen, a.S. & Plisnier, P.D. 2002. Interpreting stable isotopes in food webs: 
+recognizing the role of time averaging at different trophic levels. Limnology and Oceanography 47, 
+306–309.
+Ostlund, H.g., Doresy, H.g. & Rooth, c.g. 1974. gEOSEcS North atlantic radiocarbon and tritium results. 
+Earth and Planetary Science Letters 23, 69–86.
+Ostrom, N.E., macko, S.a., Deibel, D. & Thrompson, R.J. 1997. Seasonal variation in the stable carbon and 
+nitrogen isotope biogeochemistry of a coastal cold ocean environment. Geochimica et Cosmochimica 
+Acta 61, 2929–2942.
+Pajuelo, m., Bjorndal, K.a.,  alfaro- Shigueto, J., Seminoff, J.a., mangel, J.c. & Bolten, a.B. 2010. Stable iso-
+tope variation in loggerhead turtles reveals  Paciic- atlantic oceanographic differences. Marine Ecology 
+Progress Series 417, 277–285.
+Pancost, R.D., Freeman, K.H., wakeham, S.g. & Roberston, c.y. 1997. controls on carbon isotope fraction-
+ation by diatoms in the Peru upwelling region. Geochimica et Cosmochimica Acta 61, 4983–4991.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+369
+Parkington, J. 1991. approaches to dietary reconstruction in the western cape: are you what you have eaten? 
+Journal of Archaeological Science 18, 331–342.
+Pearcy, w.g. & Stuiver, m. 1983. vertical transport of carbon-14 into  deep- sea food webs.  Deep- Sea Research 
+30, 427–440.
+Peterson, B.J. & Fry, B. 1987. Stable isotopes in ecosystem studies. Annual Review of Ecology and Systematics 
+18, 293–320.
+Peterson, B.J. & Howarth, R.w. 1987. Sulfur, carbon, and nitrogen isotopes used to trace organic matter low 
+in the  salt- marsh estuaries of Sapelo Island, georgia. Limnology and Oceanography 32, 1195–1213.
+Peterson, B.J., Howarth, R.w. & garritt, R.H. 1985. multiple stable isotopes used to trace the low of organic 
+matter in estuarine food webs. Science 227, 1361–1363.
+Peterson, B.J., Howarth, R.w. & garritt, R.H. 1986. Sulfur and carbon isotopes as tracers of  salt- marsh organic 
+matter low. Ecology 67, 865–874.
+Petursdottir, H.,  Falk- Petersen, S., Hop, H. & gislason, a. 2010. Calanus inmarchicus along the northern 
+ mid- atlantic Ridge: variation in fatty acid and alcohol proiles and stable isotope values, δ15N and δ13c. 
+Journal of Plankton Research 32, 1067–1077.
+Petursdottir, H., gislason, a.,  Falk- Petersen, S., Hop, H. & Svavarsson, J. 2008. Trophic interactions of the 
+pelagic ecosystem over the Reykjanes Ridge as evaluated by fatty acids and stable isotope analyses. 
+ Deep- Sea Research II 55, 83–93.
+Pinnegar, J.K., Polunin, N.v.c., Francour, P., Badalamenti, F., chemello, R.,  Harmelin- vivien, m.-l., Hereu, 
+B., milazzo, m., Zabala, m., D’anna, g. & Pipitone, c. 2000. Trophic cascades in benthic marine eco-
+systems: lessons for isheries and  protected- area management. Environmental Conservation 27, 179–200.
+Polunin, N.v.c.,  morales- Nin, B., Pawsey, w.E., cartes, J.E., Pinnegar, J.K. & moranta, J. 2001. Feeding rela-
+tionships in mediterranean bathyal assemblages elucidated by stable nitrogen and carbon isotope data. 
+Marine Ecology Progress Series 220, 13–23.
+Pomerleau, c., winkler, g., Sastri, a.R., Nelson, R.J., vagle, S., lesage, v. & Ferguson, S.H. 2011. Spatial pat-
+terns in zooplankton communities across the eastern canadian  sub- arctic and arctic waters: insights from 
+stable carbon (δ13c) and nitrogen (δ15N) isotope ratios. Journal of Plankton Research 33, 1779–1792.
+Popp, B.N., graham, B.S., Olson, R.J., Hannides, c.c.S., lott, m.J.,  lopez- Ibarra, a.,  galvan- magana, F. & 
+Fry, B. 2007. Insight into the trophic ecology of yellowin tuna, Thunnus albacares, from  compound- speciic 
+nitrogen isotope analysis of proteinaceous amino acids. In Stable Isotopes as Indicators of Ecological 
+Change, T.D. Dawson & R.T.w. Siegwolf (eds). amsterdam: Elsevier/academic Press, 173–190.
+Popp, B.N., Trull, T., Kenig, F., wakeham, S.g., Rust, T.m., Tilbrook, B., grifiths, B., wright, S.w., marchant, 
+H.J., Bidigare, R.R. & laws, E.a. 1999. controls on the carbon isotopic composition of Southern Ocean 
+phytoplankton. Global Biogeochemical Cycles 13, 827–843.
+Post, D.m. 2002. Using stable isotopes to estimate trophic position: models, methods, and assumptions. 
+Ecology 83, 703–718.
+Post, D.m., layman, c.a., albrey arrington, D., Takimoto, g., Quattrochi, J. & montaña, c.g. 2007. getting 
+to the fat of the matter: models, methods and assumptions for dealing with lipids in stable isotope analy-
+sis. Oecologica 152, 179–189.
+Quay, P., Sonnerup, R., westby, T., Stutsman, J. & mcNichol, a. 2003. changes in the 13c/12c of dissolved 
+inorganic carbon in the ocean as a tracer of anthropogenic cO2 uptake. Global Biogeochemical Cycles 
+17, g1004, doi:10.1029/2001gB001817.
+Quillfeldt, P., mcgill, R.a.R. & Furness, R.w. 2005. Diet and foraging areas of Southern Ocean seabirds and 
+their prey inferred from stable isotopes: review and case study of wilson’s  storm- petrel. Marine Ecology 
+Progress Series 295, 295–304.
+Rau, g.H., Karl, D.m. & carney, R.S. 1986. Does inorganic carbon assimilation cause 14c depletion in  deep- sea 
+organisms?  Deep- Sea Research 33, 349–357.
+Rau, g.H., mearns, a.J., young, D.R., Olson, R.J., Schager, H.a. & Kaplan, I.R. 1983. animal 13c/12c cor-
+relates with trophic level in pelagic food webs. Ecology 64, 1314–1318.
+Rau, g.H., Ohman, m.D. &  Pierrot- Bults, a. 2003. linking nitrogen dynamics to climate variability off cen-
+tral california: a 51 year record based on 15N/14N in calcOFI zooplankton.  Deep- Sea Research II 50, 
+2431–2477.
+Rau, g.H., Sweeney, R.E. & Kaplan, I.R. 1982. Plankton 13c:12c ratio changes with latitude: differences 
+between northern and southern oceans.  Deep- Sea Research 29, 1035–1039.
+Reeds, P. 2000. Dispensable and indispensable amino acids for humans. Journal of Nutrition 130, 1835S–1840S.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+370
+Rees, c.E., Jenkins, w.J. & monster, J. 1978. The sulphur isotopic composition of ocean water sulphate. 
+Geochimica et Cosmochimica Acta 42, 377–381.
+Richardson, c.a. 1988. Exogenous and endogenous rhythms of band formation in the shell of the clam Tapes 
+philippinarum (adams et Reeve, 1850). Journal of Experimental Marine Biology and Ecology 122, 
+105–126.
+Richoux, N.B. & Froneman, P.w. 2009. Plankton trophodynamics at the subtropical convergence, Southern 
+Ocean. Journal of Plankton Research 31, 1059–1073.
+Riera, P. & Richard, P. 1997. Temporal variation of δ13c in particulate organic matter and oyster Crassostrea 
+gigas in  marennes- Oleron Bay (France): effect of freshwater inlow. Marine Ecology Progress Series 
+147, 105–115.
+ Rivera- Duarte, I. & Flegal, a.R. 1994. Benthic lead luxes in San Francisco Bay, california, USa. Geochemica 
+et Cosmochimica Acta 58, 3307–3313.
+Rodelli, m.R., gearing, J.N., gearing, P.J., marshall, N. & Sasekumar, a. 1984. Stable isotope ratio as a tracer 
+of mangrove carbon in malaysian ecosystems. Oecologia 61, 326–333.
+Rohling, E.J. & Rijk, S.D. 1999. Holocene climate optimum and last glacial maximum in the mediterranean: 
+the marine oxygen isotope record. Marine Geology 153, 57–75.
+Rubenstein, D.R. & Hobson, H.a. 2004. From birds to butterlies: animal movement patterns and stable iso-
+topes. Trends in Ecology and Evolution 19, 256–263.
+Sackett, w.m., Eckelmann, w.R., Bender, m.l. & Be, a.w.H. 1965. Temperature dependence of carbon iso-
+tope composition in marine plankton and sediments. Science 148, 235–237.
+Saino, T. & Hattori, a. 1980. 15N natural abundance in oceanic suspended particulate matter. Nature 283, 
+752–754.
+Saino, T. & Hattori, a. 1987. geographical variation of the water column distribution of suspended particulate 
+organic nitrogen and its 15N natural abundance in the Paciic and its marginal seas.  Deep- Sea Research 
+34, 807–827.
+Sato, T., Sasaki, H. & Fukuchi, m. 2002. Stable isotopic compositions of overwintering copepods in the arctic 
+and Subarctic waters and implications to the feeding history. Journal of Marine Systems 38, 165–174.
+Schell, D.m., Barnett, B.a. & vinette, K.a. 1998. carbon and nitrogen isotope ratios in zooplankton of the 
+Bering, chukchi and Beaufort seas. Marine Ecology Progress Series 162, 11–23.
+Schell, D.m., Saupe, S.m. & Haubenstock, N. 1989. Bowhead whale (Balaena mysticetus) growth and feeding 
+as estimated by δ13c techniques. Marine Biology 103, 433–443.
+Schlitzer, R. 2002. Interactive analysis and visualization of geoscience data with Ocean Data view. Computers 
+and Geosciences 28, 1211–1218.
+Schlitzer, R. 2011. Ocean Data View. Paris:  alfred- wegener- Institute for Polar and marine Research. Online. 
+http://odv.awi.de (accessed 1 august 2012).
+Schmidt, K., atkinson, a., Stubing, D., mcclelland, J.w., montoya, J.P. & voss, m. 2003. Trophic relation-
+ships among Southern Ocean copepods and krill: some uses and limitation of a stable isotope approach. 
+Limnology and Oceanography 48, 277–289.
+Schmidt, g.a., Bigg, g.R. & Rohling, E.J. 1999. Global Seawater Oxygen-18 Database—v1.21. New york: 
+National aeronautics and Space administration. Online. http://data.giss.nasa.gov/o18data (accessed 
+1 august 2012).
+Schmidt, K., mcclelland, J.w., mente, E., montoya, J.P., atkinson, a. & voss, m. 2004.  Trophic- level inter-
+pretation based on δ15N values: implications of  tissue- speciic fractionation and amino acid composition. 
+Marine Ecology Progress Series 266, 43–58.
+Schmittner, a., Oschlies, a., matthews, H.D. & galbraith, E.D. 2008 Future changes in climate, ocean circula-
+tion, ecosystems, and biogeochemical cycling simulated for a  business- as- usual cO2 emission scenario 
+until year 4000 aD. Global Biogeochemical Cycles 22, gB1013.
+Schwarcz, H.P. 1991. Some theoretical aspects of isotope paleodiet studies. Journal of Archaeological Science 
+18, 261–275.
+Schwarcz, H.P. & Schoeninger, m.J. 1991. Stable isotope analyses in human nutritional ecology. American 
+Journal of Physical Anthropology 34, 283–321.
+Scott, J.H., O’Brien, D.m., Emerson, D., Sun, H., mcDonald, g.D., Salgado, a. & Fogel, m.l. 2006. an exam-
+ination of the carbon isotope effects associated with amino acid biosynthesis. Astrobiology 6, 867–880.
+Sessions, a.l. 2006.  Isotope- ratio detection for gas chromatography. Journal of Separation Science 29, 
+1946–1961.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+371
+Sessions, a.l., Sylva, S.P. & Hayes, J.m. 2005.  moving- wire device for carbon isotopic analyses of nanogram 
+quantities of nonvolatile organic carbon. Analytical Chemistry 77, 6519–6527.
+Shadsky, I.P., Romankevich, E.a. & grinchenko, y.I. 1982. Isotopic composition of carbon in lipids from sus-
+pended matter and bottom sediments east of the Kuril Islands. Oceanology 22, 301–304.
+Shen, g.T. & Boyle, E.a. 1987. lead in corals: reconstruction of historical industrial luxes to the surface 
+ocean. Earth and Planetary Science Letters 82, 289–304.
+Shen, g.T. & Stanford, c.l. 1990. Trace element indicators of climate change in  annually- banded corals. In 
+Global Consequences of the 1982–83 El Nino, P.w. glynn (ed.). New york: Elsevier, 255–283.
+Sherwood, O.a., lehmann, m.F., Schubert, c.J., Scott, D.B. & mccarthy, m.D. 2011. Nutrient regime shift 
+in the western North atlantic indicated by  compound- speciic δ15N of  deep- sea gorgonian corals. 
+Proceedings of the National Academy of Sciences USA 108, 1011–1015.
+ Sholto- Douglas, a.D., Field, J.g. & James, a.g. 1991. 13c/12c and 15N/14N isotope ratios in the Southern 
+Benguela ecosystem: indicators of food web relationships among different  size- classes of plankton and 
+pelagic ish; differences between ish muscle and bone collagen tissues. Marine Ecology Progress Series 
+78, 23–31.
+Siegenthaler, U. 1989. carbon-14 in the oceans. In Handbook of Environmental Isotope Geochemistry, P. Fritz 
+& J.c. Fontes (eds). New york: Elsevier, 3, 75–137.
+Sigman, D.m., altabet, m.a., mccorkle, D.c., Francois, R. & Fisher, g. 1999. The δ15N of nitrate in the 
+Southern Ocean: consumption of nitrate in surface waters. Global Biogeochemical Cycles 113, 
+1149–1166.
+Simenstad, c.a. & wissmar, R.c. 1985. δ13c evidence of the origins and fates of organic carbon in estuarine 
+and nearshore food webs. Marine Ecology Progress Series 22, 141–152.
+Smith, S.l., Hendrichs, S.m. & Rho, T. 2002. Stable c and N isotopic composition of sinking particles and 
+zooplankton over the southeastern Bering Sea shelf.  Deep- Sea Research 49, 6031–6050.
+Solomon, c.T., cole, J.J., Doucett, R.R., Pace, m.l., Preston, N.D., Smith, l.E. & weidel, B.c. 2009. The 
+inluence of environmental water on the hydrogen stable isotope ration in aquatic consumers. Oecologia 
+161, 313–324.
+Somes, c.J., Schmittner, a., galbraith, E.D., lehmann, m.F., altabet, m.a., montoya, J.P., letelier, R.m., 
+mix, a.c., Bourbonnais, a. & Eby, m. 2010. Simulating the global distribution of nitrogen isotopes in 
+the ocean. Global Biogeochemical Cycles 24, gB4019.
+Sommer, F., Saage, a., Santer, B., Hansen, T. & Sommer, U. 2005. linking foraging strategies of marine cala-
+noid copepods to patterns of nitrogen stable isotope signatures in a mesocosm study. Marine Ecology 
+Progress Series 286, 99–106.
+Sonntag, c., münnich, K.O., Jacob, H. & Rozanski, K. 1983. variations of deuterium and oxygen-18 in con-
+tinental precipitation and groundwater, and their causes. In Variations in the Global Water Budget, 
+a.  Street- Perrott & a. Beran (eds). amsterdam: Reidel,107–124.
+Sotiropoulos, m.a., Tonn, w.m., wassenaar, l.I. 2004. Effects of lipid extraction on stable carbon and nitrogen 
+isotope analyses of ish tissues: potential consequences for food web studies. Ecology of Freshwater Fish 
+13, 155–160.
+Sternberg, l.S.l. 1988. D/H ratios of environmental water recorded by D/H ratios of plant lipids. Nature 333, 
+59–61.
+Stott, a.w., Evershed, R.P. & Tuross, N. 1997.  compound- speciic approach to the δ13c analysis of cholesterol 
+in fossil bones. Organic Geochemistry 26, 99–103.
+Stowasser, g., atkinson, a., mcgill, R.a.R., Phillips, R.a., collins, m.a. & Pond, D.w. 2012. Food web 
+dynamics in the Scotia Sea in summer: a stable isotope study.  Deep- Sea Research II 59–60, 208–221.
+Stuck, U., Emeis,  K- c., vob, m., Krom, m.D. & Rau, g.H. 2001. Biological productivity during sapropel 
+S5 formation in the eastern mediterranean Sea: evidence from stable isotopes of nitrogen and carbon. 
+Geochimica et Cosmochimica Acta 65, 3249–3266.
+Stuiver, m., Ostlund, H.g. & mcconnaughey, T.a. 1981. gEOSEcS atlantic and Paciic 14c distribution. In 
+Carbon Cycle Modeling, B. Bolin (ed.). New york: wiley, 201–222.
+Suess, H.E. 1955. Radiocarbon concentration in modern wood. Science 122, 415–417.
+Sunda, w.g. & Huntsman, S.a. 1988. Effects of sunlight on redox cycles of manganese in the southwestern 
+Sargasso Sea.  Deep- Sea Research 35, 1297–1317.
+Surge, D.m. & lohmann, K.c. 2002. Temporal and spatial differences in salinity and water chemistry in Sw 
+Florida estuaries: effects of  human- impacted watersheds. Estuaries 25, 393–408.
+
+KElTON w. mcmaHON, lI lINg HamaDy & SImON R. THORROlD
+372
+Swart, P.K., Thorrold, S., Rosenheim, B., Eisenhauer, a., Harrison, c.g.a., grammer, m. & latkoczy, c. 2002. 
+ Intra- annual variation in stable oxygen and carbon and trace element composition in sclerosponges. 
+Paleoceanography 17,1045, doi:10.1029/2000Pa000622.
+Sweeting, c.J., Polunin, N.v.c. & Jennings, S. 2006. Effects of chemical lipid extraction and arithmetic lipid 
+correction on stable isotope ratios of ish tissues. Rapid Communications in Mass Spectrometry 20, 
+595–601.
+Sydeman, w.J., Hobson, K.a., Pyle, P. & mclaren, E.B. 1997. Trophic relationships among seabirds in central 
+california: combined stable isotope and conventional dietary approach. The Condor 99, 327–336.
+Tamelander, T., Renaud, P.E., Hop, H., carroll, m.l., ambrose, w.g. & Hobson, K.a. 2006. Trophic relation-
+ships and  pelagic- benthic coupling during summer in the Barents Sea marginal Ice Zone, revealed by 
+stable carbon and nitrogen isotope measurements. Marine Ecology Progress Series 310, 33–46.
+Tanner, S.E., Reis-Santos, P., vasconcelos, R.P., Fonseca, v., Franca, S., cabral, H.N. & Thorrold, S.R. 2013. 
+Does otolith geochemistry record ambient environmental conditions in a temperate tidal estuary? Journal 
+of Experimental Marine Biology and Ecology 441, 7–15.
+Tanz, N. & Schmidt, H.l. 2010. δ34S value measurements in food origin assignments and sulphur isotope frac-
+tionations in plants and animals. Journal of Agricultural Food Chemistry 58, 3139–3146.
+Tarroux, a., Ehrich, D., lecomte, N., Jardine, T.D., Bety, J. & Berteaux, D. 2010. Sensitivity of stable isotope 
+mixing models to variation in isotopic ratios: evaluating consequences of lipid extraction. Methods in 
+Ecology and Evolution 1, 231–241.
+Thayer, g.w., govoni, J.J. & connally, D.w. 1983. Stable carbon isotope ratios of the planktonic food web in 
+the northern gulf of mexico. Bulletin of Marine Science 33, 247–256.
+Thode, H.g., monster, J. & Dunford, H.B. 1961. Sulphur isotope geochemistry. Geochimica et Cosmochimica 
+Acta 25, 150–174.
+Thorrold, S.R., campana, S.E., Jones, c.m. & Swart, P.K. 1997. Factors determining δ13c and δ18O fraction-
+ation in aragonitic otoliths of marine ish. Geochimica et Cosmochimica Acta 61, 2909–2919.
+Thorrold, S.R., Jones, g.P., Hellberg, m.E., Burton, R.S., Swearer, S.E., Niegel, J.E., morgan, S.g. & warner, 
+R.R. 2002. Quantifying larval retention and connectivity in marine populations with artiicial and natural 
+markers. Bulletin of Marine Science 70, 291–308.
+Thorrold, S.R. & Swearer, S.E. 2009. Otolith chemistry. In Tropical Fish Otoliths: Information for Assessment, 
+Management and Ecology, B.S. green et al. (eds). Berlin: Springer, 249–295.
+Tieszen, l.l., Boutton, T.w., Tesdahl, K.g. & Slade, N.a. 1983. Fractionation and turnover of stable carbon 
+isotopes in animal tissues: implications for δ13c analysis of diet. Oecologia 57, 32–37.
+Tillett, B.J., meekan, m.g., Parry, D., munksgaard, m., Field, I.c., Thorburn, D. & Bradshaw, c.J.a. 2011. 
+Decoding ingerprints: elemental composition of vertebrae correlates to  age- related habitat use in two 
+morphologically similar sharks. Marine Ecology Progress Series 434, 133–142.
+Tittlemier, S.a., Risk, a.T., Hobson, K.a. & Norstrom, R.J. 2000. Examination of the bioaccumulation of 
+halogenated dimethyl bipyrroles in an arctic marine food web using stable nitrogen isotope analysis. 
+Environmental Pollution 116, 85–93.
+Uhle, m.E., macko, S.a., Spero, S.a., Engel, m.H. & lea, D.w. 1997. Sources of carbon and nitrogen in 
+modern plankton Foraminifera: the role of algal symbionts as determined by bulk and compound speciic 
+stable isotope analysis. Organic Geochemistry. 27, 103–113.
+Urey, H.c. 1947. The thermodynamic properties of isotopic substances. Journal of the Chemical Society of 
+London 1947, 562–581.
+vanderklift, m.a. & Ponsard, S. 2003. Sources of variation in  consumer- diet δ15N enrichment: a  meta- analysis. 
+Oecologia 136, 169–182.
+vander Zanden, m.J. & Rasmussen, J.B. 2001. Trophic fractionation: implications for aquatic food web stud-
+ies. Limnology and Oceanography 46, 2061–2066.
+van woesik, R., Tomascik, T. & Blake, S. 1999. coral assemblages and  physico- chemical characteristics of 
+the whisunday Islands: evidence of recent community change. Marine and Freshwater Research 50, 
+427–440.
+villinski, J.c., Dunbar, R.B. & mucciarone, D.a. 2000. carbon12/carbon13 ratios of sedimentary organic mat-
+ter from the Ross Sea, antarctica: a record of phytoplankton bloom dynamics. Journal of Geophysical 
+Research 105, 14163–14172.
+
+OcEaN EcOgEOcHEmISTRy: a REvIEw
+373
+vizzini, S. & mazzola, a. 2003. Seasonal variations in the stable carbon and nitrogen isotope ratios. 13c/12c and 
+15N/14N of primary producers and consumers in a western mediterranean coastal lagoon. Marine Biology 
+142, 1009–1018.
+wada, E. & Hattori, a. 1976. Natural abundance of 15N in particulate organic matter in the North Paciic Ocean. 
+Geochimica et Cosmochimica Acta 40, 249–251.
+wada, E., Terazaki, m., Kabaya, y. & Nemoto, T. 1987. 15N and 13c abundances in the antarctic Ocean with 
+emphasis on the biogeochemical structure of the food web.  Deep- Sea Research A 34, 829–841.
+wakabayashi, y., yamada, E., yoshida, T. & Takahashi, H. 1994. arginine becomes an essential amino acid 
+after massive resection of rat small intestine. Journal of Biological Chemistry 269, 32667–32671.
+walther, B.D. & limburg, K. 2012. The use of otolith chemistry to characterize diadromous migrations. 
+Journal of Fish Biology 81, 796–825.
+warnken, K.w., gill, g.a., grifin, l.l. & Santschi, P.H. 2001.  Sediment- water exchange of mn, Fe, Ni and 
+Zn in galveston Bay, Texas. Marine Chemistry 73, 215–231.
+waser, N.a.D., Harrison, w.g., Head, E.J.H., Nielsen, B., lutz, v.a. & calvert, S.E. 2000. geographic varia-
+tions in the nitrogen isotope composition of surface particulate nitrogen and new nitrogen production 
+across the North atlantic Ocean.  Deep- Sea Research I 27, 1207–1226.
+watabe, N., Tanaka, K., yamada, J. & Dean, J.m. 1982. Scanning electron microscope observations of the 
+organic matrix in the otolith of the teleost ish Fundulus heteroclitus (linnaeus) and Tilapia nilotica 
+(linnaeus). Journal of Experimental Marine Biology and Ecology 58, 127–134.
+weidman, c.R. & Jones, g.a. 1993. a  shell- derived time history of bomb 14c on georges Bank and its labrador 
+Sea implications. Journal of Geophysical Research 98, 14577–14588.
+weiss, R.F. 1974. carbon dioxide in water and seawater: the solubility of a  non- ideal gas. Marine Chemistry 
+2, 203–215.
+werstiuk, N.H. & Ju, c. 1989.  Protium- deuterium exchange of  benzo- substituted heterocycles in neutral D2O 
+at elevated temperatures. Canadian Journal of Chemistry 67, 812–815.
+west, J., Bowen, g.J., Dawson, T.E. & Tu, K.P. 2010. Isoscapes: Understanding Movement, Pattern and 
+Process on Earth Through Isotope Mapping. New york:  Springer- verlag.
+white, J.w.c. 1989. Stable hydrogen isotope ratios in planes: a review of current theory and some potential 
+applications. In Stable Isotopes in Ecological Research, P.w. Rundel (ed.). New york:  Springer- verlag, 
+142–162.
+wu, J., calvert, S.E., wong, c.S. & whitney, F.a. 1999. carbon and nitrogen isotopic composition of sedi-
+menting particulate material at Station Papa in the subarctic northeast Paciic.  Deep- Sea Research II 46, 
+2793–2832.
+wyatt, a.S.J. 2011. Oceanographic ecology of coral reefs: the role of oceanographic processes in  reef- level 
+biogeochmistry and trophic ecology. PhD thesis, Oceans Institute and School of Environmental Systems, 
+University of western australia, Perth.
+yamamuro, m., Kayanne, H. & minagawa, m. 1995. carbon and nitrogen stable isotopes of primary producers 
+in coral reef ecosystems. Limnology and Oceanography 40, 617–621.
+Zacherl, D.c., manríquez, P.H., Paradis, g., Day, R.w., castilla, J.c., warner, R.R., lea, D.w. & gaines, S.g. 
+2003a. Trace elemental ingerprinting of gastropod statoliths to study larval dispersal trajectories. Marine 
+Ecology Progress Series 248, 297–303.
+Zacherl, D.c., Paradis, g. & lea, D.w. 2003b. Barium and strontium uptake in larval protoconch and statolith 
+of the marine neogastropod Kelletia kelletii. Geochimica et Cosmochimica Acta 67, 4091–4099.
+Zeebe, R.E. &  wolf- gladrow, D.a. 2001. CO2 in Seawater: Equilibrium, Kinetics, Isotopes. amsterdam: 
+Elsevier.
+Zhang, J., Quay, P.D. & wilbur, D.O. 1995. carbon isotope fractionation during  gas- water exchange and dis-
+solution of cO2. Geochimica et Cosmochimica Acta 59, 107–114.
+
+
+18°15'00"N
+64°51'0"W 64°49'30"W 64°48'0"W 64°46'30"W 64°45'0"W 64°43'30"W 64°42'0"W
+18°13'30"N
+18°12'00"N
+18°10'30"N
+0
+1
+2
+Kilometers
+24
+Depth (m)
+Density (Fish >29 cm/dam2)
+0.13–0.38
+0.39–0.82
+0.83–1.81
+1.82–3.71
+3.72–8.65
+903
+4
+6
+Colour Figure 10 (Kobara, Heyman, Pittman & Nemeth)
+MCD
+tFSA
+GB
+N
+3
+4
+2
+Kilometers
+1
+0.5
+0
+Colour Figure 11 (Kobara, Heyman, Pittman & Nemeth)
+65°3'0"W
+18°21'0"N
+18°10'0"N
+64°52'0"W
+St. Tomas
+St. John
+VINP
+VICR
+MCD
+Conﬁrmed
+spawning sites
+Grammanik
+Bank
+Potential
+spawning site
+5 km
+0
+64°41'0"W
+Fish Species
+Lutjanus analis
+Mycteroperca venenosa
+Epinephelus guttatus
+Epinephelus striatus
+Acoustic receivers
+Colour Figure 12 (Kobara, Heyman, Pittman & Nemeth)
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–60
+–50
+–40
+–30
+–20
+–10
+0
+10
+δ12HSW (‰)
+Colour Figure 1 (McMahon, Hamady & Thorrold)
+
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–1
+0
+1
+2
+3
+4
+δ13CDIC (‰)
+Colour Figure 2 (McMahon, Hamady & Thorrold)
+0
+1000
+2000
+3000
+4000
+5000
+60°N
+40°N
+20°N
+0°
+(A)
+(B)
+(C)
+20°S
+40°S
+40°N
+20°N
+0°
+20°S
+60°S
+40°S
+0°
+20°S
+60°S
+40°S
+δ13CDIC ()
+–2
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+–1
+0
+1
+2
+Colour Figure 3 (McMahon, Hamady & Thorrold)
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–35
+–25
+–30
+–20
+–15
+–10
+–5
+0
+δ13CPLK (‰)
+Colour Figure 4 (McMahon, Hamady & Thorrold)
+
+200
+150
+100
+50
+0
+∆14C (‰)
+∆14C (‰)
+–50
+–100
+–150
+1930
+1950
+1970
+1970–40
+0
+40
+80
+120
+160
+1960
+Year
+1990
+2010
+Colour Figure 5 (McMahon, Hamady & Thorrold)
+0
+1000
+2000
+3000
+4000
+5000
+60°N
+40°N
+20°N
+0°
+(A)
+(B)
+(C)
+20°S
+40°S
+40°N
+20°N
+0°
+20°S
+40°S
+20°N
+0°
+20°S
+60°S
+40°S
+∆14CSW ()
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+0
+1000
+2000
+3000
+4000
+5000
+Depth (m)
+–300
+–200
+–100
+0
+100
+Colour Figure 6 (McMahon, Hamady & Thorrold)
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–2.5
+0
+5
+2.5
+7.5
+10
+12.5
+15
+δ15NPLK (‰)
+Colour Figure 7 (McMahon, Hamady & Thorrold)
+
+60°N
+30°N
+0°
+30°S
+60°S
+180°W
+90°W
+0°
+90°E
+180°E
+–20
+–15
+–10
+–5
+0
+5
+δ18OSW (‰)
+Colour Figure 8 (McMahon, Hamady & Thorrold)
+10
+(A)
+(B)
+(C)
+∆13C ()
+6
+2
+–2
+–6
+–10
+15
+∆15N ()
+10
+5
+0
+–5
+–10
+10
+∆15N ()
+6
+2
+–2
+–6
+Alanine
+Aspartic Acid
+Glutamic Acid
+Glycine
+Isoleucine
+Leucine
+Phenylalanine
+Proline
+Serine
+Treonine
+Valine
+Colour Figure 9 (McMahon, Hamady & Thorrold)
