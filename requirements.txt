@@ -6,3 +6,9 @@ openpyxl
 xlrd
 matplotlib
 seaborn
+pdfplumber
+tiktoken
+nomic
+chromadb
+ollama
+llama-cpp-python
